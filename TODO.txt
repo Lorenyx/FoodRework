@@ -1,0 +1,21 @@
+Looking over the food spreadsheet, we're certainly missing a few things that are either necessary or will be extremely helpful for configuring balance.
+
+- Extremely important: Column for whether food is ACCESSIBLE in 2.77.5 or not. Lots of disabled food we don't use.
+
+- Important for Progression/Balance: Crafting "Steps". Just like potions list their number of steps, how many different steps does it require?
+Harvesting = 1
+Crafting = 1
+Cooking in furnace = 1
+Pressing = 1
+Millstone = 1
+Killing a mob = 1
+
+(etc)
+
+Multi-part foods should include total # of steps to get to that point.
+
+- Somewhat Important for Progression/Balance: Rare Ingredients? y/n <-- somewhat arbitrary, but still worthwhile for singling out unique food
+
+- Somewhat Important for Progression/Balance: Total # of ingredients
+
+- "Availability" (?) Maybe somewhat arbitrary, but I think important to consider. Carminberries, hawthorne berries, aether berries grow ALL the time super fast, don't care about seasons. Super easy to get. Ptera wings, parasites, slime gummies, also very easy and not season restricted. Most food in the "Super Easy" availability should have some kind of downside or inefficiency, because otherwise a few stacks of them could largely compensate for other foods for lazy players.

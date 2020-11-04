@@ -1,0 +1,1285 @@
+aether_legacy:ambrosium_shard,0,0.6,0,Ambrosium Shard,gemAmbrosium,Aether Legacy,8589,FALSE
+aether_legacy:blue_berry,2,0.6,0,Blue Berry,cropBlueberry,Aether Legacy,8632,FALSE
+aether_legacy:burnt_cockatrice,4,0.1,0,Burnt Kelenk Meat,,Aether Legacy,8723,FALSE
+aether_legacy:candy_cane,2,0.6,0,Candy Cane,,Aether Legacy,8637,FALSE
+aether_legacy:cockatrice,2,0.1,0,Kelenk Meat,listAllchickenraw,Aether Legacy,8722,FALSE
+aether_legacy:cooked_enchanted_cockatrice,10,0.8,0,Cooked Enchanted Kelenk Meat,listAllchickencooked,Aether Legacy,8725,FALSE
+aether_legacy:enchanted_blueberry,8,0.6,0,Enchanted Berry,cropBlueberryEnchanted,Aether Legacy,8633,FALSE
+aether_legacy:enchanted_cockatrice,6,0.6,0,Enchanted Kelenk Meat,listAllchickenraw,Aether Legacy,8724,FALSE
+aether_legacy:ginger_bread_man,2,0.6,0,Ginger Bread Man,,Aether Legacy,8638,FALSE
+aether_legacy:gummy_swet,20,0.6,0,Blue Gummy Swet,,Aether Legacy,8635,TRUE
+aether_legacy:gummy_swet,20,0.6,1,Golden Gummy Swet,,Aether Legacy,8635,TRUE
+aether_legacy:healing_stone,0,0.6,0,Healing Stone,,Aether Legacy,8636,FALSE
+aether_legacy:white_apple,0,0.6,0,White Apple,,Aether Legacy,8634,FALSE
+animania:bacon_omelette,5,0.7,0,Bacon Omelette,,Animania,4454,FALSE
+animania:cheese_omelette,5,0.7,0,Cheese Omelette,,Animania,4455,FALSE
+animania:chocolate_truffle,6,0.7,0,Chocolate Truffle,,Animania,4459,FALSE
+animania:cooked_chevon,4,1,0,Roast Chevon,"foodMeats,listAllmeatcooked",Animania,4483,FALSE
+animania:cooked_frog_legs,5,1,0,Cooked Prime Frog Legs,"foodMeats,listAllfrogcooked,listAllmeatcooked",Animania,4479,FALSE
+animania:cooked_horse,5,1,0,Cooked Horse,"foodMeats,listAllmeatcooked",Animania,4481,FALSE
+animania:cooked_peacock,4,1,0,Roast Peacock,listAllchickencooked,Animania,4487,FALSE
+animania:cooked_prime_bacon,4,1,0,Roast Prime Bacon,"foodBaconCooked,foodMeats,listAllporkcooked",Animania,4468,FALSE
+animania:cooked_prime_beef,5,1,0,Roast Prime Beef,"foodMeats,listAllbeefcooked,listAllmeatcooked",Animania,4462,FALSE
+animania:cooked_prime_chevon,5,1,0,Roast Prime Chevon,"foodMeats,listAllmeatcooked",Animania,4485,FALSE
+animania:cooked_prime_chicken,5,1,0,Roast Prime Chicken,"foodMeats,listAllchickencooked,listAllmeatcooked",Animania,4470,FALSE
+animania:cooked_prime_mutton,5,1,0,Roast Prime Mutton,"foodMeats,listAllmeatcooked,listAllmuttoncooked",Animania,4475,FALSE
+animania:cooked_prime_peacock,5,1,0,Roast Prime Peacock,listAllchickencooked,Animania,4489,FALSE
+animania:cooked_prime_pork,5,1,0,Roast Prime Pork,"foodMeats,listAllmeatcooked,listAllporkcooked",Animania,4466,FALSE
+animania:cooked_prime_rabbit,4,1,0,Roast Prime Rabbit,"foodMeats,listAllmeatcooked",Animania,4477,FALSE
+animania:cooked_prime_steak,5,1,0,Roast Prime Steak,"foodMeats,listAllbeefcooked",Animania,4464,FALSE
+animania:friesian_cheese_wedge,3,0.9,0,Cheese Wedge (Friesian),foodCheese,Animania,4490,FALSE
+animania:goat_cheese_wedge,3,0.9,0,Cheese Wedge (Goat),foodCheese,Animania,4493,FALSE
+animania:holstein_cheese_wedge,3,0.9,0,Cheese Wedge (Holstein),foodCheese,Animania,4491,FALSE
+animania:jersey_cheese_wedge,3,0.9,0,Cheese Wedge (Jersey),foodCheese,Animania,4492,FALSE
+animania:milk_bottle,4,1,0,Bottle of Milk,,Animania,4450,FALSE
+animania:plain_omelette,5,0.6,0,Plain Omelette,,Animania,4456,FALSE
+animania:raw_chevon,1,1,0,Raw Chevon,"foodMeats,listAllmeatraw",Animania,4482,FALSE
+animania:raw_frog_legs,1,1,0,Raw Prime Frog Legs,"listAllfrograw,listAllmeatraw",Animania,4478,FALSE
+animania:raw_horse,1,1,0,Raw Horse,"foodMeats,listAllmeatraw",Animania,4480,FALSE
+animania:raw_peacock,1,1,0,Raw Peacock,listAllchickenraw,Animania,4486,FALSE
+animania:raw_prime_bacon,1,1,0,Raw Prime Bacon,"foodMeats,listAllporkraw",Animania,4467,FALSE
+animania:raw_prime_beef,1,1,0,Raw Prime Beef,"foodMeats,listAllbeefraw,listAllmeatraw",Animania,4461,FALSE
+animania:raw_prime_chevon,1,1,0,Raw Prime Chevon,"foodMeats,listAllmeatraw",Animania,4484,FALSE
+animania:raw_prime_chicken,1,1,0,Raw Prime Chicken,"foodMeats,listAllchickenraw,listAllmeatraw",Animania,4469,FALSE
+animania:raw_prime_mutton,1,1,0,Raw Prime Mutton,"foodMeats,listAllmeatraw,listAllmuttonraw",Animania,4474,FALSE
+animania:raw_prime_peacock,1,1,0,Raw Prime Peacock,listAllchickenraw,Animania,4488,FALSE
+animania:raw_prime_pork,1,1,0,Raw Prime Pork,"foodMeats,listAllmeatraw,listAllporkraw",Animania,4465,FALSE
+animania:raw_prime_rabbit,1,1,0,Raw Prime Rabbit,"foodMeats,listAllmeatraw",Animania,4476,FALSE
+animania:raw_prime_steak,1,1,0,Raw Prime Steak,"foodMeats,listAllbeefraw,listAllmeatraw",Animania,4463,FALSE
+animania:sheep_cheese_wedge,3,0.9,0,Cheese Wedge (Sheep),foodCheese,Animania,4494,FALSE
+animania:super_omelette,5,0.9,0,Super Omelette,,Animania,4452,FALSE
+animania:truffle,2,0.7,0,Truffle,,Animania,4457,FALSE
+animania:truffle_omelette,5,0.8,0,Truffle Omelette,,Animania,4453,FALSE
+animania:truffle_soup,10,0.6,0,Truffle Soup,,Animania,4458,FALSE
+betteranimalsplus:blubber,1,2,0,Blubber,,Better Animals Plus,8446,FALSE
+betteranimalsplus:crab_meat_cooked,5,1.2,0,Cooked Crab Meat,"foodCrabcooked,listAllfishcooked",Better Animals Plus,8470,FALSE
+betteranimalsplus:crab_meat_raw,2,1,0,Raw Crab Meat,"foodCrabraw,listAllfishraw",Better Animals Plus,8469,FALSE
+betteranimalsplus:eel_meat_cooked,4,0.7,0,Cooked Eel Meat,,Better Animals Plus,8480,FALSE
+betteranimalsplus:eel_meat_raw,1,0,0,Raw Eel Meat,,Better Animals Plus,8479,FALSE
+betteranimalsplus:fried_egg,5,1.5,0,Baked Egg,,Better Animals Plus,8481,FALSE
+betteranimalsplus:goatcheese,3,1,0,Goat Cheese,"foodCheese,foodGoatCheese",Better Animals Plus,8448,FALSE
+betteranimalsplus:pheasantcooked,7,1.2,0,Cooked Pheasant,listAllmeatcooked,Better Animals Plus,8450,FALSE
+betteranimalsplus:pheasantraw,3,0,0,Raw Pheasant,listAllmeatraw,Better Animals Plus,8449,FALSE
+betteranimalsplus:turkey_leg_cooked,4,1.2,0,Cooked Turkey Leg,listAllmeatcooked,Better Animals Plus,8478,FALSE
+betteranimalsplus:turkey_leg_raw,2,0,0,Raw Turkey Leg,listAllmeatraw,Better Animals Plus,8477,FALSE
+betteranimalsplus:venisoncooked,8,1.2,0,Cooked Venison,"foodVenisoncooked,listAllmeatcooked,listAllvenisoncooked",Better Animals Plus,8443,FALSE
+betteranimalsplus:venisonraw,4,0,0,Raw Venison,"foodVenisonraw,listAllmeatraw,listAllvenisonraw",Better Animals Plus,8442,FALSE
+betternether:black_apple,6,0.5,0,Black Apple,,Better Nether,4604,FALSE
+betternether:stalagnate_bowl_apple,8,0.6,0,Black Apple,,Better Nether,4609,FALSE
+betternether:stalagnate_bowl_mushroom,6,0.6,0,Mushroom Soup,,Better Nether,4608,FALSE
+betternether:stalagnate_bowl_wart,4,0.6,0,Wart Soup,,Better Nether,4607,FALSE
+betterwithmods:apple_pie,8,0.3,0,Apple Pie,,Better With Mods,5192,FALSE
+betterwithmods:bat_wing,2,0.3,0,Bat Wing,"listAllmeatraw,mulchNitrogen",Better With Mods,5196,FALSE
+betterwithmods:beef_dinner,8,0.6,0,Steak Dinner,,Better With Mods,5175,FALSE
+betterwithmods:beef_potatoes,7,0.5,0,Steak and Potatoes,,Better With Mods,5176,FALSE
+betterwithmods:chicken_soup,8,0.6,0,Chicken Soup,,Better With Mods,5177,FALSE
+betterwithmods:chocolate,2,0.2,0,Chocolate,foodChocolatebar,Better With Mods,5178,FALSE
+betterwithmods:chowder,5,0.6,0,Chowder,,Better With Mods,5179,FALSE
+betterwithmods:cooked_bat_wing,4,0.6,0,Cooked Bat Wing,listAllmeatcooked,Better With Mods,5197,FALSE
+betterwithmods:cooked_egg,3,0.5,0,Cooked Egg,,Better With Mods,5166,FALSE
+betterwithmods:cooked_kebab,8,0.4,0,Kebab,,Better With Mods,5180,FALSE
+betterwithmods:cooked_mystery_meat,6,0.8,0,Cooked Mystery Meat,"foodStewMeat,listAllmeatcooked",Better With Mods,5195,FALSE
+betterwithmods:cooked_omelet,4,1,0,Cooked Mushroom Omelet,,Better With Mods,5170,FALSE
+betterwithmods:cooked_scrambled_egg,5,0.5,0,Cooked Scrambled Eggs,,Better With Mods,5168,FALSE
+betterwithmods:cooked_wolf_chop,8,0.3,0,Cooked Wolf Chop,listAllmeatcooked,Better With Mods,5190,FALSE
+betterwithmods:creeper_oyster,2,0.6,0,Creeper Oyster,,Better With Mods,5163,FALSE
+betterwithmods:donut,2,0.25,0,Donut,foodDonut,Better With Mods,5148,FALSE
+betterwithmods:ham_and_eggs,6,1,0,Ham and Eggs,,Better With Mods,5171,FALSE
+betterwithmods:hearty_stew,10,0.6,0,Hearty Stew,,Better With Mods,5181,FALSE
+betterwithmods:kibble,3,0,0,Kibble,,Better With Mods,5191,FALSE
+betterwithmods:mystery_meat,2,0.3,0,Mystery Meat,"listAllmeat,listAllmeatraw,mulchNitrogen",Better With Mods,5194,FALSE
+betterwithmods:pork_dinner,8,0.6,0,Pork Dinner,,Better With Mods,5183,FALSE
+betterwithmods:raw_egg,2,0.2,0,Raw Egg,listAllegg,Better With Mods,5165,FALSE
+betterwithmods:raw_kebab,4,0.3,0,Uncooked Kebab,,Better With Mods,5182,FALSE
+betterwithmods:raw_omelet,3,0.5,0,Raw Mushroom Omelet,,Better With Mods,5169,FALSE
+betterwithmods:raw_scrambled_egg,4,0.3,0,Raw Scrambled Eggs,,Better With Mods,5167,FALSE
+betterwithmods:tasty_sandwich,7,0.7,0,Foul Sandwich,,Better With Mods,5172,FALSE
+betterwithmods:wolf_chop,3,0.3,0,Wolf Chop,"listAllmeatraw,mulchNitrogen",Better With Mods,5189,FALSE
+betterwithaddons:food_amanita_baked,3,0.2,0,Baked Mushroom,,Better with Addons,5791,FALSE
+betterwithaddons:food_beetroot_baked,5,0.4,0,Baked Beetroot,,Better with Addons,5793,FALSE
+betterwithaddons:food_beetroot_cooked,4,0.5,0,Cooked Beetroot,,Better with Addons,5792,FALSE
+betterwithaddons:food_bowl_rice,9,0.6,0,Bowl of Rice,,Better with Addons,5812,FALSE
+betterwithaddons:food_carrot_baked,4,0.5,0,Baked Carrot,cookedCarrot,Better with Addons,5795,FALSE
+betterwithaddons:food_carrot_cooked,3,0.6,0,Cooked Carrot,cookedCarrot,Better with Addons,5794,FALSE
+betterwithaddons:food_clownfish_cooked,6,0.5,0,Cooked Clownfish,listAllmeatcooked,Better with Addons,5804,FALSE
+betterwithaddons:food_cooked_rice,2,0.3,0,Cooked Rice,,Better with Addons,5811,FALSE
+betterwithaddons:food_egg_cooked,4,0.3,0,Cooked Egg,,Better with Addons,5797,FALSE
+betterwithaddons:food_fugu_sac,2,0.1,0,Fugu Sac,,Better with Addons,5808,FALSE
+betterwithaddons:food_ground_meat,1,0.1,0,Ground Meat,,Better with Addons,5799,FALSE
+betterwithaddons:food_meatballs,3,0.6,0,Meatballs,,Better with Addons,5798,FALSE
+betterwithaddons:food_mulberry,1,0.2,0,Mulberry,,Better with Addons,5810,FALSE
+betterwithaddons:food_mushroom_baked,3,0.2,0,Baked Mushroom,,Better with Addons,5790,FALSE
+betterwithaddons:food_pie_amanita,8,0.3,0,Mushroom Pie,,Better with Addons,5801,FALSE
+betterwithaddons:food_pie_meat,9,0.5,0,Meat Pie,,Better with Addons,5802,FALSE
+betterwithaddons:food_pie_melon,8,0.4,0,Melon Pie,,Better with Addons,5803,FALSE
+betterwithaddons:food_pie_mushroom,8,0.3,0,Mushroom Pie,,Better with Addons,5800,FALSE
+betterwithaddons:food_potato_cooked,4,0.7,0,Cooked Potato,cookedPotato,Better with Addons,5796,FALSE
+betterwithaddons:food_pufferfish_baked,6,0.6,0,Cooked Pufferfish,,Better with Addons,5805,FALSE
+betterwithaddons:food_pufferfish_cooked,4,0.5,0,Cooked Fugu,,Better with Addons,5807,FALSE
+betterwithaddons:food_pufferfish_prepared,2,0.1,0,Fugu,,Better with Addons,5806,FALSE
+betterwithaddons:food_sashimi,2,0.1,0,Sashimi,,Better with Addons,5809,FALSE
+betterwithaddons:laxative,0,0,0,Laxative,,Better with Addons,5813,FALSE
+betterwithaddons:rotten_food,1,0.1,0,Rotten Food,,Better with Addons,5819,FALSE
+biomesoplenty:berries,1,0.1,0,Hawthorn Berry,,Biomes O' Plenty,4268,FALSE
+biomesoplenty:filled_honeycomb,3,0.4,0,Filled Honeycomb,foodFilledhoneycomb,Biomes O' Plenty,4273,FALSE
+biomesoplenty:peach,5,0.2,0,Peach,"cropPeach,listAllfruit",Biomes O' Plenty,4270,FALSE
+biomesoplenty:pear,5,0.3,0,Pear,"cropPear,listAllfruit",Biomes O' Plenty,4269,FALSE
+biomesoplenty:persimmon,5,0.2,0,Persimmon,"cropPersimmon,listAllfruit",Biomes O' Plenty,4271,FALSE
+biomesoplenty:ricebowl,2,0.6,0,Bowl of Rice,foodBowlofrice,Biomes O' Plenty,4275,FALSE
+biomesoplenty:shroompowder,1,0.1,0,Shroom Powder,foodMushroompowder,Biomes O' Plenty,4274,FALSE
+dungeontactics:bottled_milk,0,0.2,0,Bottled Milk,,DungeonTactics,6227,FALSE
+dungeontactics:bread_slice,1,0.2,0,Slice of Bread,,DungeonTactics,6242,FALSE
+dungeontactics:candy_skull,1,0,0,Candy Skull,,DungeonTactics,6274,FALSE
+dungeontactics:cherry_bomb,1,0.2,0,Cherry Bomb,,DungeonTactics,6092,FALSE
+dungeontactics:fire_water,0,0.2,0,Ever-Flowing Fire Water,,DungeonTactics,6169,FALSE
+dungeontactics:fish_flying,3,0.4,0,Flying Fish,,DungeonTactics,6230,FALSE
+dungeontactics:fish_flying_cooked,4,0.6,0,Cooked Flying Fish,,DungeonTactics,6231,FALSE
+dungeontactics:fish_lava,3,0.4,0,Lava Fish,,DungeonTactics,6232,FALSE
+dungeontactics:fish_lava_cooked,4,0.6,0,Cooked Lava Fish,,DungeonTactics,6233,FALSE
+dungeontactics:fish_lung,3,0.4,0,Lung Fish,,DungeonTactics,6236,FALSE
+dungeontactics:fish_lung_cooked,4,0.6,0,Cooked Lung Fish,,DungeonTactics,6237,FALSE
+dungeontactics:fish_muscle,3,0.4,0,Muscle Fish,,DungeonTactics,6234,FALSE
+dungeontactics:fish_muscle_cooked,4,0.6,0,Cooked Muscle Fish,,DungeonTactics,6235,FALSE
+dungeontactics:fish_obsidian,3,0.4,0,Obsidian Fish,,DungeonTactics,6238,FALSE
+dungeontactics:fish_obsidian_cooked,4,0.6,0,Cooked Obsidian Fish,,DungeonTactics,6239,FALSE
+dungeontactics:fish_swift,3,0.4,0,Swift Fish,,DungeonTactics,6228,FALSE
+dungeontactics:fish_swift_cooked,4,0.6,0,Cooked Swift Fish,,DungeonTactics,6229,FALSE
+dungeontactics:fish_tunnel,3,0.4,0,Tunnel Shark,,DungeonTactics,6240,FALSE
+dungeontactics:fish_tunnel_cooked,4,0.6,0,Cooked Tunnel Shark,,DungeonTactics,6241,FALSE
+dungeontactics:glowcurrent,1,0.2,0,Glowcurrent,,DungeonTactics,6094,FALSE
+dungeontactics:incindiberry,1,0.2,0,Incindiberry,,DungeonTactics,6093,FALSE
+dungeontactics:jam,1,0.4,0,Jam,,DungeonTactics,6245,FALSE
+dungeontactics:jam_on_toast,4,0.8,0,Jam on Toast,,DungeonTactics,6246,FALSE
+dungeontactics:mince_pie,1,0,0,Mince Pie,,DungeonTactics,6276,FALSE
+dungeontactics:ration_gold,9,1.4,0,Gold Ration,,DungeonTactics,6249,FALSE
+dungeontactics:ration_iron,9,1.4,0,Iron Ration,,DungeonTactics,6248,FALSE
+dungeontactics:ration_standard,4,0.4,0,Standard Ration,,DungeonTactics,6247,FALSE
+dungeontactics:spidereye_soup,4,1.6,0,Spider Eye Soup,,DungeonTactics,6250,FALSE
+dungeontactics:toast,7,0.8,0,Toast,,DungeonTactics,6243,FALSE
+dungeontactics:toast_slice,3,0.4,0,Slice of Toast,,DungeonTactics,6244,FALSE
+endreborn:food_chorus_soup,5,0.6,0,Chorus Soup,,End: Reborn III,6434,FALSE
+endreborn:food_dragonite_berries,1,0.1,0,Dragonite Berries,,End: Reborn III,6433,FALSE
+endreborn:food_ender_flesh,4,0.4,0,Ender Flesh,,End: Reborn III,6432,FALSE
+mod_lavacow:canebeef,5,0.5,0,The Sandwich Horror,,Fish's Undead Rising,6479,FALSE
+mod_lavacow:canepork,5,0.5,0,Cane Pork,"listAllmeatraw,mulchNitrogen",Fish's Undead Rising,6480,FALSE
+mod_lavacow:canerottenmeat,5,0.5,0,Cane Rotten Flesh,,Fish's Undead Rising,6481,FALSE
+mod_lavacow:cheirolepis,6,0.8,0,Cheirolepis,"fish,listAllfishraw",Fish's Undead Rising,6488,FALSE
+mod_lavacow:cheirolepis_cooked,2,0.1,0,Cooked Cheirolepis,listAllfishcooked,Fish's Undead Rising,6489,FALSE
+mod_lavacow:frozenthigh,10,1.2,0,Frozen Thigh,"listAllmeatraw,mulchNitrogen",Fish's Undead Rising,6495,FALSE
+mod_lavacow:green_bacon_and_eggs,10,1.2,0,Green Eggs and Bacon,,Fish's Undead Rising,6506,FALSE
+mod_lavacow:meatball,2,0.6,0,Meat Ball,listAllmeatcooked,Fish's Undead Rising,6491,FALSE
+mod_lavacow:mimic_claw,3,0.3,0,Mimicrab Claw,foodCrabraw,Fish's Undead Rising,6511,FALSE
+mod_lavacow:mimic_claw_cooked,8,0.8,0,Baked Mimicrab Claw,foodCrabcooked,Fish's Undead Rising,6512,FALSE
+mod_lavacow:mousse,3,0.1,0,Minced meat,"listAllmeatraw,mulchNitrogen",Fish's Undead Rising,6490,FALSE
+mod_lavacow:netherstew,6,0.6,0,Nether Stew,,Fish's Undead Rising,6478,FALSE
+mod_lavacow:parasite_item,2,0.3,0,Parasite,,Fish's Undead Rising,6484,FALSE
+mod_lavacow:parasite_item_cooked,6,0.6,0,Cooked Parasite,,Fish's Undead Rising,6485,FALSE
+mod_lavacow:piranha,2,0.1,0,Piranha,"fish,listAllfishraw",Fish's Undead Rising,6486,FALSE
+mod_lavacow:piranha_cooked,6,0.8,0,Cooked Piranha,listAllfishcooked,Fish's Undead Rising,6487,FALSE
+mod_lavacow:plagued_porkchop,3,0.3,0,Plagued Porkchop,,Fish's Undead Rising,6505,FALSE
+mod_lavacow:ptera_wing,4,0.1,0,Ptera Wing,,Fish's Undead Rising,6523,FALSE
+mod_lavacow:ptera_wing_cooked,8,0.8,0,Fried Ptera Wing,,Fish's Undead Rising,6524,FALSE
+mod_lavacow:sausage_roll,8,0.8,0,Sausage Roll,,Fish's Undead Rising,6529,FALSE
+mod_lavacow:shattered_ice,1,1.8,0,Shattered Ice,,Fish's Undead Rising,6541,FALSE
+mod_lavacow:zombiepiranha_item,2,0.1,0,Frenzy,"fish,listAllfishraw",Fish's Undead Rising,6533,FALSE
+mod_lavacow:zombiepiranha_item_cooked,6,0.8,0,Cooked Frenzy,listAllfishcooked,Fish's Undead Rising,6534,FALSE
+minecraftfuture:suspiciousstew,6,0.6,0,Suspicious Stew,,Future MC,10233,FALSE
+iceandfire:ambrosia,5,0.6,0,Ambrosia,,Ice and Fire,6699,FALSE
+iceandfire:fire_dragon_flesh,8,0.8,0,Fire Dragon Flesh,,Ice and Fire,6676,FALSE
+iceandfire:ice_dragon_flesh,8,0.8,0,Ice Dragon Flesh,,Ice and Fire,6677,FALSE
+iceandfire:pixie_dust,1,0.3,0,Pixie Dust,,Ice and Fire,6696,FALSE
+minecraft:apple,4,0.3,0,Apple,"cropApple,listAllfruit",Minecraft,260,FALSE
+minecraft:baked_potato,5,0.6,0,Baked Potato,cookedPotato,Minecraft,393,FALSE
+minecraft:beef,3,0.3,0,Raw Beef,"foodMeat,listAllbeefraw,listAllmeat,listAllmeatraw,meatBeef,mulchNitrogen",Minecraft,363,FALSE
+minecraft:beetroot,1,0.6,0,Beetroot,"cropBeet,cropBeetroot,foodVegetable,listAllveggie",Minecraft,434,FALSE
+minecraft:beetroot_soup,6,0.6,0,Beetroot Soup,,Minecraft,436,FALSE
+minecraft:bread,5,0.6,0,Bread,"bread,foodBread",Minecraft,297,FALSE
+minecraft:carrot,3,0.6,0,Carrot,"cropCarrot,foodVegetable,listAllveggie",Minecraft,391,FALSE
+minecraft:chicken,2,0.3,0,Raw Chicken,"foodMeat,listAllchickenraw,listAllmeat,listAllmeatraw,meatChicken,mulchNitrogen",Minecraft,365,FALSE
+minecraft:chorus_fruit,4,0.3,0,Chorus Fruit,listAllfruit,Minecraft,432,FALSE
+minecraft:cooked_beef,8,0.8,0,Steak,"foodMeat,foodStewMeat,listAllbeefcooked,listAllmeatcooked,meatBeef",Minecraft,364,FALSE
+minecraft:cooked_chicken,6,0.6,0,Cooked Chicken,"foodMeat,listAllchickencooked,listAllmeatcooked,meatChicken",Minecraft,366,FALSE
+minecraft:cooked_fish,5,0.6,0,Cooked Fish,"foodStewMeat,listAllfishcooked,listAllmeatcooked,meatFish",Minecraft,350,TRUE
+minecraft:cooked_fish,6,0.8,1,Cooked Salmon,"foodStewMeat,listAllfishcooked,listAllmeatcooked,meatFish",Minecraft,350,TRUE
+minecraft:cooked_mutton,6,0.8,0,Cooked Mutton,"foodMeat,foodMuttoncooked,foodStewMeat,listAllmeatcooked,listAllmuttoncooked,meatMutton",Minecraft,424,FALSE
+minecraft:cooked_porkchop,8,0.8,0,Cooked Porkchop,"foodMeat,foodStewMeat,listAllmeatcooked,listAllporkcooked,meatPork",Minecraft,320,FALSE
+minecraft:cooked_rabbit,5,0.6,0,Cooked Rabbit,"foodMeat,foodRabbitcooked,listAllmeatcooked,listAllrabbitcooked",Minecraft,412,FALSE
+minecraft:cookie,2,0.1,0,Cookie,,Minecraft,357,FALSE
+minecraft:fish,2,0.1,0,Raw Fish,"fish,listAllfishfresh,listAllfishraw,listAllmeat,meatFish,mulchNitrogen,salmonRaw",Minecraft,349,TRUE
+minecraft:fish,2,0.1,1,Raw Salmon,"fish,foodSalmonraw,listAllfishfresh,listAllfishraw,listAllmeat,meatFish,mulchNitrogen",Minecraft,349,TRUE
+minecraft:fish,1,0.1,2,Clownfish,"fish,listAllfishfresh,listAllfishraw,mulchNitrogen",Minecraft,349,TRUE
+minecraft:fish,1,0.1,3,Pufferfish,"fish,listAllfishfresh,listAllfishraw,mulchNitrogen",Minecraft,349,TRUE
+minecraft:golden_apple,4,1.2,0,Golden Apple,,Minecraft,322,TRUE
+minecraft:golden_apple,4,1.2,1,Golden Apple,,Minecraft,322,TRUE
+minecraft:golden_carrot,6,1.2,0,Golden Carrot,,Minecraft,396,FALSE
+minecraft:melon,2,0.3,0,Melon,,Minecraft,360,FALSE
+minecraft:mushroom_stew,6,0.6,0,Mushroom Stew,,Minecraft,282,FALSE
+minecraft:mutton,2,0.3,0,Raw Mutton,"foodMeat,foodMuttonraw,listAllmeat,listAllmeatraw,listAllmuttonraw,meatMutton,mulchNitrogen",Minecraft,423,FALSE
+minecraft:poisonous_potato,2,0.3,0,Poisonous Potato,,Minecraft,394,FALSE
+minecraft:porkchop,3,0.3,0,Raw Porkchop,"foodMeat,listAllmeat,listAllmeatraw,listAllporkraw,meatPork,mulchNitrogen",Minecraft,319,FALSE
+minecraft:potato,1,0.3,0,Potato,"cropPotato,foodVegetable,listAllveggie",Minecraft,392,FALSE
+minecraft:pumpkin_pie,8,0.3,0,Pumpkin Pie,,Minecraft,400,FALSE
+minecraft:rabbit,3,0.3,0,Raw Rabbit,"foodMeat,foodRabbitraw,listAllmeat,listAllmeatraw,listAllrabbitraw,mulchNitrogen",Minecraft,411,FALSE
+minecraft:rabbit_stew,10,0.6,0,Rabbit Stew,,Minecraft,413,FALSE
+minecraft:rotten_flesh,4,0.1,0,Rotten Flesh,"meatRotten,mulchNitrogen",Minecraft,367,FALSE
+minecraft:spider_eye,2,0.8,0,Spider Eye,eyeball,Minecraft,375,FALSE
+mowziesmobs:glowing_jelly,1,0.1,0,Luminous Jelly,,Mowzie's Mobs,6976,FALSE
+netherex:congealed_magma_cream,1,0.3,0,Congealed Magma Cream,foodCongealedmagmacream,NetherEx,7007,FALSE
+netherex:enoki_mushroom,3,0.7,0,Enoki Mushroom,"cropEnokimushroom,listAllmushroom,listAllveggie,mushroomAny",NetherEx,7008,FALSE
+netherex:ghast_meat_cooked,8,1,0,Ghast Cytoplasm Mound,"foodMeats,listAllghastcooked,listAllmeatcooked",NetherEx,7006,FALSE
+netherex:ghast_meat_raw,4,0.5,0,Ghast Cytoplasm,"foodMeats,listAllghastraw,listAllmeatraw",NetherEx,7005,FALSE
+harvestcraft:agaveitem,1,0.6,0,Agave,"cropAgave,listAllfruit",Pam's HarvestCraft,8851,FALSE
+harvestcraft:akutuqitem,5,1.2,0,Akutuq,foodAkutuq,Pam's HarvestCraft,9751,FALSE
+harvestcraft:almondbutteritem,1,1.2,0,Almond Butter,"foodAlmondbutter,listAllnutbutter",Pam's HarvestCraft,9560,FALSE
+harvestcraft:almonditem,1,0.6,0,Almond,"cropAlmond,listAllnut",Pam's HarvestCraft,8973,FALSE
+harvestcraft:amaranthitem,1,0.6,0,Amaranth,"cropAmaranth,listAllgrain",Pam's HarvestCraft,8853,FALSE
+harvestcraft:anchovypepperonipizzaitem,13,1.2,0,Anchovy Pepperoni Pizza,foodAnchovypepperonipizza,Pam's HarvestCraft,9948,FALSE
+harvestcraft:anchovyrawitem,1,0.6,0,Raw Anchovy,"fish,foodAnchovyraw,listAllfishfresh,listAllfishraw",Pam's HarvestCraft,10001,FALSE
+harvestcraft:applecideritem,2,1.2,0,Apple Cider,foodApplecider,Pam's HarvestCraft,9526,FALSE
+harvestcraft:applefritteritem,6,1.2,0,Apple Fritter,foodApplefritter,Pam's HarvestCraft,9632,FALSE
+harvestcraft:applejellyitem,2,1.2,0,Apple Jelly,foodApplejelly,Pam's HarvestCraft,9390,FALSE
+harvestcraft:applejellysandwichitem,6,1.2,0,Apple Jelly Sandwich,foodApplejellysandwich,Pam's HarvestCraft,9391,FALSE
+harvestcraft:applejuiceitem,2,1.2,0,Apple Juice,"foodApplejuice,listAlljuice",Pam's HarvestCraft,9111,FALSE
+harvestcraft:applepieitem,5,1.2,0,Apple Pie,foodApplepie,Pam's HarvestCraft,9096,FALSE
+harvestcraft:applesauceitem,2,1.2,0,Apple Sauce,foodApplesauce,Pam's HarvestCraft,9093,FALSE
+harvestcraft:applesmoothieitem,3,1.2,0,Apple Smoothie,"foodApplesmoothie,listAllsmoothie",Pam's HarvestCraft,9594,FALSE
+harvestcraft:applesnowitem,4,1.2,0,Apple Snow,foodApplesnow,Pam's HarvestCraft,9811,FALSE
+harvestcraft:appleyogurtitem,2,1.2,0,Apple Yogurt,"foodAppleyogurt,listAllyogurt",Pam's HarvestCraft,9367,FALSE
+harvestcraft:apricotglazedporkitem,4,1.2,0,Apricot Glazed Pork,foodApricotglazedpork,Pam's HarvestCraft,9457,FALSE
+harvestcraft:apricotitem,1,0.6,0,Apricot,"cropApricot,listAllfruit",Pam's HarvestCraft,8994,FALSE
+harvestcraft:apricotjellyitem,2,1.2,0,Apricot Jelly,foodApricotjelly,Pam's HarvestCraft,9458,FALSE
+harvestcraft:apricotjellysandwichitem,6,1.2,0,Apricot Jelly Sandwich,foodApricotjellysandwich,Pam's HarvestCraft,9459,FALSE
+harvestcraft:apricotjuiceitem,2,1.2,0,Apricot Juice,"foodApricotjuice,listAlljuice",Pam's HarvestCraft,9132,FALSE
+harvestcraft:apricotsmoothieitem,3,1.2,0,Apricot Smoothie,"foodApricotsmoothie,listAllsmoothie",Pam's HarvestCraft,9460,FALSE
+harvestcraft:apricotyogurtitem,2,1.2,0,Apricot Yogurt,"foodApricotyogurt,listAllyogurt",Pam's HarvestCraft,9456,FALSE
+harvestcraft:arrowrootitem,1,0.6,0,Arrowroot,"cropArrowroot,listAllveggie",Pam's HarvestCraft,8855,FALSE
+harvestcraft:artichokeitem,1,0.6,0,Artichoke,"cropArtichoke,listAllgreenveggie,listAllveggie",Pam's HarvestCraft,8801,FALSE
+harvestcraft:asparagusitem,1,0.6,0,Asparagus,"cropAsparagus,listAllgreenveggie,listAllveggie",Pam's HarvestCraft,8739,FALSE
+harvestcraft:asparagusquicheitem,6,1.2,0,Asparagus Quiche,foodAsparagusquiche,Pam's HarvestCraft,9292,FALSE
+harvestcraft:asparagussoupitem,6,1.2,0,Asparagus Soup,foodAsparagussoup,Pam's HarvestCraft,9293,FALSE
+harvestcraft:avocadoburritoitem,8,1.2,0,Avocado Burrito,foodAvocadoburrito,Pam's HarvestCraft,9303,FALSE
+harvestcraft:avocadoitem,1,0.6,0,Avocado,cropAvocado,Pam's HarvestCraft,8955,FALSE
+harvestcraft:babaganoushitem,5,1.2,0,Baba Ganoush,foodBabaganoush,Pam's HarvestCraft,9700,FALSE
+harvestcraft:baconandeggsitem,4,1.2,0,Bacon and Eggs,foodBaconandeggs,Pam's HarvestCraft,9630,FALSE
+harvestcraft:baconcheeseburgeritem,10,1.2,0,Bacon Cheeseburger,foodBaconcheeseburger,Pam's HarvestCraft,9899,FALSE
+harvestcraft:baconmushroomburgeritem,11,1.2,0,Bacon Mushroom Burger,foodBaconmushroomburger,Pam's HarvestCraft,9930,FALSE
+harvestcraft:baconpancakesitem,6,1.2,0,Bacon Pancakes,foodBaconpancakes,Pam's HarvestCraft,9762,FALSE
+harvestcraft:baconwrappedchiliitem,3,1.2,0,Bacon Wrapped Chili,foodBaconwrappedchili,Pam's HarvestCraft,9824,FALSE
+harvestcraft:baconwrappeddatesitem,3,1.2,0,Bacon Wrapped Dates,foodBaconwrappeddates,Pam's HarvestCraft,9479,FALSE
+harvestcraft:bakedalaskaitem,7,1.2,0,Baked Alaska,foodBakedalaska,Pam's HarvestCraft,9812,FALSE
+harvestcraft:bakedbeansitem,4,1.2,0,Baked Beans,foodBakedbeans,Pam's HarvestCraft,9221,FALSE
+harvestcraft:bakedbeetsitem,4,1.2,0,Baked Beets,foodBakedbeets,Pam's HarvestCraft,9258,FALSE
+harvestcraft:bakedcactusitem,1,1.2,0,Baked Cactus,foodBakedcactus,Pam's HarvestCraft,9742,FALSE
+harvestcraft:bakedhamitem,4,1.2,0,Baked Ham,foodBakedham,Pam's HarvestCraft,9153,FALSE
+harvestcraft:bakedsweetpotatoitem,2,1.2,0,Baked Sweet Potato,,Pam's HarvestCraft,9087,FALSE
+harvestcraft:bakedturnipsitem,5,1.2,0,Baked Turnips,foodBakedturnips,Pam's HarvestCraft,9271,FALSE
+harvestcraft:baklavaitem,8,1.2,0,Baklava,foodBaklava,Pam's HarvestCraft,9378,FALSE
+harvestcraft:bambooshootitem,1,0.6,0,Bamboo Shoot,"cropBambooshoot,listAllveggie",Pam's HarvestCraft,8749,FALSE
+harvestcraft:bamboosteamedriceitem,2,1.2,0,Bamboo Steamed Rice,foodBamboosteamedrice,Pam's HarvestCraft,9452,FALSE
+harvestcraft:bananaitem,1,0.6,0,Banana,"cropBanana,listAllfruit",Pam's HarvestCraft,8949,FALSE
+harvestcraft:bananamilkshakeitem,3,1.2,0,Banana Milkshake,foodBananamilkshake,Pam's HarvestCraft,9548,FALSE
+harvestcraft:banananutbreaditem,5,1.2,0,Banana Nut Bread,foodBanananutbread,Pam's HarvestCraft,9309,FALSE
+harvestcraft:bananasmoothieitem,3,1.2,0,Banana Smoothie,"foodBananasmoothie,listAllsmoothie",Pam's HarvestCraft,9310,FALSE
+harvestcraft:bananasplititem,7,1.2,0,Banana Split,foodBananasplit,Pam's HarvestCraft,9308,FALSE
+harvestcraft:bananayogurtitem,2,1.2,0,Banana Yogurt,"foodBananayogurt,listAllyogurt",Pam's HarvestCraft,9311,FALSE
+harvestcraft:bangersandmashitem,9,1.2,0,Bangers and Mash,foodBangersandmash,Pam's HarvestCraft,9527,FALSE
+harvestcraft:barleyitem,1,0.6,0,Barley,"cropBarley,listAllgrain",Pam's HarvestCraft,8741,FALSE
+harvestcraft:bassrawitem,1,0.6,0,Raw Bass,"fish,foodBassraw,listAllfishfresh,listAllfishraw",Pam's HarvestCraft,10002,FALSE
+harvestcraft:battenbergitem,11,1.2,0,Battenberg,foodBattenberg,Pam's HarvestCraft,9922,FALSE
+harvestcraft:batteredsausageitem,7,1.2,0,Battered Sausage,foodBatteredsausage,Pam's HarvestCraft,9528,FALSE
+harvestcraft:bbqchickenbiscuititem,14,1.2,0,BBQ Chicken Biscuit,foodBbqchickenbiscuit,Pam's HarvestCraft,9956,FALSE
+harvestcraft:bbqchickenpizzaitem,9,1.2,0,BBQ Chicken Pizza,foodBbqchickenpizza,Pam's HarvestCraft,9805,FALSE
+harvestcraft:bbqjackfruititem,2,1.2,0,BBQ Jackfruit,"foodBbqjackfruit,listAllporkcooked,listAllporkraw",Pam's HarvestCraft,9820,FALSE
+harvestcraft:bbqplatteritem,14,1.2,0,BBQ Platter,foodBbqplatter,Pam's HarvestCraft,9953,FALSE
+harvestcraft:bbqpotatochipsitem,7,1.2,0,BBQ Potato Chips,foodBbqpotatochips,Pam's HarvestCraft,9676,FALSE
+harvestcraft:bbqpulledporkitem,8,1.2,0,BBQ Pulled Pork,foodBbqpulledpork,Pam's HarvestCraft,9553,FALSE
+harvestcraft:bbqsauceitem,1,1.2,0,BBQ Sauce,foodBbqsauce,Pam's HarvestCraft,9787,FALSE
+harvestcraft:beanburritoitem,7,1.2,0,Bean Burrito,foodBeanburrito,Pam's HarvestCraft,9224,FALSE
+harvestcraft:beanitem,1,0.6,0,Beans,"cropBean,listAllveggie",Pam's HarvestCraft,8811,FALSE
+harvestcraft:beansandriceitem,5,1.2,0,Beans and Rice,foodBeansandrice,Pam's HarvestCraft,9222,FALSE
+harvestcraft:beansontoastitem,10,1.2,0,Beans on Toast,foodBeansontoast,Pam's HarvestCraft,9901,FALSE
+harvestcraft:beefjerkyitem,3,1.2,0,Beef Jerky,foodBeefjerky,Pam's HarvestCraft,9444,FALSE
+harvestcraft:beefwellingtonitem,7,1.2,0,Beef Wellington,foodBeefwellington,Pam's HarvestCraft,9494,FALSE
+harvestcraft:beetburgeritem,13,1.2,0,Beet Burger,foodBeetburger,Pam's HarvestCraft,9947,FALSE
+harvestcraft:beetitem,1,0.6,0,Beet,"cropBeet,foodVegetable,listAllveggie",Pam's HarvestCraft,8759,FALSE
+harvestcraft:beetsaladitem,6,1.2,0,Beet Salad,foodBeetsalad,Pam's HarvestCraft,9256,FALSE
+harvestcraft:beetsoupitem,4,1.2,0,Beet Soup,foodBeetsoup,Pam's HarvestCraft,9257,FALSE
+harvestcraft:bellpepperitem,1,0.6,0,Bellpepper,"cropBellpepper,listAllpepper,listAllveggie",Pam's HarvestCraft,8815,FALSE
+harvestcraft:bentoboxitem,18,1.2,0,Bento Box,foodBentobox,Pam's HarvestCraft,9968,FALSE
+harvestcraft:berrymeringuenestitem,8,1.2,0,Berry Meringue Nest,foodBerrymeringuenest,Pam's HarvestCraft,9813,FALSE
+harvestcraft:berryvinaigrettesaladitem,6,1.2,0,Berry Vinaigrette Salad,foodBerryvinaigrettesalad,Pam's HarvestCraft,9701,FALSE
+harvestcraft:bibimbapitem,8,1.2,0,Bibimbap,foodBibimbap,Pam's HarvestCraft,9807,FALSE
+harvestcraft:biscuititem,5,1.2,0,Biscuit,foodBiscuit,Pam's HarvestCraft,9343,FALSE
+harvestcraft:biscuitsandgravyitem,8,1.2,0,Biscuits and Gravy,foodBiscuitsandgravy,Pam's HarvestCraft,9631,FALSE
+harvestcraft:blackberrycobbleritem,5,1.2,0,Blackberry Cobbler,foodBlackberrycobbler,Pam's HarvestCraft,9354,FALSE
+harvestcraft:blackberryitem,1,0.6,0,Blackberry,"cropBlackberry,listAllberry,listAllfruit",Pam's HarvestCraft,8727,FALSE
+harvestcraft:blackberryjellyitem,2,1.2,0,Blackberry Jelly,foodBlackberryjelly,Pam's HarvestCraft,9392,FALSE
+harvestcraft:blackberryjellysandwichitem,6,1.2,0,Blackberry Jelly Sandwich,foodBlackberryjellysandwich,Pam's HarvestCraft,9393,FALSE
+harvestcraft:blackberryjuiceitem,2,1.2,0,Blackberry Juice,"foodBlackberryjuice,listAlljuice",Pam's HarvestCraft,9125,FALSE
+harvestcraft:blackberrysmoothieitem,3,1.2,0,Blackberry Smoothie,"foodBlackberrysmoothie,listAllsmoothie",Pam's HarvestCraft,9355,FALSE
+harvestcraft:blackberryyogurtitem,2,1.2,0,Blackberry Yogurt,"foodBlackberryyogurt,listAllyogurt",Pam's HarvestCraft,9356,FALSE
+harvestcraft:blackpaellaitem,7,1.2,0,Black Paella,foodBlackpaella,Pam's HarvestCraft,9763,FALSE
+harvestcraft:blazingsoupitem,9,1.2,0,Blazing Soup,foodBlazingsoup,Pam's HarvestCraft,9764,FALSE
+harvestcraft:bltitem,8,1.2,0,BLT,foodBlt,Pam's HarvestCraft,9184,FALSE
+harvestcraft:blueberryitem,1,0.6,0,Blueberry,"cropBlueberry,listAllberry,listAllfruit",Pam's HarvestCraft,8729,FALSE
+harvestcraft:blueberryjellyitem,2,1.2,0,Blueberry Jelly,foodBlueberryjelly,Pam's HarvestCraft,9394,FALSE
+harvestcraft:blueberryjellysandwichitem,6,1.2,0,Blueberry Jelly Sandwich,foodBlueberryjellysandwich,Pam's HarvestCraft,9395,FALSE
+harvestcraft:blueberryjuiceitem,2,1.2,0,Blueberry Juice,"foodBlueberryjuice,listAlljuice",Pam's HarvestCraft,9116,FALSE
+harvestcraft:blueberrymuffinitem,4,1.2,0,Blueberry Muffin,foodBlueberrymuffin,Pam's HarvestCraft,9242,FALSE
+harvestcraft:blueberrypancakesitem,7,1.2,0,Blueberry Pancakes,foodBlueberrypancakes,Pam's HarvestCraft,9244,FALSE
+harvestcraft:blueberrypieitem,5,1.2,0,Blueberry Pie,foodBlueberrypie,Pam's HarvestCraft,9241,FALSE
+harvestcraft:blueberrysmoothieitem,3,1.2,0,Blueberry Smoothie,"foodBlueberrysmoothie,listAllsmoothie",Pam's HarvestCraft,9240,FALSE
+harvestcraft:blueberryyogurtitem,2,1.2,0,Blueberry Yogurt,"foodBlueberryyogurt,listAllyogurt",Pam's HarvestCraft,9348,FALSE
+harvestcraft:boiledeggitem,3,1.2,0,Boiled Egg,foodBoiledegg,Pam's HarvestCraft,9163,FALSE
+harvestcraft:bolognaitem,2,1.2,0,Bologna,foodBologna,Pam's HarvestCraft,9852,FALSE
+harvestcraft:bolognasandwichitem,9,1.2,0,Bologna Sandwich,foodBolognasandwich,Pam's HarvestCraft,9843,FALSE
+harvestcraft:braisedonionsitem,5,1.2,0,Braised Onions,foodBraisedonions,Pam's HarvestCraft,9189,FALSE
+harvestcraft:bratwurstitem,13,1.2,0,Bratwurst,foodBratwurst,Pam's HarvestCraft,9943,FALSE
+harvestcraft:breadedporkchopitem,5,1.2,0,Breaded Porkchop,foodBreadedporkchop,Pam's HarvestCraft,9151,FALSE
+harvestcraft:breadfruititem,1,0.6,0,Breadfruit,listAllgrain,Pam's HarvestCraft,9012,FALSE
+harvestcraft:breakfastburritoitem,10,1.2,0,Breakfast Burrito,foodBreakfastburrito,Pam's HarvestCraft,9911,FALSE
+harvestcraft:briochebunitem,3,1.2,0,Brioche Bun,foodBriochebun,Pam's HarvestCraft,9765,FALSE
+harvestcraft:broccoliitem,1,0.6,0,Broccoli,"cropBroccoli,listAllgreenveggie,listAllveggie",Pam's HarvestCraft,8791,FALSE
+harvestcraft:broccolimacitem,4,1.2,0,Broccoli Mac,foodBroccolimac,Pam's HarvestCraft,9259,FALSE
+harvestcraft:broccolindipitem,3,1.2,0,Broccoli n Dip,foodBroccolindip,Pam's HarvestCraft,9260,FALSE
+harvestcraft:brownieitem,8,1.2,0,Brownie,foodBrownie,Pam's HarvestCraft,9296,FALSE
+harvestcraft:brusselsproutitem,1,0.6,0,Brussel Sprout,"cropBrusselsprout,listAllgreenveggie,listAllveggie",Pam's HarvestCraft,8803,FALSE
+harvestcraft:bubbleteaitem,4,1.2,0,Bubble Tea,foodBubbletea,Pam's HarvestCraft,9724,FALSE
+harvestcraft:bulgogiitem,7,1.2,0,Bulgogi,foodBulgogi,Pam's HarvestCraft,9712,FALSE
+harvestcraft:buttercookieitem,6,1.2,0,Butter Cookie,"foodButtercookie,listAllcookie",Pam's HarvestCraft,9673,FALSE
+harvestcraft:butteredpotatoitem,4,1.2,0,Buttered Potato,foodButteredpotato,Pam's HarvestCraft,9140,FALSE
+harvestcraft:buttertartitem,10,1.2,0,Butter Tart,foodButtertart,Pam's HarvestCraft,9921,FALSE
+harvestcraft:cabbageitem,1,0.6,0,Cabbage,"cropCabbage,listAllgreenveggie,listAllveggie",Pam's HarvestCraft,8805,FALSE
+harvestcraft:cactusfruititem,1,0.6,0,Cactus Fruit,"cropCactusfruit,listAllfruit",Pam's HarvestCraft,8737,FALSE
+harvestcraft:cactusfruitjuiceitem,2,1.2,0,Cactus Fruit Juice,"foodCactusfruitjuice,listAlljuice",Pam's HarvestCraft,9129,FALSE
+harvestcraft:cactussoupitem,3,1.2,0,Cactus Soup,foodCactussoup,Pam's HarvestCraft,9338,FALSE
+harvestcraft:calamaricookeditem,2,1.2,0,Cooked Calamari,"foodCalamaricooked,listAllfishcooked",Pam's HarvestCraft,9081,FALSE
+harvestcraft:calamarirawitem,1,0.6,0,Raw Calamari,"fish,foodCalamariraw,listAllfishfresh,listAllfishraw",Pam's HarvestCraft,9080,FALSE
+harvestcraft:californiarollitem,6,1.2,0,California Roll,foodCaliforniaroll,Pam's HarvestCraft,9499,FALSE
+harvestcraft:candiedgingeritem,2,1.2,0,Candied Ginger,foodCandiedginger,Pam's HarvestCraft,9274,FALSE
+harvestcraft:candiedlemonitem,2,1.2,0,Candied Lemon,foodCandiedlemon,Pam's HarvestCraft,9238,FALSE
+harvestcraft:candiedpecansitem,3,1.2,0,Candied Pecans,foodCandiedpecans,Pam's HarvestCraft,9735,FALSE
+harvestcraft:candiedsweetpotatoesitem,3,1.2,0,Candied Sweet Potatoes,foodCandiedsweetpotatoes,Pam's HarvestCraft,9263,FALSE
+harvestcraft:candiedwalnutsitem,4,1.2,0,Candied Walnuts,foodCandiedwalnuts,Pam's HarvestCraft,9295,FALSE
+harvestcraft:candleberryitem,1,0.6,0,Candleberry,"cropCandle,cropCandleberry",Pam's HarvestCraft,8731,FALSE
+harvestcraft:cantaloupeitem,1,0.6,0,Cantaloupe,"cropCantaloupe,listAllfruit",Pam's HarvestCraft,8751,FALSE
+harvestcraft:cantonesegreensitem,2,1.2,0,Cantonese Greens,foodCantonesegreens,Pam's HarvestCraft,9752,FALSE
+harvestcraft:cantonesenoodlesitem,10,1.2,0,Cantonese Noodles,foodCantonesenoodles,Pam's HarvestCraft,9915,FALSE
+harvestcraft:caramelappleitem,3,1.2,0,Caramel Apple,foodCaramelapple,Pam's HarvestCraft,9095,FALSE
+harvestcraft:caramelcupcakeitem,8,1.2,0,Caramel Cupcake,foodCaramelcupcake,Pam's HarvestCraft,9799,FALSE
+harvestcraft:caramelicecreamitem,4,1.2,0,Caramel Ice Cream,foodCaramelicecream,Pam's HarvestCraft,9433,FALSE
+harvestcraft:caramelitem,1,1.2,0,Caramel,foodCaramel,Pam's HarvestCraft,9165,FALSE
+harvestcraft:carprawitem,1,0.6,0,Raw Carp,"fish,foodCarpraw,listAllfishfresh,listAllfishraw",Pam's HarvestCraft,10003,FALSE
+harvestcraft:carrotcupcakeitem,8,1.2,0,Carrot Cupcake,foodCarrotcupcake,Pam's HarvestCraft,9790,FALSE
+harvestcraft:carrotjuiceitem,2,1.2,0,Carrot Juice,"foodCarrotjuice,listAlljuice",Pam's HarvestCraft,9113,FALSE
+harvestcraft:carrotsoupitem,4,1.2,0,Carrot Soup,foodCarrotsoup,Pam's HarvestCraft,9138,FALSE
+harvestcraft:cashewbutteritem,1,1.2,0,Cashew Butter,"foodCashewbutter,listAllnutbutter",Pam's HarvestCraft,9561,FALSE
+harvestcraft:cashewchickenitem,5,1.2,0,Cashew Chicken,foodCashewchicken,Pam's HarvestCraft,9455,FALSE
+harvestcraft:cashewitem,1,0.6,0,Cashew,"cropCashew,listAllnut",Pam's HarvestCraft,8940,FALSE
+harvestcraft:cassavaitem,1,0.6,0,Cassava,"cropCassava,listAllveggie",Pam's HarvestCraft,8857,FALSE
+harvestcraft:cassouletitem,13,1.2,0,Cassoulet,foodCassoulet,Pam's HarvestCraft,9942,FALSE
+harvestcraft:catfishrawitem,1,0.6,0,Raw Catfish,"fish,foodCatfishraw,listAllfishfresh,listAllfishraw",Pam's HarvestCraft,10004,FALSE
+harvestcraft:caulifloweritem,1,0.6,0,Cauliflower,"cropCauliflower,listAllveggie",Pam's HarvestCraft,8793,FALSE
+harvestcraft:ceasarsaladitem,9,1.2,0,Caesar Salad,foodCeasarsalad,Pam's HarvestCraft,9508,FALSE
+harvestcraft:celeryandpeanutbutteritem,2,1.2,0,Celery and Peanut Butter,foodCeleryandpeanutbutter,Pam's HarvestCraft,9284,FALSE
+harvestcraft:celeryitem,1,0.6,0,Celery,"cropCelery,listAllgreenveggie,listAllveggie",Pam's HarvestCraft,8777,FALSE
+harvestcraft:celerysoupitem,5,1.2,0,Celery Soup,foodCelerysoup,Pam's HarvestCraft,9287,FALSE
+harvestcraft:cevicheitem,7,1.2,0,Ceviche,foodCeviche,Pam's HarvestCraft,9741,FALSE
+harvestcraft:chaiteaitem,3,1.2,0,Chai Tea,foodChaitea,Pam's HarvestCraft,9251,FALSE
+harvestcraft:chaoscookieitem,3,1.2,0,Chaos Cookie,"foodChaoscookie,listAllcookie",Pam's HarvestCraft,9509,FALSE
+harvestcraft:charrrawitem,1,0.6,0,Raw Charr,"fish,foodCharrraw,listAllfishfresh,listAllfishraw",Pam's HarvestCraft,10005,FALSE
+harvestcraft:charsiuitem,8,1.2,0,Char Siu,foodCharsiu,Pam's HarvestCraft,9627,FALSE
+harvestcraft:cheddarandsourcreampotatochipsitem,6,1.2,0,Cheddar and Sour Cream Potato Chips,foodCheddarandsourcreampotatochips,Pam's HarvestCraft,9678,FALSE
+harvestcraft:cheeseburgeritem,8,1.2,0,Cheeseburger,foodCheeseburger,Pam's HarvestCraft,9155,FALSE
+harvestcraft:cheesedanishitem,6,1.2,0,Cheese Danish,foodCheesedanish,Pam's HarvestCraft,9850,FALSE
+harvestcraft:cheeseitem,2,1.2,0,Cheese,foodCheese,Pam's HarvestCraft,9090,FALSE
+harvestcraft:cheeseontoastitem,6,1.2,0,Cheese on Toast,foodCheeseontoast,Pam's HarvestCraft,9606,FALSE
+harvestcraft:cheesesteakitem,10,1.2,0,Cheesesteak,foodCheesesteak,Pam's HarvestCraft,9919,FALSE
+harvestcraft:cheesyshrimpquinoaitem,9,1.2,0,Cheesy Shrimp Quinoa,foodCheesyshrimpquinoa,Pam's HarvestCraft,9711,FALSE
+harvestcraft:cheezepuffsitem,4,1.2,0,Cheeze Puffs,foodCheezepuffs,Pam's HarvestCraft,9681,FALSE
+harvestcraft:cherrycoconutchocolatebaritem,4,1.2,0,Cherry Coconut Chocolate Bar,foodCherrycoconutchocolatebar,Pam's HarvestCraft,9503,FALSE
+harvestcraft:cherryicecreamitem,4,1.2,0,Cherry Ice Cream,foodCherryicecream,Pam's HarvestCraft,9556,FALSE
+harvestcraft:cherryitem,1,0.6,0,Cherry,"cropCherry,listAllfruit",Pam's HarvestCraft,8900,FALSE
+harvestcraft:cherryjellyitem,2,1.2,0,Cherry Jelly,foodCherryjelly,Pam's HarvestCraft,9396,FALSE
+harvestcraft:cherryjellysandwichitem,6,1.2,0,Cherry Jelly Sandwich,foodCherryjellysandwich,Pam's HarvestCraft,9397,FALSE
+harvestcraft:cherryjuiceitem,2,1.2,0,Cherry Juice,"foodCherryjuice,listAlljuice",Pam's HarvestCraft,9117,FALSE
+harvestcraft:cherrypieitem,5,1.2,0,Cherry Pie,foodCherrypie,Pam's HarvestCraft,9245,FALSE
+harvestcraft:cherryslushieitem,3,1.2,0,Cherry Slushie,foodCherryslushie,Pam's HarvestCraft,9800,FALSE
+harvestcraft:cherrysmoothieitem,3,1.2,0,Cherry Smoothie,"foodCherrysmoothie,listAllsmoothie",Pam's HarvestCraft,9247,FALSE
+harvestcraft:cherrysodaitem,3,1.2,0,Cherry Soda,"foodCherrysoda,listAllsoda",Pam's HarvestCraft,9425,FALSE
+harvestcraft:cherryyogurtitem,2,1.2,0,Cherry Yogurt,"foodCherryyogurt,listAllyogurt",Pam's HarvestCraft,9350,FALSE
+harvestcraft:chestnutbutteritem,1,1.2,0,Chestnut Butter,"foodChestnutbutter,listAllnutbutter",Pam's HarvestCraft,9562,FALSE
+harvestcraft:chestnutitem,1,0.6,0,Chestnut,"cropChestnut,listAllnut",Pam's HarvestCraft,8982,FALSE
+harvestcraft:chickenandwafflesitem,14,1.2,0,Chicken and Waffles,foodChickenandwaffles,Pam's HarvestCraft,9954,FALSE
+harvestcraft:chickenbiscuititem,13,1.2,0,Chicken Biscuit,foodChickenbiscuit,Pam's HarvestCraft,9944,FALSE
+harvestcraft:chickencelerycasseroleitem,6,1.2,0,Chicken Celery Casserole,foodChickencelerycasserole,Pam's HarvestCraft,9285,FALSE
+harvestcraft:chickenchowmeinitem,8,1.2,0,Chicken Chow Mein,foodChickenchowmein,Pam's HarvestCraft,9623,FALSE
+harvestcraft:chickencordonbleuitem,7,1.2,0,Chicken Cordon Bleu,foodChickencordonbleu,Pam's HarvestCraft,9826,FALSE
+harvestcraft:chickencurryitem,9,1.2,0,Chicken Curry,foodChickencurry,Pam's HarvestCraft,9313,FALSE
+harvestcraft:chickendinneritem,9,1.2,0,Chicken Dinner,foodChickendinner,Pam's HarvestCraft,9668,FALSE
+harvestcraft:chickengumboitem,9,1.2,0,Chicken Gumbo,foodChickengumbo,Pam's HarvestCraft,9497,FALSE
+harvestcraft:chickenkatsuitem,6,1.2,0,Chicken Katsu,foodChickenkatsu,Pam's HarvestCraft,9719,FALSE
+harvestcraft:chickennoodlesoupitem,6,1.2,0,Chicken Noodle Soup,foodChickennoodlesoup,Pam's HarvestCraft,9149,FALSE
+harvestcraft:chickenpaellaitem,8,1.2,0,Chicken Paella,foodChickenpaella,Pam's HarvestCraft,9766,FALSE
+harvestcraft:chickenparmasanitem,5,1.2,0,Chicken Parmesan,foodChickenparmasan,Pam's HarvestCraft,9180,FALSE
+harvestcraft:chickenpotpieitem,7,1.2,0,Chicken Pot Pie,foodChickenpotpie,Pam's HarvestCraft,9150,FALSE
+harvestcraft:chickensandwichitem,6,1.2,0,Chicken Sandwich,foodChickensandwich,Pam's HarvestCraft,9148,FALSE
+harvestcraft:chickpeaitem,1,0.6,0,Chickpeas,"cropChickpea,listAllveggie",Pam's HarvestCraft,8859,FALSE
+harvestcraft:chikorollitem,10,1.2,0,Chiko Roll,foodChikoroll,Pam's HarvestCraft,9903,FALSE
+harvestcraft:chilichocolateitem,2,1.2,0,Chili Chocolate,foodChilichocolate,Pam's HarvestCraft,9232,FALSE
+harvestcraft:chilicupcakeitem,8,1.2,0,Chili Cupcake,foodChilicupcake,Pam's HarvestCraft,9792,FALSE
+harvestcraft:chilidogitem,10,1.2,0,Chili Dog,foodChilidog,Pam's HarvestCraft,9908,FALSE
+harvestcraft:chilidonutitem,6,1.2,0,Chili Donut,foodChilidonut,Pam's HarvestCraft,9786,FALSE
+harvestcraft:chiliitem,4,1.2,0,Chili,foodChili,Pam's HarvestCraft,9223,FALSE
+harvestcraft:chilipepperitem,1,0.6,0,Chili Pepper,"cropChilipepper,listAllpepper",Pam's HarvestCraft,8817,FALSE
+harvestcraft:chilipoppersitem,6,1.2,0,Chili Poppers,foodChilipoppers,Pam's HarvestCraft,9230,FALSE
+harvestcraft:chimichangaitem,17,1.2,0,Chimichanga,foodChimichanga,Pam's HarvestCraft,9964,FALSE
+harvestcraft:chipsanddipitem,5,1.2,0,Chips and Dip,foodChipsanddip,Pam's HarvestCraft,9680,FALSE
+harvestcraft:chipsandsalsaitem,10,1.2,0,Chips and Salsa,foodChipsandsalsa,Pam's HarvestCraft,9912,FALSE
+harvestcraft:chocolatebaconitem,3,1.2,0,Chocolate Bacon,foodChocolatebacon,Pam's HarvestCraft,9510,FALSE
+harvestcraft:chocolatebaritem,1,1.2,0,Chocolate Bar,foodChocolatebar,Pam's HarvestCraft,9170,FALSE
+harvestcraft:chocolatecaramelfudgeitem,2,1.2,0,Chocolate Caramel Fudge,foodChocolatecaramelfudge,Pam's HarvestCraft,9492,FALSE
+harvestcraft:chocolatecherryitem,2,1.2,0,Chocolate Cherry,foodChocolatecherry,Pam's HarvestCraft,9246,FALSE
+harvestcraft:chocolatecoconutbaritem,2,1.2,0,Chocolate Coconut Bar,foodChocolatecoconutbar,Pam's HarvestCraft,9832,FALSE
+harvestcraft:chocolatecupcakeitem,8,1.2,0,Chocolate Cupcake,foodChocolatecupcake,Pam's HarvestCraft,9789,FALSE
+harvestcraft:chocolatedonutitem,5,1.2,0,Chocolate Donut,foodChocolatedonut,Pam's HarvestCraft,9334,FALSE
+harvestcraft:chocolateicecreamitem,4,1.2,0,Chocolate Ice Cream,foodChocolateicecream,Pam's HarvestCraft,9172,FALSE
+harvestcraft:chocolatemilkitem,2,1.2,0,Chocolate Milk,foodChocolatemilk,Pam's HarvestCraft,9357,FALSE
+harvestcraft:chocolatemilkshakeitem,3,1.2,0,Chocolate Milkshake,foodChocolatemilkshake,Pam's HarvestCraft,9547,FALSE
+harvestcraft:chocolateorangeitem,2,1.2,0,Chocolate Orange,foodChocolateorange,Pam's HarvestCraft,9720,FALSE
+harvestcraft:chocolatepuddingitem,3,1.2,0,Chocolate Pudding,foodChocolatepudding,Pam's HarvestCraft,9804,FALSE
+harvestcraft:chocolaterollitem,3,1.2,0,Chocolate Roll,foodChocolateroll,Pam's HarvestCraft,9608,FALSE
+harvestcraft:chocolatestrawberryitem,2,1.2,0,Chocolate Strawberry,foodChocolatestrawberry,Pam's HarvestCraft,9201,FALSE
+harvestcraft:chocolateyogurtitem,2,1.2,0,Chocolate Yogurt,"foodChocolateyogurt,listAllyogurt",Pam's HarvestCraft,9353,FALSE
+harvestcraft:chocovoxelsitem,2,1.2,0,Choco Voxels Cereal,foodChocovoxels,Pam's HarvestCraft,9640,FALSE
+harvestcraft:chorizoitem,5,1.2,0,Chorizo,foodchorizo,Pam's HarvestCraft,9530,FALSE
+harvestcraft:chorusfruitsoupitem,4,1.2,0,Chorus Fruit Soup,foodChorusfruitsoup,Pam's HarvestCraft,9750,FALSE
+harvestcraft:cinnamonappleoatmealitem,3,1.2,0,Cinnamon Apple Oatmeal,foodCinnamonappleoatmeal,Pam's HarvestCraft,9486,FALSE
+harvestcraft:cinnamonbreaditem,6,1.2,0,Cinnamon Bread,foodCinnamonbread,Pam's HarvestCraft,9857,FALSE
+harvestcraft:cinnamonitem,1,0.6,0,Cinnamon,"cropCinnamon,sweetHerb",Pam's HarvestCraft,9024,FALSE
+harvestcraft:cinnamonrollitem,5,1.2,0,Cinnamon Roll,foodCinnamonroll,Pam's HarvestCraft,9330,FALSE
+harvestcraft:cinnamonsugardonutitem,7,1.2,0,Cinnamon Sugar Donut,foodCinnamonsugardonut,Pam's HarvestCraft,9362,FALSE
+harvestcraft:cinnamontoastitem,7,1.2,0,Cinnamon Toast,foodCinnamontoast,Pam's HarvestCraft,9641,FALSE
+harvestcraft:citrussaladitem,2,1.2,0,Citrus Salad,foodCitrussalad,Pam's HarvestCraft,9471,FALSE
+harvestcraft:clamchowderitem,10,1.2,0,Clam Chowder,foodClamchowder,Pam's HarvestCraft,9910,FALSE
+harvestcraft:clamcookeditem,2,1.2,0,Cooked Clam,foodClamcooked,Pam's HarvestCraft,9516,FALSE
+harvestcraft:clamrawitem,1,0.6,0,Raw Clam,foodClamraw,Pam's HarvestCraft,10006,FALSE
+harvestcraft:cobblestonecobbleritem,6,1.2,0,Cobblestone Cobbler,foodCobblestonecobbler,Pam's HarvestCraft,9739,FALSE
+harvestcraft:coconutcreamitem,2,1.2,0,Coconut Cream,foodCoconutcream,Pam's HarvestCraft,9610,FALSE
+harvestcraft:coconutitem,1,0.6,0,Coconut,cropCoconut,Pam's HarvestCraft,8988,FALSE
+harvestcraft:coconutmilkitem,1,1.2,0,Coconut Milk,foodCoconutmilk,Pam's HarvestCraft,9312,FALSE
+harvestcraft:coconutshrimpitem,7,1.2,0,Coconut Shrimp,foodCoconutshrimp,Pam's HarvestCraft,9314,FALSE
+harvestcraft:coconutsmoothieitem,3,1.2,0,Coconut Smoothie,"foodCoconutsmoothie,listAllsmoothie",Pam's HarvestCraft,9595,FALSE
+harvestcraft:coconutyogurtitem,2,1.2,0,Coconut Yogurt,"foodCoconutyogurt,listAllyogurt",Pam's HarvestCraft,9315,FALSE
+harvestcraft:coffeebeanitem,1,0.6,0,Coffee Beans,cropCoffee,Pam's HarvestCraft,8787,FALSE
+harvestcraft:coffeeconlecheitem,6,1.2,0,Coffee con Leche,foodCoffeeconleche,Pam's HarvestCraft,9253,FALSE
+harvestcraft:coffeecupcakeitem,8,1.2,0,Coffee Cupcake,foodCoffeecupcake,Pam's HarvestCraft,9797,FALSE
+harvestcraft:coffeeitem,2,1.2,0,Cup of Coffee,foodCoffee,Pam's HarvestCraft,9098,FALSE
+harvestcraft:colasodaitem,3,1.2,0,Cola Soda,"foodColasoda,listAllsoda",Pam's HarvestCraft,9426,FALSE
+harvestcraft:coleslawburgeritem,10,1.2,0,Coleslaw Burger,foodColeslawburger,Pam's HarvestCraft,9905,FALSE
+harvestcraft:coleslawitem,4,1.2,0,Coleslaw,foodColeslaw,Pam's HarvestCraft,9531,FALSE
+harvestcraft:cookedgrubitem,2,0.6,0,Cooked Grub,listAllmeatcooked,Pam's HarvestCraft,9983,FALSE
+harvestcraft:cookedtofabbititem,2,1.2,0,Cooked Tofabbit,"listAllmeatcooked,listAllrabbitcooked,listAlltofu",Pam's HarvestCraft,9885,FALSE
+harvestcraft:cookedtofaconitem,2,1.2,0,Cooked Tofacon,"listAllmeatcooked,listAllporkcooked,listAlltofu",Pam's HarvestCraft,9880,FALSE
+harvestcraft:cookedtofeakitem,2,1.2,0,Cooked Tofeak,"listAllbeefcooked,listAllmeatcooked,listAlltofu",Pam's HarvestCraft,9879,FALSE
+harvestcraft:cookedtofeegitem,2,1.2,0,Cooked Tofeeg,,Pam's HarvestCraft,9882,FALSE
+harvestcraft:cookedtofenisonitem,2,1.2,0,Cooked Tofenison,"listAllmeatcooked,listAlltofu,listAllvenisoncooked",Pam's HarvestCraft,9887,FALSE
+harvestcraft:cookedtofickenitem,2,1.2,0,Cooked Toficken,"listAllchickencooked,listAllmeatcooked,listAlltofu",Pam's HarvestCraft,9884,FALSE
+harvestcraft:cookedtofishitem,2,1.2,0,Cooked Tofish,listAllfishcooked,Pam's HarvestCraft,9881,FALSE
+harvestcraft:cookedtofuduckitem,2,0.6,0,Cooked Tofuduck,"listAllduckcooked,listAllmeatcooked,listAlltofu",Pam's HarvestCraft,9888,FALSE
+harvestcraft:cookedtofurkeyitem,2,1.2,0,Cooked Tofurkey,"listAllmeatcooked,listAlltofu,listAllturkeycooked",Pam's HarvestCraft,9886,FALSE
+harvestcraft:cookedtofuttonitem,2,1.2,0,Cooked Tofutton,"listAllmeatcooked,listAllmuttoncooked,listAlltofu",Pam's HarvestCraft,9883,FALSE
+harvestcraft:cookiesandmilkitem,2,1.2,0,Cookies and Milk,foodCookiesandmilk,Pam's HarvestCraft,9666,FALSE
+harvestcraft:cornbreaditem,4,1.2,0,Cornbread,foodCornbread,Pam's HarvestCraft,9192,FALSE
+harvestcraft:cornchipsitem,3,1.2,0,Corn Chips,foodCornchips,Pam's HarvestCraft,9858,FALSE
+harvestcraft:corndogitem,6,1.2,0,Corn Dog,foodCorndog,Pam's HarvestCraft,9669,FALSE
+harvestcraft:cornedbeefbreakfastitem,26,1.2,0,Corned Beef Breakfast,foodCornedbeefbreakfast,Pam's HarvestCraft,9980,FALSE
+harvestcraft:cornedbeefhashitem,18,1.2,0,Corned Beef Hash,foodCornedbeefhash,Pam's HarvestCraft,9967,FALSE
+harvestcraft:cornedbeefitem,9,1.2,0,Corned Beef,foodCornedbeef,Pam's HarvestCraft,9642,FALSE
+harvestcraft:cornflakesitem,2,1.2,0,Cornflakes,foodCornflakes,Pam's HarvestCraft,9549,FALSE
+harvestcraft:cornishpastyitem,8,1.2,0,Cornish Pasty,foodCornishpasty,Pam's HarvestCraft,9563,FALSE
+harvestcraft:cornitem,1,0.6,0,Corn,"cropCorn,listAllveggie",Pam's HarvestCraft,8747,FALSE
+harvestcraft:cornonthecobitem,3,1.2,0,Corn on the Cob,foodCornonthecob,Pam's HarvestCraft,9190,FALSE
+harvestcraft:cottagepieitem,8,1.2,0,Cottage Pie,foodCottagepie,Pam's HarvestCraft,9564,FALSE
+harvestcraft:cottoncandyitem,5,1.2,0,Cotton Candy,foodCottoncandy,Pam's HarvestCraft,9643,FALSE
+harvestcraft:cottonitem,1,0.6,0,Cotton,cropCotton,Pam's HarvestCraft,8827,FALSE
+harvestcraft:crabcookeditem,2,1.2,0,Cooked Crab,"foodCrabcooked,listAllfishcooked",Pam's HarvestCraft,9517,FALSE
+harvestcraft:crabkimbapitem,6,1.2,0,Crab Kimbap,foodCrabkimbap,Pam's HarvestCraft,9716,FALSE
+harvestcraft:crabrawitem,1,0.6,0,Raw Crab,"fish,foodCrabraw,listAllfishraw",Pam's HarvestCraft,10007,FALSE
+harvestcraft:crackeritem,4,1.2,0,Cracker,foodCracker,Pam's HarvestCraft,9611,FALSE
+harvestcraft:crackersandcheeseitem,8,1.2,0,Crackers and Cheese,foodCrackersandcheese,Pam's HarvestCraft,9667,FALSE
+harvestcraft:crackersitem,6,1.2,0,Crackers,foodCrackers,Pam's HarvestCraft,9644,FALSE
+harvestcraft:cracklinsitem,5,1.2,0,Cracklins,foodCracklins,Pam's HarvestCraft,9749,FALSE
+harvestcraft:cranberrybaritem,5,1.2,0,Cranberry Bar,foodCranberrybar,Pam's HarvestCraft,9372,FALSE
+harvestcraft:cranberryitem,1,0.6,0,Cranberry,"cropCranberry,listAllberry,listAllfruit",Pam's HarvestCraft,8835,FALSE
+harvestcraft:cranberryjellyitem,2,1.2,0,Cranberry Jelly,foodCranberryjelly,Pam's HarvestCraft,9398,FALSE
+harvestcraft:cranberryjellysandwichitem,6,1.2,0,Cranberry Jelly Sandwich,foodCranberryjellysandwich,Pam's HarvestCraft,9399,FALSE
+harvestcraft:cranberryjuiceitem,2,1.2,0,Cranberry Juice,"foodCranberryjuice,listAlljuice",Pam's HarvestCraft,9128,FALSE
+harvestcraft:cranberrysauceitem,2,1.2,0,Cranberry Sauce,foodCranberrysauce,Pam's HarvestCraft,9371,FALSE
+harvestcraft:cranberrysmoothieitem,3,1.2,0,Cranberry Smoothie,"foodCranberrysmoothie,listAllsmoothie",Pam's HarvestCraft,9596,FALSE
+harvestcraft:cranberryyogurtitem,2,1.2,0,Cranberry Yogurt,"foodCranberryyogurt,listAllyogurt",Pam's HarvestCraft,9597,FALSE
+harvestcraft:crawfishetoufeeitem,10,1.2,0,Crawfish Etoufee,foodCrawfishetoufee,Pam's HarvestCraft,9913,FALSE
+harvestcraft:crayfishcookeditem,2,1.2,0,Cooked Crayfish,foodCrayfishcooked,Pam's HarvestCraft,9518,FALSE
+harvestcraft:crayfishrawitem,1,0.6,0,Raw Crayfish,foodCrayfishraw,Pam's HarvestCraft,10008,FALSE
+harvestcraft:crayfishsaladitem,8,1.2,0,Crayfish Salad,foodCrayfishsalad,Pam's HarvestCraft,9740,FALSE
+harvestcraft:creamcookieitem,6,1.2,0,Cream Cookie,"foodCreamcookie,listAllcookie",Pam's HarvestCraft,9344,FALSE
+harvestcraft:creamedbroccolisoupitem,6,1.2,0,Creamed Broccoli Soup,foodCreamedbroccolisoup,Pam's HarvestCraft,9261,FALSE
+harvestcraft:creamedcornitem,3,1.2,0,Creamed Corn,foodCreamedcorn,Pam's HarvestCraft,9197,FALSE
+harvestcraft:creamofavocadosoupitem,6,1.2,0,Cream of Avocado Soup,foodCreamofavocadosoup,Pam's HarvestCraft,9302,FALSE
+harvestcraft:creepercookieitem,5,1.2,0,Creeper Cookie,"foodCreepercookie,listAllcookie",Pam's HarvestCraft,9634,FALSE
+harvestcraft:creeperwingsitem,6,1.2,0,Creeper Wings,foodCreeperwings,Pam's HarvestCraft,9645,FALSE
+harvestcraft:crispyricepuffbarsitem,5,1.2,0,Crispy Rice Puff Bar,foodCrispyricepuffbars,Pam's HarvestCraft,9699,FALSE
+harvestcraft:crispyricepuffcerealitem,2,1.2,0,Crispy Rice Puff Cereal,foodCrispyricepuffcereal,Pam's HarvestCraft,9698,FALSE
+harvestcraft:croissantitem,6,1.2,0,Croissant,foodCroissant,Pam's HarvestCraft,9565,FALSE
+harvestcraft:cucumberitem,1,0.6,0,Cucumber,"cropCucumber,listAllgreenveggie,listAllveggie",Pam's HarvestCraft,8753,FALSE
+harvestcraft:cucumbersaladitem,3,1.2,0,Cucumber Salad,foodCucumbersalad,Pam's HarvestCraft,9211,FALSE
+harvestcraft:cucumbersandwichitem,8,1.2,0,Cucumber Sandwich,foodCucumbersandwich,Pam's HarvestCraft,9828,FALSE
+harvestcraft:cucumbersoupitem,4,1.2,0,Cucumber Soup,foodCucumbersoup,Pam's HarvestCraft,9212,FALSE
+harvestcraft:curryitem,6,1.2,0,Curry Rice,foodCurry,Pam's HarvestCraft,9218,FALSE
+harvestcraft:curryleafitem,1,0.6,0,Curry Leaf,cropCurryleaf,Pam's HarvestCraft,8841,FALSE
+harvestcraft:custarditem,5,1.2,0,Custard,foodCustard,Pam's HarvestCraft,9387,FALSE
+harvestcraft:damperitem,5,1.2,0,Damper,foodDamper,Pam's HarvestCraft,9506,FALSE
+harvestcraft:dandelionsaladitem,3,1.2,0,Marigold Salad,foodDandelionsalad,Pam's HarvestCraft,9829,FALSE
+harvestcraft:dandelionteaitem,3,1.2,0,Marigold Tea,foodDandeliontea,Pam's HarvestCraft,9848,FALSE
+harvestcraft:dangoitem,10,1.2,0,Dango,foodDango,Pam's HarvestCraft,9916,FALSE
+harvestcraft:dateitem,1,0.6,0,Date,"cropDate,listAllfruit",Pam's HarvestCraft,8894,FALSE
+harvestcraft:datenutbreaditem,5,1.2,0,Date Nut Bread,foodDatenutbread,Pam's HarvestCraft,9480,FALSE
+harvestcraft:delightedmealitem,15,1.2,0,Delighted Meal,foodDelightedmeal,Pam's HarvestCraft,9957,FALSE
+harvestcraft:deluxecheeseburgeritem,10,1.2,0,Deluxe Cheeseburger,foodDeluxecheeseburger,Pam's HarvestCraft,9900,FALSE
+harvestcraft:deluxechickencurryitem,19,1.2,0,Deluxe Chicken Curry,foodDeluxechickencurry,Pam's HarvestCraft,9971,FALSE
+harvestcraft:deluxenachoesitem,16,1.2,0,Deluxe Nachos,foodDeluxenachoes,Pam's HarvestCraft,9960,FALSE
+harvestcraft:deviledeggitem,7,1.2,0,Deviled Egg,foodDeviledegg,Pam's HarvestCraft,9685,FALSE
+harvestcraft:dhalitem,7,1.2,0,Dhal,foodDhal,Pam's HarvestCraft,9646,FALSE
+harvestcraft:dimsumitem,8,1.2,0,Dim Sum,foodDimsum,Pam's HarvestCraft,9567,FALSE
+harvestcraft:donutitem,4,1.2,0,Donut,foodDonut,Pam's HarvestCraft,9333,FALSE
+harvestcraft:dragonfruititem,1,0.6,0,Dragonfruit,"cropDragonfruit,listAllfruit",Pam's HarvestCraft,8909,FALSE
+harvestcraft:driedsoupitem,3,1.2,0,Dried Soup,foodDriedsoup,Pam's HarvestCraft,9715,FALSE
+harvestcraft:duckcookeditem,2,1.2,0,Cooked Duck,"foodDuckcooked,listAllduckcooked,listAllmeatcooked",Pam's HarvestCraft,9726,FALSE
+harvestcraft:duckrawitem,1,1.2,0,Raw Duck,"foodDuckraw,listAllduckraw,listAllmeatraw,mulchNitrogen",Pam's HarvestCraft,9725,FALSE
+harvestcraft:durianitem,1,0.6,0,Durian,cropDurian,Pam's HarvestCraft,9018,FALSE
+harvestcraft:durianmilkshakeitem,3,1.2,0,Durian Milkshake,foodDurianmilkshake,Pam's HarvestCraft,9647,FALSE
+harvestcraft:durianmuffinitem,4,1.2,0,Durian Muffin,foodDurianmuffin,Pam's HarvestCraft,9648,FALSE
+harvestcraft:earlgreyteaitem,2,1.2,0,"Tea, Earl Grey, Hot",foodEarlgreytea,Pam's HarvestCraft,9753,FALSE
+harvestcraft:ediblerootitem,1,0.6,0,Edible Root,cropEdibleroot,Pam's HarvestCraft,9078,FALSE
+harvestcraft:eelrawitem,1,0.6,0,Raw Eel,foodEelraw,Pam's HarvestCraft,10009,FALSE
+harvestcraft:eggnogitem,5,1.2,0,Egg Nog,foodEggnog,Pam's HarvestCraft,9386,FALSE
+harvestcraft:eggplantitem,1,0.6,0,Eggplant,"cropEggplant,listAllveggie",Pam's HarvestCraft,8819,FALSE
+harvestcraft:eggplantparmitem,5,1.2,0,Eggplant Parm,foodEggplantparm,Pam's HarvestCraft,9249,FALSE
+harvestcraft:eggrollitem,6,1.2,0,Egg Roll,foodEggroll,Pam's HarvestCraft,9754,FALSE
+harvestcraft:eggsaladitem,4,1.2,0,Egg Salad,foodEggsalad,Pam's HarvestCraft,9164,FALSE
+harvestcraft:eggsbenedictitem,12,1.2,0,Eggs Benedict,foodEggsbenedict,Pam's HarvestCraft,9938,FALSE
+harvestcraft:eggtartitem,8,1.2,0,Egg Tart,foodEggtart,Pam's HarvestCraft,9755,FALSE
+harvestcraft:elderberryitem,1,0.6,0,Elderberry,"cropElderberry,listAllberry,listAllfruit",Pam's HarvestCraft,8861,FALSE
+harvestcraft:enchiladaitem,11,1.2,0,Enchilada,foodEnchilada,Pam's HarvestCraft,9927,FALSE
+harvestcraft:energydrinkitem,5,1.2,0,Energy Drink,foodEnergydrink,Pam's HarvestCraft,9532,FALSE
+harvestcraft:epicbaconitem,9,1.2,0,Epic Bacon,foodEpicbacon,Pam's HarvestCraft,9495,FALSE
+harvestcraft:epicbltitem,13,1.2,0,Epic BLT,foodEpicblt,Pam's HarvestCraft,9945,FALSE
+harvestcraft:escargotitem,5,1.2,0,Escargot,foodEscargot,Pam's HarvestCraft,9767,FALSE
+harvestcraft:espressoitem,4,1.2,0,Espresso,foodEspresso,Pam's HarvestCraft,9252,FALSE
+harvestcraft:etonmessitem,4,1.2,0,Eton Mess,foodEtonmess,Pam's HarvestCraft,9814,FALSE
+harvestcraft:extremechiliitem,5,1.2,0,Extreme Chili,foodExtremechili,Pam's HarvestCraft,9231,FALSE
+harvestcraft:fairybreaditem,8,1.2,0,Fairy Bread,foodFairybread,Pam's HarvestCraft,9504,FALSE
+harvestcraft:festivalbreaditem,5,1.2,0,Festival Bread,foodFestivalbread,Pam's HarvestCraft,9721,FALSE
+harvestcraft:fiestacornsaladitem,7,1.2,0,Fiesta Corn Salad,foodFiestacornsalad,Pam's HarvestCraft,9704,FALSE
+harvestcraft:figbaritem,5,1.2,0,Fig Bar,foodFigbar,Pam's HarvestCraft,9461,FALSE
+harvestcraft:figitem,1,0.6,0,Fig,"cropFig,listAllfruit",Pam's HarvestCraft,8903,FALSE
+harvestcraft:figjellyitem,2,1.2,0,Fig Jelly,foodFigjelly,Pam's HarvestCraft,9462,FALSE
+harvestcraft:figjellysandwichitem,6,1.2,0,Fig Jelly Sandwich,foodFigjellysandwich,Pam's HarvestCraft,9463,FALSE
+harvestcraft:figjuiceitem,2,1.2,0,Fig Juice,"foodFigjuice,listAlljuice",Pam's HarvestCraft,9133,FALSE
+harvestcraft:figsmoothieitem,3,1.2,0,Fig Smoothie,"foodFigsmoothie,listAllsmoothie",Pam's HarvestCraft,9464,FALSE
+harvestcraft:figyogurtitem,2,1.2,0,Fig Yogurt,"foodFigyogurt,listAllyogurt",Pam's HarvestCraft,9465,FALSE
+harvestcraft:firmtofuitem,2,1.2,0,Firm Tofu,foodFirmtofu,Pam's HarvestCraft,9450,FALSE
+harvestcraft:fishandchipsitem,7,1.2,0,Fish and Chips,foodFishandchips,Pam's HarvestCraft,9159,FALSE
+harvestcraft:fishdinneritem,7,1.2,0,Fish Dinner,foodFishdinner,Pam's HarvestCraft,9235,FALSE
+harvestcraft:fishlettucewrapitem,3,1.2,0,Fish Lettuce Wrap,foodFishlettucewrap,Pam's HarvestCraft,9183,FALSE
+harvestcraft:fishsandwichitem,6,1.2,0,Fish Sandwich,foodFishsandwich,Pam's HarvestCraft,9157,FALSE
+harvestcraft:fishsticksitem,5,1.2,0,Fish Sticks,foodFishsticks,Pam's HarvestCraft,9158,FALSE
+harvestcraft:fishtacoitem,8,1.2,0,Fish Taco,foodFishtaco,Pam's HarvestCraft,9196,FALSE
+harvestcraft:flaxitem,1,0.6,0,Flax,"cropFlax,listAllfiber",Pam's HarvestCraft,8863,FALSE
+harvestcraft:footlongitem,8,1.2,0,Footlong,foodFootlong,Pam's HarvestCraft,9347,FALSE
+harvestcraft:fortunecookieitem,5,1.2,0,Fortune Cookie,"foodFortunecookie,listAllcookie",Pam's HarvestCraft,9684,FALSE
+harvestcraft:frenchtoastitem,8,1.2,0,French Toast,foodFrenchtoast,Pam's HarvestCraft,9331,FALSE
+harvestcraft:friedbolognasandwichitem,8,1.2,0,Fried Bologna Sandwich,foodFriedbolognasandwich,Pam's HarvestCraft,9842,FALSE
+harvestcraft:friedchickenitem,8,1.2,0,Fried Chicken,foodFriedchicken,Pam's HarvestCraft,9346,FALSE
+harvestcraft:friedeggitem,3,1.2,0,Fried Egg,foodFriedegg,Pam's HarvestCraft,9161,FALSE
+harvestcraft:friedfeastitem,18,1.2,0,Fried Feast,foodFriedfeast,Pam's HarvestCraft,9969,FALSE
+harvestcraft:friedgreentomatoesitem,5,1.2,0,Fried Green Tomatoes,foodFriedgreentomatoes,Pam's HarvestCraft,9688,FALSE
+harvestcraft:friedonionsitem,2,1.2,0,Fried Onions,foodFriedonions,Pam's HarvestCraft,9533,FALSE
+harvestcraft:friedpecanokraitem,4,1.2,0,Fried Pecan Okra,foodFriedpecanokra,Pam's HarvestCraft,9568,FALSE
+harvestcraft:friedriceitem,5,1.2,0,Fried Rice,foodFriedrice,Pam's HarvestCraft,9216,FALSE
+harvestcraft:friesitem,2,1.2,0,Fries,foodFries,Pam's HarvestCraft,9145,FALSE
+harvestcraft:frogcookeditem,2,1.2,0,Cooked Frog Legs,"foodFrogcooked,listAllfrogcooked",Pam's HarvestCraft,9519,FALSE
+harvestcraft:froglegstirfryitem,6,1.2,0,Frog Leg Stirfry,foodFroglegstirfry,Pam's HarvestCraft,9717,FALSE
+harvestcraft:frograwitem,1,0.6,0,Raw Frog,"foodFrograw,listAllfrograw",Pam's HarvestCraft,10010,FALSE
+harvestcraft:frosteddonutitem,8,1.2,0,Frosted Donut,foodFrosteddonut,Pam's HarvestCraft,9337,FALSE
+harvestcraft:fruitcakeitem,11,1.2,0,Fruit Cake,foodFruitcake,Pam's HarvestCraft,9925,FALSE
+harvestcraft:fruitcreamfestivalbreaditem,7,1.2,0,Fruit Cream Festival Bread,foodFruitcreamfestivalbread,Pam's HarvestCraft,9722,FALSE
+harvestcraft:fruitcrumbleitem,5,1.2,0,Fruit Crumble,foodFruitcrumble,Pam's HarvestCraft,9305,FALSE
+harvestcraft:fruitpunchitem,2,1.2,0,Fruit Punch,foodFruitpunch,Pam's HarvestCraft,9380,FALSE
+harvestcraft:fruitsaladitem,2,1.2,0,Fruit Salad,foodFruitsalad,Pam's HarvestCraft,9175,FALSE
+harvestcraft:futomakiitem,9,1.2,0,Futo Maki,foodFutomaki,Pam's HarvestCraft,9500,FALSE
+harvestcraft:gardensoupitem,4,1.2,0,Garden Soup,foodGardensoup,Pam's HarvestCraft,9389,FALSE
+harvestcraft:garlicbreaditem,7,1.2,0,Garlic Bread,foodGarlicbread,Pam's HarvestCraft,9279,FALSE
+harvestcraft:garlicchickenitem,6,1.2,0,Garlic Chicken,foodGarlicchicken,Pam's HarvestCraft,9281,FALSE
+harvestcraft:garlicitem,1,0.6,0,Garlic,"cropGarlic,listAllherb,sweetHerb",Pam's HarvestCraft,8779,FALSE
+harvestcraft:garlicmashedpotatoesitem,6,1.2,0,Garlic Mashed Potatoes,foodGarlicmashedpotatoes,Pam's HarvestCraft,9280,FALSE
+harvestcraft:garlicsteakitem,6,1.2,0,Garlic Steak,foodGarlicsteak,Pam's HarvestCraft,9743,FALSE
+harvestcraft:generaltsochickenitem,7,1.2,0,General Tso's Chicken,foodGeneraltsochicken,Pam's HarvestCraft,9498,FALSE
+harvestcraft:gherkinitem,5,1.2,0,Gherkin,foodGherkin,Pam's HarvestCraft,9507,FALSE
+harvestcraft:gigapickleitem,1,0.6,0,Giga Pickle,"foodGigapickle,foodPickles",Pam's HarvestCraft,8847,FALSE
+harvestcraft:gingerbreaditem,7,1.2,0,Ginger Bread,foodGingerbread,Pam's HarvestCraft,9272,FALSE
+harvestcraft:gingerchickenitem,6,1.2,0,Ginger Chicken,foodGingerchicken,Pam's HarvestCraft,9437,FALSE
+harvestcraft:gingeredrhubarbtartitem,8,1.2,0,Gingered Rhubarb Tart,foodGingeredrhubarbtart,Pam's HarvestCraft,9440,FALSE
+harvestcraft:gingeritem,1,0.6,0,Ginger,"cropGinger,foodVegetable,listAllspice",Pam's HarvestCraft,8781,FALSE
+harvestcraft:gingersnapsitem,3,1.2,0,Ginger Snaps,foodGingersnaps,Pam's HarvestCraft,9273,FALSE
+harvestcraft:gingersodaitem,3,1.2,0,Ginger Ale,"foodGingersoda,listAllsoda",Pam's HarvestCraft,9427,FALSE
+harvestcraft:glazedcarrotsitem,4,1.2,0,Glazed Carrots,foodGlazedcarrots,Pam's HarvestCraft,9139,FALSE
+harvestcraft:glisteningsaladitem,12,1.2,0,Glistening Salad,foodGlisteningsalad,Pam's HarvestCraft,9939,FALSE
+harvestcraft:gooseberryitem,1,0.6,0,Gooseberry,"cropGooseberry,listAllberry,listAllfruit",Pam's HarvestCraft,8976,FALSE
+harvestcraft:gooseberryjellyitem,2,1.2,0,Gooseberry Jelly,foodGooseberryjelly,Pam's HarvestCraft,9569,FALSE
+harvestcraft:gooseberryjellysandwichitem,6,1.2,0,Gooseberry Jelly Sandwich,foodGooseberryjellysandwich,Pam's HarvestCraft,9570,FALSE
+harvestcraft:gooseberrymilkshakeitem,3,1.2,0,Gooseberry Milkshake,foodGooseberrymilkeshake,Pam's HarvestCraft,9571,FALSE
+harvestcraft:gooseberrypieitem,5,1.2,0,Gooseberry Pie,foodGooseberrypie,Pam's HarvestCraft,9572,FALSE
+harvestcraft:gooseberrysmoothieitem,3,1.2,0,Gooseberry Smoothie,"foodGooseberrysmoothie,listAllsmoothie",Pam's HarvestCraft,9573,FALSE
+harvestcraft:gooseberryyogurtitem,2,1.2,0,Gooseberry Yogurt,"foodGooseberryyogurt,listAllyogurt",Pam's HarvestCraft,9574,FALSE
+harvestcraft:gourmetbeefburgeritem,19,1.2,0,Gourmet Beef Burger,foodGourmetbeefburger,Pam's HarvestCraft,9973,FALSE
+harvestcraft:gourmetbeefpattyitem,6,1.2,0,Gourmet Beef Patty,foodGourmetbeefpatty,Pam's HarvestCraft,9768,FALSE
+harvestcraft:gourmetmuttonburgeritem,16,1.2,0,Gourmet Mutton Burger,foodGourmetmuttonburger,Pam's HarvestCraft,9961,FALSE
+harvestcraft:gourmetmuttonpattyitem,6,1.2,0,Gourmet Mutton Patty,foodGourmetmuttonpatty,Pam's HarvestCraft,9769,FALSE
+harvestcraft:gourmetporkburgeritem,14,1.2,0,Gourmet Pork Burger,foodGourmetporkburger,Pam's HarvestCraft,9955,FALSE
+harvestcraft:gourmetporkpattyitem,6,1.2,0,Gourmet Pork Patty,foodGourmetporkpatty,Pam's HarvestCraft,9770,FALSE
+harvestcraft:gourmetvenisonburgeritem,20,1.2,0,Gourmet Venison Burger,foodGourmetvenisonburger,Pam's HarvestCraft,9978,FALSE
+harvestcraft:gourmetvenisonpattyitem,6,1.2,0,Gourmet Venison Patty,foodGourmetvenisonpatty,Pam's HarvestCraft,9771,FALSE
+harvestcraft:grapefruititem,1,0.6,0,Grapefruit,"cropGrapefruit,listAllcitrus,listAllfruit",Pam's HarvestCraft,8934,FALSE
+harvestcraft:grapefruitjellyitem,2,1.2,0,Grapefruit Jelly,foodGrapefruitjelly,Pam's HarvestCraft,9466,FALSE
+harvestcraft:grapefruitjellysandwichitem,6,1.2,0,Grapefruit Jelly Sandwich,foodGrapefruitjellysandwich,Pam's HarvestCraft,9467,FALSE
+harvestcraft:grapefruitjuiceitem,2,1.2,0,Grapefruit Juice,"foodGrapefruitjuice,listAlljuice",Pam's HarvestCraft,9134,FALSE
+harvestcraft:grapefruitsmoothieitem,3,1.2,0,Grapefruit Smoothie,"foodGrapefruitjellysmoothie,listAllsmoothie",Pam's HarvestCraft,9468,FALSE
+harvestcraft:grapefruitsodaitem,4,1.2,0,Grapefruit Soda,"foodGrapefruitsoda,listAllsoda",Pam's HarvestCraft,9470,FALSE
+harvestcraft:grapefruityogurtitem,2,1.2,0,Grapefruit Yogurt,"foodGrapefruityogurt,listAllyogurt",Pam's HarvestCraft,9469,FALSE
+harvestcraft:grapeitem,1,0.6,0,Grape,"cropGrape,listAllfruit",Pam's HarvestCraft,8831,FALSE
+harvestcraft:grapejellyitem,2,1.2,0,Grape Jelly,foodGrapejelly,Pam's HarvestCraft,9207,FALSE
+harvestcraft:grapejuiceitem,2,1.2,0,Grape Juice,"foodGrapejuice,listAlljuice",Pam's HarvestCraft,9115,FALSE
+harvestcraft:grapesaladitem,3,1.2,0,Grape Salad,foodGrapesalad,Pam's HarvestCraft,9208,FALSE
+harvestcraft:grapesmoothieitem,3,1.2,0,Grape Smoothie,"foodGrapesmoothie,listAllsmoothie",Pam's HarvestCraft,9598,FALSE
+harvestcraft:grapesodaitem,4,1.2,0,Grape Soda,"foodGrapesoda,listAllsoda",Pam's HarvestCraft,9428,FALSE
+harvestcraft:grapeyogurtitem,2,1.2,0,Grape Yogurt,"foodGrapeyogurt,listAllyogurt",Pam's HarvestCraft,9352,FALSE
+harvestcraft:gravlaxitem,4,1.2,0,Gravlax,foodGravlax,Pam's HarvestCraft,9849,FALSE
+harvestcraft:gravyitem,3,1.2,0,Gravy,foodGravy,Pam's HarvestCraft,9614,FALSE
+harvestcraft:greenbeancasseroleitem,6,1.2,0,Green Bean Casserole,foodGreenbeancasserole,Pam's HarvestCraft,9737,FALSE
+harvestcraft:greeneggsandhamitem,5,1.2,0,Green Eggs and Ham,foodGreeneggsandham,Pam's HarvestCraft,9664,FALSE
+harvestcraft:greengrapeitem,1,0.6,0,Green Grape,"cropGrape,cropGreengrape,listAllfruit",Pam's HarvestCraft,8865,FALSE
+harvestcraft:greenheartfishitem,1,0.6,0,Green Heart Fish,"fish,foodGreenheartfish,listAllfishfresh,listAllfishraw",Pam's HarvestCraft,10026,FALSE
+harvestcraft:greenteaitem,2,1.2,0,Green Tea,foodGreentea,Pam's HarvestCraft,9756,FALSE
+harvestcraft:grilledasparagusitem,2,1.2,0,Grilled Asparagus,foodGrilledasparagus,Pam's HarvestCraft,9086,FALSE
+harvestcraft:grilledcheeseitem,8,1.2,0,Grilled Cheese,foodGrilledcheese,Pam's HarvestCraft,9092,FALSE
+harvestcraft:grilledcheesevegemitetoastitem,9,1.2,0,Grilled Cheese Vegemite Toast,foodGrilledcheesevegemitetoast,Pam's HarvestCraft,9696,FALSE
+harvestcraft:grilledeggplantitem,2,1.2,0,Grilled Eggplant,foodGrilledeggplant,Pam's HarvestCraft,9088,FALSE
+harvestcraft:grilledmushroomitem,2,1.2,0,Grilled Mushroom,foodGrilledmushroom,Pam's HarvestCraft,9146,FALSE
+harvestcraft:grilledskewersitem,4,1.2,0,Grilled Skewer,foodGrilledskewers,Pam's HarvestCraft,9227,FALSE
+harvestcraft:gritsitem,4,1.2,0,Grits,foodGrits,Pam's HarvestCraft,9672,FALSE
+harvestcraft:groiledcheesesandwichitem,10,1.2,0,Groiled Cheese Sandwich,foodGroiledcheesesandwich,Pam's HarvestCraft,9918,FALSE
+harvestcraft:grouperrawitem,1,0.6,0,Raw Grouper,"fish,foodGrouperraw,listAllfishfresh,listAllfishraw",Pam's HarvestCraft,10011,FALSE
+harvestcraft:guacamoleitem,5,1.2,0,Guacamole,foodGuacamole,Pam's HarvestCraft,9301,FALSE
+harvestcraft:guavaitem,1,0.6,0,Guava,listAllfruit,Pam's HarvestCraft,9009,FALSE
+harvestcraft:guisoitem,9,1.2,0,Guiso,foodGuiso,Pam's HarvestCraft,9772,FALSE
+harvestcraft:gumboitem,13,1.2,0,Gumbo,foodGumbo,Pam's HarvestCraft,9950,FALSE
+harvestcraft:gummybearsitem,3,1.2,0,Gummy Bears,foodGummybears,Pam's HarvestCraft,9379,FALSE
+harvestcraft:gyudonitem,6,1.2,0,Gyudon,foodGyudon,Pam's HarvestCraft,9834,FALSE
+harvestcraft:haggisitem,6,1.2,0,Haggis,foodHaggis,Pam's HarvestCraft,9718,FALSE
+harvestcraft:hamandcheesesandwichitem,7,1.2,0,Ham and Cheese Sandwich,foodHamandcheesesandwich,Pam's HarvestCraft,9670,FALSE
+harvestcraft:hamandpineapplepizzaitem,9,1.2,0,Ham and Pineapple Pizza,foodHamandpineapplepizza,Pam's HarvestCraft,9738,FALSE
+harvestcraft:hamburgeritem,6,1.2,0,Hamburger,foodHamburger,Pam's HarvestCraft,9154,FALSE
+harvestcraft:hamsweetpicklesandwichitem,12,1.2,0,Sweet Pickle and Ham Sandwich,foodHamsweetpicklesandwich,Pam's HarvestCraft,9936,FALSE
+harvestcraft:hashitem,5,1.2,0,Hash,foodHash,Pam's HarvestCraft,9188,FALSE
+harvestcraft:hazelnutitem,1,0.6,0,Hazelnut,,Pam's HarvestCraft,8964,FALSE
+harvestcraft:heartybreakfastitem,15,1.2,0,Hearty Breakfast,foodHeartyBreakfast,Pam's HarvestCraft,9958,FALSE
+harvestcraft:herbbutterparsnipsitem,4,1.2,0,Herb Butter Parsnips,foodHerbbutterparsnips,Pam's HarvestCraft,9447,FALSE
+harvestcraft:herringrawitem,1,0.6,0,Raw Herring,"fish,foodHerringraw,listAllfishfresh,listAllfishraw",Pam's HarvestCraft,10012,FALSE
+harvestcraft:homestylelunchitem,11,1.2,0,Homestyle Lunch,foodHomestylelunch,Pam's HarvestCraft,9932,FALSE
+harvestcraft:honeybreaditem,5,1.2,0,Honey Bread,foodHoneybread,Pam's HarvestCraft,9635,FALSE
+harvestcraft:honeybunitem,9,1.2,0,Honeybun,foodHoneybun,Pam's HarvestCraft,9636,FALSE
+harvestcraft:honeycombchocolatebaritem,3,1.2,0,Honeycomb Chocolate Bar,foodHoneycombchocolatebar,Pam's HarvestCraft,9502,FALSE
+harvestcraft:honeyglazedcarrotsitem,6,1.2,0,Honey Glazed Carrots,foodHoneyglazedcarrots,Pam's HarvestCraft,9637,FALSE
+harvestcraft:honeyglazedhamitem,5,1.2,0,Honey Glazed Ham,foodHoneyglazedham,Pam's HarvestCraft,9638,FALSE
+harvestcraft:honeyitem,2,0.6,0,Honey,"dropHoney,foodHoneydrop,listAllsugar",Pam's HarvestCraft,9985,FALSE
+harvestcraft:honeylemonlambitem,6,1.2,0,Honey Lemon Lamb,foodHoneylemonlamb,Pam's HarvestCraft,9442,FALSE
+harvestcraft:honeysandwichitem,6,1.2,0,Honey Sandwich,foodHoneysandwich,Pam's HarvestCraft,9605,FALSE
+harvestcraft:honeysoyribsitem,9,1.2,0,Honey Soy Ribs,foodHoneysoyribs,Pam's HarvestCraft,9639,FALSE
+harvestcraft:hotandsoursoupitem,10,1.2,0,Hot and Sour Soup,foodHotandsoursoup,Pam's HarvestCraft,9906,FALSE
+harvestcraft:hotchocolateitem,2,1.2,0,Hot Chocolate,foodHotchocolate,Pam's HarvestCraft,9171,FALSE
+harvestcraft:hotcocoaitem,5,1.2,0,Hot Cocoa,foodHotcocoa,Pam's HarvestCraft,9856,FALSE
+harvestcraft:hotdishcasseroleitem,9,1.2,0,Hot Dish Casserole,foodHotdishcasserole,Pam's HarvestCraft,9745,FALSE
+harvestcraft:hotdogitem,5,1.2,0,Hotdog,foodHotdog,Pam's HarvestCraft,9152,FALSE
+harvestcraft:hotwingsitem,3,1.2,0,Hot Wings,foodHotwings,Pam's HarvestCraft,9229,FALSE
+harvestcraft:huckleberryitem,1,0.6,0,Huckleberry,"cropHuckleberry,listAllberry,listAllfruit",Pam's HarvestCraft,8867,FALSE
+harvestcraft:hummusitem,5,1.2,0,Hummus,foodHummus,Pam's HarvestCraft,9650,FALSE
+harvestcraft:hushpuppiesitem,5,1.2,0,Hushpuppies,foodHushpuppies,Pam's HarvestCraft,9575,FALSE
+harvestcraft:icecreamitem,3,1.2,0,Ice Cream,"foodIcecream,listAllicecream",Pam's HarvestCraft,9091,FALSE
+harvestcraft:imagawayakiitem,5,1.2,0,Imagawayaki,foodImagawayaki,Pam's HarvestCraft,9836,FALSE
+harvestcraft:imitationcrabsticksitem,6,1.2,0,Imitation Crab Sticks,foodImitationcrabsticks,Pam's HarvestCraft,9846,FALSE
+harvestcraft:ironbrewitem,9,1.2,0,Iron Brew,foodIronbrew,Pam's HarvestCraft,9651,FALSE
+harvestcraft:jackfruititem,1,0.6,0,Jackfruit,listAllveggie,Pam's HarvestCraft,8915,FALSE
+harvestcraft:jaffaitem,6,1.2,0,Jaffa,foodJaffa,Pam's HarvestCraft,9345,FALSE
+harvestcraft:jambalayaitem,13,1.2,0,Jambalaya,foodJambalaya,Pam's HarvestCraft,9951,FALSE
+harvestcraft:jamrollitem,4,1.2,0,Jam Roll,foodJamroll,Pam's HarvestCraft,9609,FALSE
+harvestcraft:jelliedeelitem,5,1.2,0,Jellied Eel,foodJelliedeel,Pam's HarvestCraft,9773,FALSE
+harvestcraft:jellybeansitem,3,1.2,0,Jellybeans,foodJellybeans,Pam's HarvestCraft,9342,FALSE
+harvestcraft:jellydonutitem,6,1.2,0,Jelly Donut,foodJellydonut,Pam's HarvestCraft,9336,FALSE
+harvestcraft:jellyfishrawitem,1,0.6,0,Raw Jellyfish,foodJellyfishraw,Pam's HarvestCraft,10013,FALSE
+harvestcraft:jicamaitem,1,0.6,0,Jicama,"cropJicama,listAllveggie",Pam's HarvestCraft,8869,FALSE
+harvestcraft:juniperberryitem,1,0.6,0,Juniperberry,"cropJuniperberry,listAllberry,listAllfruit",Pam's HarvestCraft,8891,FALSE
+harvestcraft:juteitem,1,0.6,0,Jute,"cropJute,listAllfiber",Pam's HarvestCraft,8871,FALSE
+harvestcraft:kalechipsitem,2,1.2,0,Kale Chips,foodKalechips,Pam's HarvestCraft,9774,FALSE
+harvestcraft:kaleitem,1,0.6,0,Kale,"cropKale,listAllgreenveggie",Pam's HarvestCraft,8849,FALSE
+harvestcraft:kenafitem,1,0.6,0,Kenaf,"cropKenaf,listAllfiber",Pam's HarvestCraft,8873,FALSE
+harvestcraft:keylimepieitem,6,1.2,0,Keylime Pie,foodKeylimepie,Pam's HarvestCraft,9322,FALSE
+harvestcraft:kimchiitem,5,1.2,0,Kimchi,foodKimchi,Pam's HarvestCraft,9576,FALSE
+harvestcraft:kiwiitem,1,0.6,0,Kiwi,"cropKiwi,listAllfruit",Pam's HarvestCraft,8833,FALSE
+harvestcraft:kiwijellyitem,2,1.2,0,Kiwi Jelly,foodKiwijelly,Pam's HarvestCraft,9400,FALSE
+harvestcraft:kiwijellysandwichitem,6,1.2,0,Kiwi Jelly Sandwich,foodKiwijellysandwich,Pam's HarvestCraft,9401,FALSE
+harvestcraft:kiwijuiceitem,2,1.2,0,Kiwi Juice,"foodKiwijuice,listAlljuice",Pam's HarvestCraft,9127,FALSE
+harvestcraft:kiwismoothieitem,3,1.2,0,Kiwi Smoothie,"foodKiwismoothie,listAllsmoothie",Pam's HarvestCraft,9364,FALSE
+harvestcraft:kiwiyogurtitem,2,1.2,0,Kiwi Yogurt,"foodKiwiyogurt,listAllyogurt",Pam's HarvestCraft,9365,FALSE
+harvestcraft:kohlrabiitem,1,0.6,0,Kohlrabi,"cropKohlrabi,listAllveggie",Pam's HarvestCraft,8875,FALSE
+harvestcraft:kohlundpinkelitem,14,1.2,0,Kohl und Pinkel,foodKohlundpinkel,Pam's HarvestCraft,9946,FALSE
+harvestcraft:koreandinneritem,24,1.2,0,Korean Dinner,foodKoreandinner,Pam's HarvestCraft,9977,FALSE
+harvestcraft:kungpaochickenitem,6,1.2,0,Kung Pao Chicken,foodKungpaochicken,Pam's HarvestCraft,9624,FALSE
+harvestcraft:lambbarleysoupitem,7,1.2,0,Lamb Barley Soup,foodLambbarleysoup,Pam's HarvestCraft,9441,FALSE
+harvestcraft:lambkebabitem,5,1.2,0,Lamb Kebab,foodLambkebab,Pam's HarvestCraft,9511,FALSE
+harvestcraft:lambwithmintsauceitem,6,1.2,0,Lamb with Mint Sauce,foodLambwithmintsauce,Pam's HarvestCraft,9554,FALSE
+harvestcraft:lasagnaitem,6,1.2,0,Lasagna,foodLasagna,Pam's HarvestCraft,9652,FALSE
+harvestcraft:lavendershortbreaditem,4,1.2,0,Lavender Shortbread,foodLavendershortbread,Pam's HarvestCraft,9493,FALSE
+harvestcraft:leafychickensandwichitem,7,1.2,0,Leafy Chicken Sandwich,foodLeafychickensandwich,Pam's HarvestCraft,9185,FALSE
+harvestcraft:leafyfishsandwichitem,7,1.2,0,Leafy Fish Sandwich,foodLeafyfishsandwich,Pam's HarvestCraft,9186,FALSE
+harvestcraft:leekbaconsoupitem,5,1.2,0,Leek Bacon Soup,foodLeekbaconsoup,Pam's HarvestCraft,9446,FALSE
+harvestcraft:leekitem,1,0.6,0,Leek,"cropLeek,foodVegetable,listAllveggie",Pam's HarvestCraft,8795,FALSE
+harvestcraft:lemonaideitem,3,1.2,0,Lemonade,foodLemonaide,Pam's HarvestCraft,9233,FALSE
+harvestcraft:lemonbaritem,5,1.2,0,Lemon Bar,foodLemonbar,Pam's HarvestCraft,9234,FALSE
+harvestcraft:lemonchickenitem,5,1.2,0,Lemon Chicken,foodLemonchicken,Pam's HarvestCraft,9239,FALSE
+harvestcraft:lemoncupcakeitem,8,1.2,0,Lemon Cupcake,foodLemoncupcake,Pam's HarvestCraft,9794,FALSE
+harvestcraft:lemondrizzlecakeitem,7,1.2,0,Lemon Drizzle Cake,foodLemondrizzlecake,Pam's HarvestCraft,9653,FALSE
+harvestcraft:lemonitem,1,0.6,0,Lemon,"cropLemon,listAllcitrus,listAllfruit",Pam's HarvestCraft,8923,FALSE
+harvestcraft:lemonjellyitem,2,1.2,0,Lemon Jelly,foodLemonjelly,Pam's HarvestCraft,9402,FALSE
+harvestcraft:lemonjellysandwichitem,6,1.2,0,Lemon Jelly Sandwich,foodLemonjellysandwich,Pam's HarvestCraft,9403,FALSE
+harvestcraft:lemonlimesodaitem,5,1.2,0,Lemon-Lime Soda,"foodLemonlimesoda,listAllsoda",Pam's HarvestCraft,9429,FALSE
+harvestcraft:lemonmeringueitem,6,1.2,0,Lemon Meringue,foodLemonmeringue,Pam's HarvestCraft,9237,FALSE
+harvestcraft:lemonsmoothieitem,3,1.2,0,Lemon Smoothie,"foodLemonsmoothie,listAllsmoothie",Pam's HarvestCraft,9236,FALSE
+harvestcraft:lemonyogurtitem,2,1.2,0,Lemon Yogurt,"foodLemonyogurt,listAllyogurt",Pam's HarvestCraft,9349,FALSE
+harvestcraft:lentilitem,1,0.6,0,Lentils,"cropLentil,listAllveggie",Pam's HarvestCraft,8877,FALSE
+harvestcraft:lettuceitem,1,0.6,0,Lettuce,"cropLettuce,listAllgreenveggie,listAllveggie",Pam's HarvestCraft,8797,FALSE
+harvestcraft:limeitem,1,0.6,0,Lime,"cropLime,listAllcitrus,listAllfruit",Pam's HarvestCraft,8967,FALSE
+harvestcraft:limejellyitem,2,1.2,0,Lime Jelly,foodLimejelly,Pam's HarvestCraft,9404,FALSE
+harvestcraft:limejellysandwichitem,6,1.2,0,Lime Jelly Sandwich,foodLimejellysandwich,Pam's HarvestCraft,9405,FALSE
+harvestcraft:limejuiceitem,2,1.2,0,Lime Juice,"foodLimejuice,listAlljuice",Pam's HarvestCraft,9122,FALSE
+harvestcraft:limesmoothieitem,3,1.2,0,Lime Smoothie,"foodLimesmoothie,listAllsmoothie",Pam's HarvestCraft,9323,FALSE
+harvestcraft:limeyogurtitem,2,1.2,0,Lime Yogurt,"foodLimeyogurt,listAllyogurt",Pam's HarvestCraft,9324,FALSE
+harvestcraft:liverandonionsitem,4,1.2,0,Liver and Onions,foodLiverandonions,Pam's HarvestCraft,9683,FALSE
+harvestcraft:loadedbakedpotatoitem,8,1.2,0,Loaded Baked Potato,foodLoadedbakedpotato,Pam's HarvestCraft,9141,FALSE
+harvestcraft:lycheeitem,1,0.6,0,Lychee,listAllfruit,Pam's HarvestCraft,9003,FALSE
+harvestcraft:lycheeteaitem,3,1.2,0,Lychee Tea,foodLycheetea,Pam's HarvestCraft,9823,FALSE
+harvestcraft:mangochutneyitem,4,1.2,0,Mango Chutney,foodMangochutney,Pam's HarvestCraft,9615,FALSE
+harvestcraft:mangoitem,1,0.6,0,Mango,"cropMango,listAllfruit",Pam's HarvestCraft,8991,FALSE
+harvestcraft:mangojellyitem,2,1.2,0,Mango Jelly,foodMangojelly,Pam's HarvestCraft,9406,FALSE
+harvestcraft:mangojellysandwichitem,6,1.2,0,Mango Jelly Sandwich,foodMangojellysandwich,Pam's HarvestCraft,9407,FALSE
+harvestcraft:mangojuiceitem,2,1.2,0,Mango Juice,"foodMangojuice,listAlljuice",Pam's HarvestCraft,9123,FALSE
+harvestcraft:mangosmoothieitem,3,1.2,0,Mango Smoothie,"foodMangosmoothie,listAllsmoothie",Pam's HarvestCraft,9325,FALSE
+harvestcraft:mangoyogurtitem,2,1.2,0,Mango Yogurt,"foodMangoyogurt,listAllyogurt",Pam's HarvestCraft,9326,FALSE
+harvestcraft:manjuuitem,3,1.2,0,Manj?,foodManjuu,Pam's HarvestCraft,9496,FALSE
+harvestcraft:maplecandiedbaconitem,3,1.2,0,Maple Candied Bacon,foodMaplecandiedbacon,Pam's HarvestCraft,9487,FALSE
+harvestcraft:mapleoatmealitem,2,1.2,0,Maple Oatmeal,foodMapleoatmeal,Pam's HarvestCraft,9484,FALSE
+harvestcraft:maplesausageitem,4,1.2,0,Maple Sausage,foodMaplesausage,Pam's HarvestCraft,9483,FALSE
+harvestcraft:maplesyrupitem,1,0.6,0,Sweet Syrup,cropMaplesyrup,Pam's HarvestCraft,9027,FALSE
+harvestcraft:maplesyruppancakesitem,7,1.2,0,Maple Syrup Pancakes,foodMaplesyruppancakes,Pam's HarvestCraft,9481,FALSE
+harvestcraft:maplesyrupwafflesitem,7,1.2,0,Maple Syrup Waffles,foodMaplesyrupwaffles,Pam's HarvestCraft,9482,FALSE
+harvestcraft:marinatedcucumbersitem,5,1.2,0,Marinated Cucumbers,foodMarinatedcucumbers,Pam's HarvestCraft,9214,FALSE
+harvestcraft:marshmellowchicksitem,6,1.2,0,Marshmellow Chicks,foodMarshmellowchicks,Pam's HarvestCraft,9859,FALSE
+harvestcraft:marshmellowsitem,4,1.2,0,Marshmallows,foodMarshmellows,Pam's HarvestCraft,9332,FALSE
+harvestcraft:marzipanitem,3,1.2,0,Marzipan,foodMarzipan,Pam's HarvestCraft,9616,FALSE
+harvestcraft:mashedpotatoeschickenbiscuititem,12,1.2,0,Mashed Potatoes and Chicken Biscuit,foodMashedpotatoeschickenbiscuit,Pam's HarvestCraft,9941,FALSE
+harvestcraft:mashedpotatoesitem,5,1.2,0,Mashed Potatoes,foodMashedpotatoes,Pam's HarvestCraft,9142,FALSE
+harvestcraft:mashedsweetpotatoesitem,3,1.2,0,Mashed Sweet Potatoes,foodMashedsweetpotatoes,Pam's HarvestCraft,9264,FALSE
+harvestcraft:mcpamitem,16,1.2,0,McPam,foodMcpam,Pam's HarvestCraft,9959,FALSE
+harvestcraft:meatfeastpizzaitem,24,1.2,0,Meat Feast Pizza,foodMeatfeastpizza,Pam's HarvestCraft,9975,FALSE
+harvestcraft:meatloafitem,8,1.2,0,Meatloaf,foodMeatloaf,Pam's HarvestCraft,9654,FALSE
+harvestcraft:meatloafsandwichitem,12,1.2,0,Meatloaf Sandwich,foodMeatloafsandwich,Pam's HarvestCraft,9940,FALSE
+harvestcraft:meatpieitem,10,1.2,0,Meat Pie,foodMeatpie,Pam's HarvestCraft,9902,FALSE
+harvestcraft:meatystewitem,5,1.2,0,Meaty Stew,foodMeatystew,Pam's HarvestCraft,9381,FALSE
+harvestcraft:meatystirfryitem,6,1.2,0,Meaty Stirfry,foodMeatystirfry,Pam's HarvestCraft,9729,FALSE
+harvestcraft:meesuaitem,8,1.2,0,Mee Sua,foodMeesua,Pam's HarvestCraft,9757,FALSE
+harvestcraft:melonjuiceitem,2,1.2,0,Melon Juice,"foodMelonjuice,listAlljuice",Pam's HarvestCraft,9112,FALSE
+harvestcraft:melonsmoothieitem,3,1.2,0,Melon Smoothie,"foodMelonsmoothie,listAllsmoothie",Pam's HarvestCraft,9137,FALSE
+harvestcraft:melonyogurtitem,2,1.2,0,Melon Yogurt,"foodMelonyogurt,listAllyogurt",Pam's HarvestCraft,9363,FALSE
+harvestcraft:meringuebombeitem,9,1.2,0,Meringue Bombe,foodMeringuebombe,Pam's HarvestCraft,9815,FALSE
+harvestcraft:meringuebrownieitem,5,1.2,0,Meringue Brownie,foodMeringuebrownie,Pam's HarvestCraft,9816,FALSE
+harvestcraft:meringuecookieitem,6,1.2,0,Meringue Cookie,foodMeringuecookie,Pam's HarvestCraft,9817,FALSE
+harvestcraft:meringuerouladeitem,5,1.2,0,Meringue Roulade,foodMeringueroulade,Pam's HarvestCraft,9818,FALSE
+harvestcraft:merveilleuxitem,3,1.2,0,Merveilleux,foodMerveilleux,Pam's HarvestCraft,9819,FALSE
+harvestcraft:mettbrotchenitem,8,1.2,0,Mettbrötchen,foodMettbrotchen,Pam's HarvestCraft,9747,FALSE
+harvestcraft:milletitem,1,0.6,0,Millet,"cropMillet,listAllgrain",Pam's HarvestCraft,8879,FALSE
+harvestcraft:mincepieitem,9,1.2,0,Mince Pie,foodMincepie,Pam's HarvestCraft,9534,FALSE
+harvestcraft:minerstewitem,25,1.2,0,Miner's Stew,foodMinerstew,Pam's HarvestCraft,9979,FALSE
+harvestcraft:mintchocolatechipicecreamitem,5,1.2,0,Mint Chocolate Chip Ice Cream,foodMintchocolatechipicecream,Pam's HarvestCraft,9434,FALSE
+harvestcraft:mintcupcakeitem,8,1.2,0,Mint Cupcake,foodMintcupcake,Pam's HarvestCraft,9796,FALSE
+harvestcraft:misopasteitem,1,1.2,0,Miso Paste,foodMisopaste,Pam's HarvestCraft,9847,FALSE
+harvestcraft:misosoupitem,3,1.2,0,Miso Soup,foodMisosoup,Pam's HarvestCraft,9694,FALSE
+harvestcraft:mixedsaladitem,6,1.2,0,Mixed Salad,foodMixedsalad,Pam's HarvestCraft,9382,FALSE
+harvestcraft:mobsoupitem,11,1.2,0,Mob Soup,foodMobsoup,Pam's HarvestCraft,9934,FALSE
+harvestcraft:mochaicecreamitem,5,1.2,0,Mocha Ice Cream,foodMochaicecream,Pam's HarvestCraft,9254,FALSE
+harvestcraft:mochicakeitem,7,1.2,0,Mochi Cake,foodMochicake,Pam's HarvestCraft,9837,FALSE
+harvestcraft:mochidessertitem,6,1.2,0,Mochi Dessert,foodMochidessert,Pam's HarvestCraft,9838,FALSE
+harvestcraft:mochiitem,3,1.2,0,Mochi,foodMochi,Pam's HarvestCraft,9577,FALSE
+harvestcraft:monsterfrieddumplingsitem,6,1.2,0,Monster Fried Dumplings,foodMonsterfrieddumplings,Pam's HarvestCraft,9697,FALSE
+harvestcraft:montecristosandwichitem,11,1.2,0,Monte Cristo Sandwich,foodMontecristosandwich,Pam's HarvestCraft,9933,FALSE
+harvestcraft:mozzerellasticksitem,6,1.2,0,Mozzerella Sticks,foodMozzerellasticks,Pam's HarvestCraft,9686,FALSE
+harvestcraft:mudfishrawitem,1,0.6,0,Raw Mudfish,"fish,foodMudfishraw,listAllfishfresh,listAllfishraw",Pam's HarvestCraft,10014,FALSE
+harvestcraft:mulberryitem,1,0.6,0,Mulberry,"cropMulberry,listAllberry,listAllfruit",Pam's HarvestCraft,8881,FALSE
+harvestcraft:museliitem,6,1.2,0,Muesli,foodMuseli,Pam's HarvestCraft,9578,FALSE
+harvestcraft:mushroomketchupitem,1,1.2,0,Mushroom Ketchup,foodMushroomketchup,Pam's HarvestCraft,9822,FALSE
+harvestcraft:mushroomketchupomeletitem,3,1.2,0,Mushroom Ketchup Omelet,foodMushroomketchupomelet,Pam's HarvestCraft,9821,FALSE
+harvestcraft:mushroomlasagnaitem,7,1.2,0,Mushroom Lasagna,foodMushroomlasagna,Pam's HarvestCraft,9655,FALSE
+harvestcraft:mushroomrisottoitem,5,1.2,0,Mushroom Risotto,foodMushroomrisotto,Pam's HarvestCraft,9217,FALSE
+harvestcraft:mushroomsteakitem,6,1.2,0,Mushroom Steak,foodMushroomsteak,Pam's HarvestCraft,9744,FALSE
+harvestcraft:musselcookeditem,2,1.2,0,Cooked Mussel,foodMusselcooked,Pam's HarvestCraft,9656,FALSE
+harvestcraft:musselrawitem,1,0.6,0,Raw Mussel,foodMusselraw,Pam's HarvestCraft,10028,FALSE
+harvestcraft:mustardseedsitem,1,0.6,0,Mustard Seeds,"cropMustard,listAllspice",Pam's HarvestCraft,8789,FALSE
+harvestcraft:musubiitem,4,1.2,0,Musubi,foodMusubi,Pam's HarvestCraft,9845,FALSE
+harvestcraft:naanitem,5,1.2,0,Naan,foodNaan,Pam's HarvestCraft,9579,FALSE
+harvestcraft:nachoesitem,5,1.2,0,Nachos,foodNachoes,Pam's HarvestCraft,9194,FALSE
+harvestcraft:neapolitanicecreamitem,4,1.2,0,Neapolitan Ice Cream,foodNeapolitanicecream,Pam's HarvestCraft,9558,FALSE
+harvestcraft:netherstartoastitem,16,1.2,0,Nether Star on Toast,foodNetherstartoast,Pam's HarvestCraft,9962,FALSE
+harvestcraft:netherwingsitem,9,1.2,0,Nether Wings,foodNetherwings,Pam's HarvestCraft,9657,FALSE
+harvestcraft:nopalessaladitem,6,1.2,0,Nopales Salad,foodNopalessalad,Pam's HarvestCraft,9809,FALSE
+harvestcraft:nutellaitem,2,1.2,0,Nutella,foodNutella,Pam's HarvestCraft,9512,FALSE
+harvestcraft:nutmegitem,1,0.6,0,Nutmeg,cropNutmeg,Pam's HarvestCraft,9015,FALSE
+harvestcraft:oatsitem,1,0.6,0,Oats,"cropOats,listAllgrain",Pam's HarvestCraft,8743,FALSE
+harvestcraft:octopuscookeditem,2,1.2,0,Cooked Octopus,foodOctopuscooked,Pam's HarvestCraft,9520,FALSE
+harvestcraft:octopusrawitem,1,0.6,0,Raw Octopus,foodOctopusraw,Pam's HarvestCraft,10015,FALSE
+harvestcraft:okrachipsitem,3,1.2,0,Okra Chips,foodOkrachips,Pam's HarvestCraft,9580,FALSE
+harvestcraft:okracreoleitem,6,1.2,0,Okra Creole,foodOkracreole,Pam's HarvestCraft,9581,FALSE
+harvestcraft:okraitem,1,0.6,0,Okra,"cropOkra,listAllgreenveggie,listAllveggie",Pam's HarvestCraft,8821,FALSE
+harvestcraft:oldworldveggiesoupitem,5,1.2,0,Old World Veggie Soup,foodOldworldveggiesoup,Pam's HarvestCraft,9438,FALSE
+harvestcraft:oliveitem,1,0.6,0,Olive,cropOlive,Pam's HarvestCraft,8929,FALSE
+harvestcraft:omeletitem,4,1.2,0,Omelet,foodOmelet,Pam's HarvestCraft,9228,FALSE
+harvestcraft:omuriceitem,8,1.2,0,Omurice,foodOmurice,Pam's HarvestCraft,9713,FALSE
+harvestcraft:onigiriitem,3,1.2,0,Onigiri,foodOnigiri,Pam's HarvestCraft,9695,FALSE
+harvestcraft:onionhamburgeritem,8,1.2,0,Onion Hamburger,foodOnionhamburger,Pam's HarvestCraft,9535,FALSE
+harvestcraft:onionitem,1,0.6,0,Onion,"cropOnion,foodVegetable,listAllveggie",Pam's HarvestCraft,8761,FALSE
+harvestcraft:onionsoupitem,11,1.2,0,Onion Soup,foodOnionsoup,Pam's HarvestCraft,9929,FALSE
+harvestcraft:orangechickenitem,6,1.2,0,Orange Chicken,foodOrangechicken,Pam's HarvestCraft,9316,FALSE
+harvestcraft:orangeduckitem,7,1.2,0,Orange Duck,foodOrangeduck,Pam's HarvestCraft,9731,FALSE
+harvestcraft:orangeitem,1,0.6,0,Orange,"cropOrange,listAllcitrus,listAllfruit",Pam's HarvestCraft,8997,FALSE
+harvestcraft:orangejellyitem,2,1.2,0,Orange Jelly,foodOrangejelly,Pam's HarvestCraft,9408,FALSE
+harvestcraft:orangejellysandwichitem,6,1.2,0,Orange Jelly Sandwich,foodOrangejellysandwich,Pam's HarvestCraft,9409,FALSE
+harvestcraft:orangejuiceitem,2,1.2,0,Orange Juice,"foodOrangejuice,listAlljuice",Pam's HarvestCraft,9120,FALSE
+harvestcraft:orangesmoothieitem,3,1.2,0,Orange Smoothie,"foodOrangesmoothie,listAllsmoothie",Pam's HarvestCraft,9317,FALSE
+harvestcraft:orangesodaitem,4,1.2,0,Orange Soda,"foodOrangesoda,listAllsoda",Pam's HarvestCraft,9430,FALSE
+harvestcraft:orangeyogurtitem,2,1.2,0,Orange Yogurt,"foodOrangeyogurt,listAllyogurt",Pam's HarvestCraft,9318,FALSE
+harvestcraft:ovenroastedcaulifloweritem,4,1.2,0,Oven Roasted Cauliflower,foodOvenroastedcauliflower,Pam's HarvestCraft,9445,FALSE
+harvestcraft:oystercookeditem,2,1.2,0,Cooked Oyster,foodOystercooked,Pam's HarvestCraft,9525,FALSE
+harvestcraft:oysterrawitem,1,0.6,0,Raw Oyster,foodOysterraw,Pam's HarvestCraft,10030,FALSE
+harvestcraft:oystersauceitem,4,1.2,0,Oyster Sauce,foodOystersauce,Pam's HarvestCraft,9758,FALSE
+harvestcraft:padthaiitem,8,1.2,0,Pad Thai,foodPadthai,Pam's HarvestCraft,9775,FALSE
+harvestcraft:pambitsboxitem,8,1.2,0,Pam Bits Box,foodPambitsbox,Pam's HarvestCraft,9801,FALSE
+harvestcraft:pancakesitem,4,1.2,0,Pancakes,foodPancakes,Pam's HarvestCraft,9243,FALSE
+harvestcraft:paneeritem,1,1.2,0,Paneer,foodPaneer,Pam's HarvestCraft,9613,FALSE
+harvestcraft:paneertikkamasalaitem,9,1.2,0,Paneer Tikka Masala,foodPaneertikkamasala,Pam's HarvestCraft,9617,FALSE
+harvestcraft:papayaitem,1,0.6,0,Papaya,"cropPapaya,listAllfruit",Pam's HarvestCraft,8897,FALSE
+harvestcraft:papayajellyitem,2,1.2,0,Papaya Jelly,foodPapayajelly,Pam's HarvestCraft,9410,FALSE
+harvestcraft:papayajellysandwichitem,6,1.2,0,Papaya Jelly Sandwich,foodPapayajellysandwich,Pam's HarvestCraft,9411,FALSE
+harvestcraft:papayajuiceitem,2,1.2,0,Papaya Juice,"foodPapayajuice,listAlljuice",Pam's HarvestCraft,9118,FALSE
+harvestcraft:papayasmoothieitem,3,1.2,0,Papaya Smoothie,"foodPapayasmoothie,listAllsmoothie",Pam's HarvestCraft,9297,FALSE
+harvestcraft:papayayogurtitem,2,1.2,0,Papaya Yogurt,"foodPapayayogurt,listAllyogurt",Pam's HarvestCraft,9298,FALSE
+harvestcraft:paradiseburgeritem,16,1.2,0,Paradise Burger,foodParadiseburger,Pam's HarvestCraft,9963,FALSE
+harvestcraft:parsnipitem,1,0.6,0,Parsnip,"cropParsnip,foodVegetable,listAllrootveggie,listAllveggie",Pam's HarvestCraft,8763,FALSE
+harvestcraft:passionfruititem,1,0.6,0,Passion Fruit,listAllfruit,Pam's HarvestCraft,8918,FALSE
+harvestcraft:pastagardeniaitem,6,1.2,0,Pasta Gardenia,foodPastagardenia,Pam's HarvestCraft,9703,FALSE
+harvestcraft:patreonpieitem,10,1.2,0,Patreon Pie,foodPatreonpie,Pam's HarvestCraft,9907,FALSE
+harvestcraft:pawpawitem,1,0.6,0,Pawpaw,listAllfruit,Pam's HarvestCraft,8985,FALSE
+harvestcraft:pbandjitem,6,1.2,0,PBJ Sandwich,foodPbandj,Pam's HarvestCraft,9204,FALSE
+harvestcraft:peaandhamsoupitem,7,1.2,0,Pea and Ham Soup,foodPeaandhamsoup,Pam's HarvestCraft,9618,FALSE
+harvestcraft:peachcobbleritem,5,1.2,0,Peach Cobbler,foodPeachcobbler,Pam's HarvestCraft,9319,FALSE
+harvestcraft:peachesandcreamoatmealitem,3,1.2,0,Peaches and Cream Oatmeal,foodPeachesandcreamoatmeal,Pam's HarvestCraft,9485,FALSE
+harvestcraft:peachitem,1,0.6,0,Peach,"cropPeach,listAllfruit",Pam's HarvestCraft,8979,FALSE
+harvestcraft:peachjellyitem,2,1.2,0,Peach Jelly,foodPeachjelly,Pam's HarvestCraft,9412,FALSE
+harvestcraft:peachjellysandwichitem,6,1.2,0,Peach Jelly Sandwich,foodPeachjellysandwich,Pam's HarvestCraft,9413,FALSE
+harvestcraft:peachjuiceitem,2,1.2,0,Peach Juice,"foodPeachjuice,listAlljuice",Pam's HarvestCraft,9121,FALSE
+harvestcraft:peachsmoothieitem,3,1.2,0,Peach Smoothie,"foodPeachsmoothie,listAllsmoothie",Pam's HarvestCraft,9320,FALSE
+harvestcraft:peachyogurtitem,2,1.2,0,Peach Yogurt,"foodPeachyogurt,listAllyogurt",Pam's HarvestCraft,9321,FALSE
+harvestcraft:peanutbutterbananasandwichitem,5,1.2,0,Peanut Butter and Banana Sandwich,foodPeanutbutterbananasandwich,Pam's HarvestCraft,9776,FALSE
+harvestcraft:peanutbuttercookiesitem,5,1.2,0,Peanut Butter Cookies,"foodPeanutbuttercookies,listAllcookie",Pam's HarvestCraft,9205,FALSE
+harvestcraft:peanutbuttercupcakeitem,8,1.2,0,Peanut Butter Cupcake,foodPeanutbuttercupcake,Pam's HarvestCraft,9793,FALSE
+harvestcraft:peanutbuttercupitem,3,1.2,0,Peanut Butter Cup,foodPeanutbuttercup,Pam's HarvestCraft,9777,FALSE
+harvestcraft:peanutbutteritem,1,1.2,0,Peanut Butter,"foodPeanutbutter,listAllnutbutter",Pam's HarvestCraft,9202,FALSE
+harvestcraft:peanutitem,1,0.6,0,Peanut,"cropPeanut,listAllnut",Pam's HarvestCraft,8765,FALSE
+harvestcraft:peanutsoupitem,5,1.2,0,Peanut Soup,foodPeanutsoup,Pam's HarvestCraft,9830,FALSE
+harvestcraft:pearitem,1,0.6,0,Pear,"cropPear,listAllfruit",Pam's HarvestCraft,8926,FALSE
+harvestcraft:pearjellyitem,2,1.2,0,Pear Jelly,foodPearjelly,Pam's HarvestCraft,9600,FALSE
+harvestcraft:pearjellysandwichitem,6,1.2,0,Pear Jelly Sandwich,foodPearjellysandwich,Pam's HarvestCraft,9601,FALSE
+harvestcraft:pearjuiceitem,2,1.2,0,Pear Juice,"foodPearjuice,listAlljuice",Pam's HarvestCraft,9131,FALSE
+harvestcraft:pearsmoothieitem,3,1.2,0,Pear Smoothie,"foodPearsmoothie,listAllsmoothie",Pam's HarvestCraft,9599,FALSE
+harvestcraft:pearyogurtitem,2,1.2,0,Pear Yogurt,"foodPearyogurt,listAllyogurt",Pam's HarvestCraft,9306,FALSE
+harvestcraft:peasandceleryitem,4,1.2,0,Peas and Celery,foodPeasandcelery,Pam's HarvestCraft,9286,FALSE
+harvestcraft:peasitem,1,0.6,0,Peas,"cropPeas,listAllgreenveggie,listAllveggie",Pam's HarvestCraft,8823,FALSE
+harvestcraft:pecanitem,1,0.6,0,Pecan,"cropPecan,listAllnut",Pam's HarvestCraft,8958,FALSE
+harvestcraft:pecanpieitem,7,1.2,0,Pecan Pie,foodPecanpie,Pam's HarvestCraft,9472,FALSE
+harvestcraft:pekingduckitem,7,1.2,0,Peking Duck,foodPekingduck,Pam's HarvestCraft,9732,FALSE
+harvestcraft:pemmicanitem,6,1.2,0,Pemmican,foodPemmican,Pam's HarvestCraft,9714,FALSE
+harvestcraft:peppercornitem,1,0.6,0,Peppercorn,cropPeppercorn,Pam's HarvestCraft,8970,FALSE
+harvestcraft:pepperjellyandcrackersitem,8,1.2,0,Pepper Jelly and Crackers,foodPepperjellyandcrackers,Pam's HarvestCraft,9708,FALSE
+harvestcraft:pepperjellyitem,2,1.2,0,Pepper Jelly,foodPepperjelly,Pam's HarvestCraft,9707,FALSE
+harvestcraft:peppermintitem,2,1.2,0,Peppermint,foodPeppermint,Pam's HarvestCraft,9373,FALSE
+harvestcraft:pepperoniitem,5,1.2,0,Pepperoni,foodPepperoni,Pam's HarvestCraft,9536,FALSE
+harvestcraft:perchrawitem,1,0.6,0,Raw Perch,"fish,foodPerchraw,listAllfishfresh,listAllfishraw",Pam's HarvestCraft,10016,FALSE
+harvestcraft:persimmonitem,1,0.6,0,Persimmon,"cropPersimmon,listAllfruit",Pam's HarvestCraft,9006,FALSE
+harvestcraft:persimmonjellyitem,2,1.2,0,Persimmon Jelly,foodPersimmonjelly,Pam's HarvestCraft,9476,FALSE
+harvestcraft:persimmonjellysandwichitem,6,1.2,0,Persimmon Jelly Sandwich,foodPersimmonjellysanwich,Pam's HarvestCraft,9477,FALSE
+harvestcraft:persimmonjuiceitem,2,1.2,0,Persimmon Juice,"foodPersimmonjuice,listAlljuice",Pam's HarvestCraft,9135,FALSE
+harvestcraft:persimmonsmoothieitem,3,1.2,0,Persimmon Smoothie,"foodPersimmonsmoothie,listAllsmoothie",Pam's HarvestCraft,9475,FALSE
+harvestcraft:persimmonyogurtitem,2,1.2,0,Persimmon Yogurt,"foodPersimmonyogurt,listAllyogurt",Pam's HarvestCraft,9474,FALSE
+harvestcraft:phoitem,6,1.2,0,Pho,foodPho,Pam's HarvestCraft,9723,FALSE
+harvestcraft:pickledbeetsitem,4,1.2,0,Pickled Beets,foodPickledbeets,Pam's HarvestCraft,9255,FALSE
+harvestcraft:pickledonionsitem,4,1.2,0,Pickled Onions,foodPickledonions,Pam's HarvestCraft,9537,FALSE
+harvestcraft:picklesitem,4,1.2,0,Pickles,foodPickles,Pam's HarvestCraft,9210,FALSE
+harvestcraft:pinacoladaitem,2,1.2,0,Pinacolada,foodPinacolada,Pam's HarvestCraft,9383,FALSE
+harvestcraft:pineapplehamitem,5,1.2,0,Pineapple Ham,foodPineappleham,Pam's HarvestCraft,9267,FALSE
+harvestcraft:pineappleitem,1,0.6,0,Pineapple,"cropPineapple,listAllfruit",Pam's HarvestCraft,8829,FALSE
+harvestcraft:pineappleyogurtitem,2,1.2,0,Pineapple Yogurt,"foodPineappleyogurt,listAllyogurt",Pam's HarvestCraft,9268,FALSE
+harvestcraft:pinkelitem,4,1.2,0,Pinkel,foodPinkel,Pam's HarvestCraft,9778,FALSE
+harvestcraft:pistachiobakedsalmonitem,3,1.2,0,Pistachio Baked Salmon,foodPistachiobakedsalmon,Pam's HarvestCraft,9478,FALSE
+harvestcraft:pistachiobutteritem,1,1.2,0,Pistachio Butter,"foodPistachiobutter,listAllnutbutter",Pam's HarvestCraft,9582,FALSE
+harvestcraft:pistachioicecreamitem,4,1.2,0,Pistachio Ice Cream,foodPistachioicecream,Pam's HarvestCraft,9557,FALSE
+harvestcraft:pistachioitem,1,0.6,0,Pistachio,"cropPistachio,listAllnut",Pam's HarvestCraft,8961,FALSE
+harvestcraft:pitepaltitem,6,1.2,0,Pitepalt,foodPitepalt,Pam's HarvestCraft,9779,FALSE
+harvestcraft:pizzaitem,11,1.2,0,Pizza,foodPizza,Pam's HarvestCraft,9928,FALSE
+harvestcraft:pizzasliceitem,2,1.2,0,Pizza Slice,foodPizzaslice,Pam's HarvestCraft,9860,FALSE
+harvestcraft:pizzasoupitem,9,1.2,0,Pizza Soup,foodPizzasoup,Pam's HarvestCraft,9658,FALSE
+harvestcraft:plainyogurtitem,1,1.2,0,Plain Yogurt,foodPlainyogurt,Pam's HarvestCraft,9366,FALSE
+harvestcraft:ploughmanslunchitem,18,1.2,0,Ploughman's Lunch,foodPloughmanslunch,Pam's HarvestCraft,9966,FALSE
+harvestcraft:plumitem,1,0.6,0,Plum,"cropPlum,listAllfruit",Pam's HarvestCraft,8952,FALSE
+harvestcraft:plumjellyitem,2,1.2,0,Plum Jelly,foodPlumjelly,Pam's HarvestCraft,9603,FALSE
+harvestcraft:plumjellysandwichitem,6,1.2,0,Plum Jelly Sandwich,foodPlumjellysandwich,Pam's HarvestCraft,9604,FALSE
+harvestcraft:plumjuiceitem,2,1.2,0,Plum Juice,"foodPlumjuice,listAlljuice",Pam's HarvestCraft,9130,FALSE
+harvestcraft:plumsmoothieitem,3,1.2,0,Plum Smoothie,"foodPlumsmoothie,listAllsmoothie",Pam's HarvestCraft,9602,FALSE
+harvestcraft:plumyogurtitem,2,1.2,0,Plum Yogurt,"foodPlumyogurt,listAllyogurt",Pam's HarvestCraft,9307,FALSE
+harvestcraft:poachedpearitem,3,1.2,0,Poached Pear,foodPoachedpear,Pam's HarvestCraft,9304,FALSE
+harvestcraft:pomegranateitem,1,0.6,0,Pomegranate,"cropPomegranate,listAllfruit",Pam's HarvestCraft,8937,FALSE
+harvestcraft:pomegranatejellyitem,2,1.2,0,Pomegranate Jelly,foodPomegranatejelly,Pam's HarvestCraft,9414,FALSE
+harvestcraft:pomegranatejellysandwichitem,6,1.2,0,Pomegranate Jelly Sandwich,foodPomegranatejellysandwich,Pam's HarvestCraft,9415,FALSE
+harvestcraft:pomegranatejuiceitem,2,1.2,0,Pomegranate Juice,"foodPomegranatejuice,listAlljuice",Pam's HarvestCraft,9124,FALSE
+harvestcraft:pomegranatesmoothieitem,3,1.2,0,Pomegranate Smoothie,"foodPomegranatesmoothie,listAllsmoothie",Pam's HarvestCraft,9327,FALSE
+harvestcraft:pomegranateyogurtitem,2,1.2,0,Pomegranate Yogurt,"foodPomegranateyogurt,listAllyogurt",Pam's HarvestCraft,9328,FALSE
+harvestcraft:popcornitem,2,1.2,0,Popcorn,,Pam's HarvestCraft,9099,FALSE
+harvestcraft:porklettucewrapitem,3,1.2,0,Pork Lettuce Wrap,foodPorklettucewrap,Pam's HarvestCraft,9182,FALSE
+harvestcraft:porklomeinitem,9,1.2,0,Pork Lo Mein,foodPorklomein,Pam's HarvestCraft,9583,FALSE
+harvestcraft:porkrindsitem,4,1.2,0,Pork Rinds,foodPorkrinds,Pam's HarvestCraft,9748,FALSE
+harvestcraft:porksausageitem,4,1.2,0,Pork Sausage,foodPorksausage,Pam's HarvestCraft,9538,FALSE
+harvestcraft:potatoandcheesepirogiitem,6,1.2,0,Potato and Cheese Pierogi,foodPotatoandcheesepirogi,Pam's HarvestCraft,9489,FALSE
+harvestcraft:potatoandleeksoupitem,7,1.2,0,Potato and Leek Soup,foodPotatoandleeksoup,Pam's HarvestCraft,9619,FALSE
+harvestcraft:potatocakesitem,4,1.2,0,Potato Cakes,foodPotatocakes,Pam's HarvestCraft,9187,FALSE
+harvestcraft:potatochipsitem,3,1.2,0,Potato Chips,foodPotatochips,Pam's HarvestCraft,9675,FALSE
+harvestcraft:potatoesobrienitem,4,1.2,0,Potatoes O'Brien,foodPotatoesobrien,Pam's HarvestCraft,9689,FALSE
+harvestcraft:potatosaladitem,3,1.2,0,Potato Salad,foodPotatosalad,Pam's HarvestCraft,9143,FALSE
+harvestcraft:potatoskinsitem,6,1.2,0,Potato Skins,foodPotatoskins,Pam's HarvestCraft,9785,FALSE
+harvestcraft:potatosoupitem,4,1.2,0,Potato Soup,foodPotatosoup,Pam's HarvestCraft,9144,FALSE
+harvestcraft:potroastitem,6,1.2,0,Pot Roast,foodPotroast,Pam's HarvestCraft,9156,FALSE
+harvestcraft:potstickersitem,7,1.2,0,Pot Stickers,foodPotstickers,Pam's HarvestCraft,9730,FALSE
+harvestcraft:poutineitem,7,1.2,0,Poutine,foodPoutine,Pam's HarvestCraft,9659,FALSE
+harvestcraft:powdereddonutitem,5,1.2,0,Powdered Donut,foodPowdereddonut,Pam's HarvestCraft,9335,FALSE
+harvestcraft:pralinesitem,2,1.2,0,Pralines,foodPralines,Pam's HarvestCraft,9473,FALSE
+harvestcraft:pumpkinbreaditem,5,1.2,0,Pumpkin Bread,foodPumpkinbread,Pam's HarvestCraft,9094,FALSE
+harvestcraft:pumpkinmuffinitem,4,1.2,0,Pumpkin Muffin,,Pam's HarvestCraft,9540,FALSE
+harvestcraft:pumpkinoatsconesitem,5,1.2,0,Pumpkin Oat Scones,foodPumpkinoatscones,Pam's HarvestCraft,9443,FALSE
+harvestcraft:pumpkinsoupitem,4,1.2,0,Pumpkin Soup,foodPumpkinsoup,Pam's HarvestCraft,9136,FALSE
+harvestcraft:pumpkinspicelatteitem,8,1.2,0,Pumpkin Spice Latte,foodPumpkinspicelatte,Pam's HarvestCraft,9854,FALSE
+harvestcraft:pumpkinyogurtitem,2,1.2,0,Pumpkin Yogurt,"foodPumpkinyogurt,listAllyogurt",Pam's HarvestCraft,9358,FALSE
+harvestcraft:quesadillaitem,5,1.2,0,Quesadilla,foodQuesadilla,Pam's HarvestCraft,9806,FALSE
+harvestcraft:quinoaitem,1,0.6,0,Quinoa,"cropQuinoa,listAllgrain",Pam's HarvestCraft,8883,FALSE
+harvestcraft:radishitem,1,0.6,0,Radish,"cropRadish,foodVegetable,listAllrootveggie,listAllveggie",Pam's HarvestCraft,8767,FALSE
+harvestcraft:rainbowcurryitem,7,1.2,0,Rainbow Curry,foodRainbowcurry,Pam's HarvestCraft,9219,FALSE
+harvestcraft:raisincookiesitem,6,1.2,0,Raisin Cookies,"foodRaisincookies,listAllcookie",Pam's HarvestCraft,9209,FALSE
+harvestcraft:raisinsitem,2,1.2,0,Raisins,foodRaisins,Pam's HarvestCraft,9100,FALSE
+harvestcraft:rambutanitem,1,0.6,0,Rambutan,listAllfruit,Pam's HarvestCraft,8912,FALSE
+harvestcraft:ramenitem,4,1.2,0,Ramen,foodRamen,Pam's HarvestCraft,9693,FALSE
+harvestcraft:randomtacoitem,12,1.2,0,Random Taco,,Pam's HarvestCraft,9935,FALSE
+harvestcraft:raspberryicedteaitem,3,1.2,0,Raspberry Iced Tea,foodRaspberryicedtea,Pam's HarvestCraft,9250,FALSE
+harvestcraft:raspberryitem,1,0.6,0,Raspberry,"cropRaspberry,listAllberry,listAllfruit",Pam's HarvestCraft,8733,FALSE
+harvestcraft:raspberryjellyitem,2,1.2,0,Raspberry Jelly,foodRaspberryjelly,Pam's HarvestCraft,9416,FALSE
+harvestcraft:raspberryjellysandwichitem,6,1.2,0,Raspberry Jelly Sandwich,foodRaspberryjellysandwich,Pam's HarvestCraft,9417,FALSE
+harvestcraft:raspberryjuiceitem,2,1.2,0,Raspberry Juice,"foodRaspberryjuice,listAlljuice",Pam's HarvestCraft,9126,FALSE
+harvestcraft:raspberrymilkshakeitem,5,1.2,0,Raspberry Milk Shake,foodRaspberrymilkshake,Pam's HarvestCraft,9853,FALSE
+harvestcraft:raspberrypieitem,5,1.2,0,Raspberry Pie,foodRaspberrypie,Pam's HarvestCraft,9359,FALSE
+harvestcraft:raspberrysmoothieitem,3,1.2,0,Raspberry Smoothie,"foodRaspberrysmoothie,listAllsmoothie",Pam's HarvestCraft,9360,FALSE
+harvestcraft:raspberrytrifleitem,6,1.2,0,Raspberry Trifle,foodRaspberrytrifle,Pam's HarvestCraft,9539,FALSE
+harvestcraft:raspberryyogurtitem,2,1.2,0,Raspberry Yogurt,"foodRaspberryyogurt,listAllyogurt",Pam's HarvestCraft,9361,FALSE
+harvestcraft:rawtofabbititem,1,0.6,0,Raw Tofabbit,"listAllmeatraw,listAllrabbitraw,mulchNitrogen",Pam's HarvestCraft,9875,FALSE
+harvestcraft:rawtofaconitem,1,0.6,0,Raw Tofacon,"listAllmeatraw,listAllporkraw,mulchNitrogen",Pam's HarvestCraft,9871,FALSE
+harvestcraft:rawtofeakitem,1,0.6,0,Raw Tofeak,"listAllbeefraw,listAllmeatraw,mulchNitrogen",Pam's HarvestCraft,9870,FALSE
+harvestcraft:rawtofeegitem,1,0.6,0,Raw Tofeeg,listAllegg,Pam's HarvestCraft,9872,FALSE
+harvestcraft:rawtofenisonitem,1,0.6,0,Raw Tofenison,"listAllmeatraw,listAllvenisonraw,mulchNitrogen",Pam's HarvestCraft,9877,FALSE
+harvestcraft:rawtofickenitem,1,0.6,0,Raw Toficken,"listAllchickenraw,listAllmeatraw,mulchNitrogen",Pam's HarvestCraft,9874,FALSE
+harvestcraft:rawtofishitem,1,0.6,0,Raw Tofish,"fish,listAllfishraw",Pam's HarvestCraft,10029,FALSE
+harvestcraft:rawtofuduckitem,1,0.6,0,Raw Tofuduck,"listAllduckraw,listAllmeatraw,mulchNitrogen",Pam's HarvestCraft,9878,FALSE
+harvestcraft:rawtofurkeyitem,1,0.6,0,Raw Tofurkey,"listAllmeatraw,listAllturkeyraw,mulchNitrogen",Pam's HarvestCraft,9876,FALSE
+harvestcraft:rawtofuttonitem,1,0.6,0,Raw Tofutton,"listAllmeatraw,listAllmuttonraw,mulchNitrogen",Pam's HarvestCraft,9873,FALSE
+harvestcraft:redvelvetcupcakeitem,8,1.2,0,Red Velvet Cupcake,foodRedvelvetcupcake,Pam's HarvestCraft,9791,FALSE
+harvestcraft:refriedbeansitem,4,1.2,0,Refried Beans,foodRefriedbeans,Pam's HarvestCraft,9220,FALSE
+harvestcraft:rhubarbitem,1,0.6,0,Rhubarb,"cropRhubarb,foodVegetable,listAllveggie",Pam's HarvestCraft,8775,FALSE
+harvestcraft:ricecakeitem,2,1.2,0,Rice Cake,foodRicecake,Pam's HarvestCraft,9101,FALSE
+harvestcraft:riceitem,1,0.6,0,Rice,cropRice,Pam's HarvestCraft,8837,FALSE
+harvestcraft:ricepuddingitem,5,1.2,0,Rice Pudding,foodRicepudding,Pam's HarvestCraft,9844,FALSE
+harvestcraft:ricesoupitem,3,1.2,0,Rice Soup,foodRicesoup,Pam's HarvestCraft,9215,FALSE
+harvestcraft:rivermudcakeitem,11,1.2,0,River Mud Cake,foodRivermudcake,Pam's HarvestCraft,9924,FALSE
+harvestcraft:roastchickenitem,4,1.2,0,Roast Chicken,foodRoastchicken,Pam's HarvestCraft,9550,FALSE
+harvestcraft:roastedchestnutitem,2,1.2,0,Roasted Chestnut,foodRoastedchestnut,Pam's HarvestCraft,9453,FALSE
+harvestcraft:roastedpumpkinseedsitem,1,1.2,0,Roasted Pumpkin Seeds,foodRoastedpumpkinseeds,Pam's HarvestCraft,9103,FALSE
+harvestcraft:roastedrootveggiemedleyitem,4,1.2,0,Roasted Root Veggie Medley,foodRoastedrootveggiemedley,Pam's HarvestCraft,9270,FALSE
+harvestcraft:roastpotatoesitem,3,1.2,0,Roast Potatoes,foodRoastpotatoes,Pam's HarvestCraft,9551,FALSE
+harvestcraft:rootbeerfloatitem,6,1.2,0,Root Beer Float,foodRootbeerfloat,Pam's HarvestCraft,9855,FALSE
+harvestcraft:rootbeersodaitem,3,1.2,0,Root Beer,"foodRootbeersoda,listAllsoda",Pam's HarvestCraft,9431,FALSE
+harvestcraft:rosepetalteaitem,2,1.2,0,Rose Petal Tea,foodRosepetaltea,Pam's HarvestCraft,9784,FALSE
+harvestcraft:rutabagaitem,1,0.6,0,Rutabaga,"cropRutabaga,foodVegetable,listAllrootveggie,listAllveggie",Pam's HarvestCraft,8769,FALSE
+harvestcraft:ryeitem,1,0.6,0,Rye,"cropRye,listAllgrain",Pam's HarvestCraft,8745,FALSE
+harvestcraft:salisburysteakitem,17,1.2,0,Salisbury Steak,foodSalisburysteak,Pam's HarvestCraft,9965,FALSE
+harvestcraft:salmononigiriitem,5,1.2,0,Salmon Onigiri,foodSalmononigiri,Pam's HarvestCraft,9840,FALSE
+harvestcraft:salmonpattiesitem,9,1.2,0,Salmon Patties,foodSalmonpatties,Pam's HarvestCraft,9584,FALSE
+harvestcraft:salsaitem,5,1.2,0,Salsa,foodSalsa,Pam's HarvestCraft,9660,FALSE
+harvestcraft:saltedcaramelitem,2,1.2,0,Salted Caramel,foodSaltedcaramel,Pam's HarvestCraft,9709,FALSE
+harvestcraft:saltedsunflowerseedsitem,2,1.2,0,Salted Sunflower Seeds,foodSaltedsunflowerseeds,Pam's HarvestCraft,9368,FALSE
+harvestcraft:sardinerawitem,1,0.6,0,Raw Sardine,"fish,foodSardineraw,listAllfishfresh,listAllfishraw",Pam's HarvestCraft,10027,FALSE
+harvestcraft:sardinesinhotsauceitem,3,1.2,0,Sardines in Hot Sauce,foodSardinesinhotsauce,Pam's HarvestCraft,9661,FALSE
+harvestcraft:saucedlambkebabitem,10,1.2,0,Sauced Lamb Kebab,foodSaucedlambkebab,Pam's HarvestCraft,9914,FALSE
+harvestcraft:sauerbratenitem,6,1.2,0,Sauerbraten,foodSauerbraten,Pam's HarvestCraft,9780,FALSE
+harvestcraft:sausagebeanmeltitem,10,1.2,0,Sausage Bean Melt,foodSausagebeanmelt,Pam's HarvestCraft,9746,FALSE
+harvestcraft:sausageinbreaditem,9,1.2,0,Sausage in Bread,foodSausageinbread,Pam's HarvestCraft,9491,FALSE
+harvestcraft:sausageitem,4,1.2,0,Sausage,foodSausage,Pam's HarvestCraft,9585,FALSE
+harvestcraft:sausagerollitem,9,1.2,0,Sausage Roll,foodSausageroll,Pam's HarvestCraft,9586,FALSE
+harvestcraft:scallionbakedpotatoitem,4,1.2,0,Scallion Baked Potato,foodScallionbakedpotato,Pam's HarvestCraft,9448,FALSE
+harvestcraft:scallionitem,1,0.6,0,Scallion,"cropScallion,foodVegetable,listAllveggie",Pam's HarvestCraft,8799,FALSE
+harvestcraft:scallopcookeditem,2,1.2,0,Cooked Scallop,foodScallopcooked,Pam's HarvestCraft,9521,FALSE
+harvestcraft:scalloprawitem,1,0.6,0,Raw Scallop,foodScallopraw,Pam's HarvestCraft,10017,FALSE
+harvestcraft:schnitzelitem,6,1.2,0,Schnitzel,foodSchnitzel,Pam's HarvestCraft,9851,FALSE
+harvestcraft:scrambledeggitem,3,1.2,0,Scrambled Egg,foodScrambledegg,Pam's HarvestCraft,9162,FALSE
+harvestcraft:seaweeditem,1,0.6,0,Seaweed,"cropSeaweed,listAllgreenveggie,listAllveggie",Pam's HarvestCraft,8839,FALSE
+harvestcraft:seedenergygelitem,3,1.2,0,Seed Energy Gel,foodSeedenergygel,Pam's HarvestCraft,9825,FALSE
+harvestcraft:seedsoupitem,3,1.2,0,Seed Soup,foodSeedsoup,Pam's HarvestCraft,9340,FALSE
+harvestcraft:sesameballitem,5,1.2,0,Sesame Ball,foodSesameball,Pam's HarvestCraft,9587,FALSE
+harvestcraft:sesameseedsitem,1,0.6,0,Sesame Seeds,cropSesame,Pam's HarvestCraft,8843,FALSE
+harvestcraft:sesamesnapsitem,2,1.2,0,Sesame Snaps,foodSesamesnaps,Pam's HarvestCraft,9588,FALSE
+harvestcraft:shepardspieitem,8,1.2,0,Shepherd's Pie,foodShepherdspie,Pam's HarvestCraft,9385,FALSE
+harvestcraft:shrimpcocktailitem,5,1.2,0,Shrimp Cocktail,foodShrimpcocktail,Pam's HarvestCraft,9808,FALSE
+harvestcraft:shrimpcookeditem,2,1.2,0,Cooked Shrimp,foodShrimpcooked,Pam's HarvestCraft,9522,FALSE
+harvestcraft:shrimpokrahushpuppiesitem,8,1.2,0,Shrimp Pork Okra Hushpuppies,foodShrimpokrahushpuppies,Pam's HarvestCraft,9589,FALSE
+harvestcraft:shrimprawitem,1,0.6,0,Raw Shrimp,foodShrimpraw,Pam's HarvestCraft,10018,FALSE
+harvestcraft:shrimptemperaitem,4,1.2,0,Shrimp Tempura,foodShrimptempera,Pam's HarvestCraft,9835,FALSE
+harvestcraft:silkentofuitem,1,1.2,0,Silken Tofu,"foodSilkentofu,listAllheavycream,listAllicecream",Pam's HarvestCraft,9451,FALSE
+harvestcraft:sisalitem,1,0.6,0,Sisal,"cropSisal,listAllfiber",Pam's HarvestCraft,8885,FALSE
+harvestcraft:slawdogitem,11,1.2,0,Slaw Dog,foodSlawdog,Pam's HarvestCraft,9923,FALSE
+harvestcraft:slimegummiesitem,2,1.2,0,Slime Gummies,foodSlimegummies,Pam's HarvestCraft,9803,FALSE
+harvestcraft:slimepieitem,7,1.2,0,Slime Pie,foodSlimepie,Pam's HarvestCraft,9781,FALSE
+harvestcraft:smoresitem,9,1.2,0,Smores,foodSmores,Pam's HarvestCraft,9691,FALSE
+harvestcraft:snailcookeditem,2,1.2,0,Cooked Snail,foodSnailcooked,Pam's HarvestCraft,9523,FALSE
+harvestcraft:snailrawitem,1,0.6,0,Raw Snail,foodSnailraw,Pam's HarvestCraft,10019,FALSE
+harvestcraft:snapperrawitem,1,0.6,0,Raw Snapper,"fish,foodSnapperraw,listAllfishfresh,listAllfishraw",Pam's HarvestCraft,10020,FALSE
+harvestcraft:snickersbaritem,3,1.2,0,Snickers Bar,foodSnickersbar,Pam's HarvestCraft,9513,FALSE
+harvestcraft:softpretzelandmustarditem,7,1.2,0,Soft Pretzel and Mustard,foodSoftpretzelandmustard,Pam's HarvestCraft,9276,FALSE
+harvestcraft:softpretzelitem,6,1.2,0,Soft Pretzel,foodSoftpretzel,Pam's HarvestCraft,9341,FALSE
+harvestcraft:sourcreamandonionpotatochipsitem,5,1.2,0,Sour Cream and Onion Potato Chips,foodSourcreamandonionpotatochips,Pam's HarvestCraft,9677,FALSE
+harvestcraft:soursopitem,1,0.6,0,Soursop,listAllfruit,Pam's HarvestCraft,8906,FALSE
+harvestcraft:southernstylebreakfastitem,20,1.2,0,Southern Style Breakfast,foodSouthernstylebreakfast,Pam's HarvestCraft,9974,FALSE
+harvestcraft:soybeanitem,1,0.6,0,Soybean,"cropSoybean,listAllveggie",Pam's HarvestCraft,8813,FALSE
+harvestcraft:soymilkitem,1,1.2,0,Soy Milk,"foodSoymilk,listAllmilk",Pam's HarvestCraft,9449,FALSE
+harvestcraft:spagettiandmeatballsitem,5,1.2,0,Spaghetti and Meatballs,foodSpagettiandmeatballs,Pam's HarvestCraft,9177,FALSE
+harvestcraft:spagettiitem,3,1.2,0,Spaghetti,foodSpagetti,Pam's HarvestCraft,9176,FALSE
+harvestcraft:spaghettidinneritem,13,1.2,0,Spaghetti Dinner,foodSpaghettidinner,Pam's HarvestCraft,9949,FALSE
+harvestcraft:spicebunitem,6,1.2,0,Spice Bun,foodSpicebun,Pam's HarvestCraft,9439,FALSE
+harvestcraft:spiceleafitem,1,0.6,0,Spice Leaf,"cropSpiceleaf,listAllgreenveggie,listAllspice,sweetHerb",Pam's HarvestCraft,8783,FALSE
+harvestcraft:spicygreensitem,5,1.2,0,Spicy Greens,foodSpicygreens,Pam's HarvestCraft,9278,FALSE
+harvestcraft:spicymustardporkitem,4,1.2,0,Spicy Mustard Pork,foodSpicymustardpork,Pam's HarvestCraft,9277,FALSE
+harvestcraft:spidereyepieitem,6,1.2,0,Eye Pie,foodSpidereyepie,Pam's HarvestCraft,9710,FALSE
+harvestcraft:spidereyesoupitem,4,1.2,0,Spider Eye Soup,foodSpidereyesoup,Pam's HarvestCraft,9167,FALSE
+harvestcraft:spinachitem,1,0.6,0,Spinach,"cropSpinach,listAllgreenveggie,listAllveggie",Pam's HarvestCraft,8807,FALSE
+harvestcraft:spinachpieitem,10,1.2,0,Spinach Pie,foodSpinachpie,Pam's HarvestCraft,9904,FALSE
+harvestcraft:splitpeasoupitem,6,1.2,0,Split Pea Soup,foodSplitpeasoup,Pam's HarvestCraft,9266,FALSE
+harvestcraft:springfieldcashewchickenitem,11,1.2,0,Springfield Cashew Chicken,foodSpringfieldcashewchicken,Pam's HarvestCraft,9926,FALSE
+harvestcraft:springrollitem,7,1.2,0,Spring Rolls,foodSpringroll,Pam's HarvestCraft,9728,FALSE
+harvestcraft:springsaladitem,2,1.2,0,Spring Salad,foodSpringsalad,Pam's HarvestCraft,9181,FALSE
+harvestcraft:sprinklescupcakeitem,8,1.2,0,Sprinkles Cupcake,foodSprinklescupcake,Pam's HarvestCraft,9798,FALSE
+harvestcraft:spumoniicecreamitem,4,1.2,0,Spumoni Ice Cream,foodSpumoniicecream,Pam's HarvestCraft,9559,FALSE
+harvestcraft:squidinkspaghettiitem,2,1.2,0,Squid Ink Spaghetti,foodSquidinkspaghetti,Pam's HarvestCraft,9759,FALSE
+harvestcraft:starfruititem,1,0.6,0,Starfruit,"cropStarfruit,listAllfruit",Pam's HarvestCraft,8946,FALSE
+harvestcraft:starfruitjellyitem,2,1.2,0,Starfruit Jelly,foodStarfruitjelly,Pam's HarvestCraft,9418,FALSE
+harvestcraft:starfruitjellysandwichitem,6,1.2,0,Starfruit Jelly Sandwich,foodStarfruitjellysandwich,Pam's HarvestCraft,9419,FALSE
+harvestcraft:starfruitjuiceitem,2,1.2,0,Starfruit Juice,"foodStarfruitjuice,listAlljuice",Pam's HarvestCraft,9119,FALSE
+harvestcraft:starfruitsmoothieitem,3,1.2,0,Starfruit Smoothie,"foodStarfruitsmoothie,listAllsmoothie",Pam's HarvestCraft,9299,FALSE
+harvestcraft:starfruityogurtitem,2,1.2,0,Starfruit Yogurt,"foodStarfruityogurt,listAllyogurt",Pam's HarvestCraft,9300,FALSE
+harvestcraft:steakandchipsitem,4,1.2,0,Steak and Chips,foodSteakandchips,Pam's HarvestCraft,9555,FALSE
+harvestcraft:steakfajitaitem,9,1.2,0,Steak Fajita,foodSteakfajita,Pam's HarvestCraft,9692,FALSE
+harvestcraft:steaktartareitem,6,1.2,0,Steak Tartare,foodSteaktartare,Pam's HarvestCraft,9760,FALSE
+harvestcraft:steamedpeasitem,2,1.2,0,Steamed Peas,foodSteamedpeas,Pam's HarvestCraft,9265,FALSE
+harvestcraft:steamedspinachitem,2,1.2,0,Steamed Spinach,foodSteamedspinach,Pam's HarvestCraft,9514,FALSE
+harvestcraft:stockitem,2,1.2,0,Stock,foodStock,Pam's HarvestCraft,9174,FALSE
+harvestcraft:strawberrycupcakeitem,8,1.2,0,Strawberry Cupcake,foodStrawberrycupcake,Pam's HarvestCraft,9795,FALSE
+harvestcraft:strawberryicecreamitem,4,1.2,0,Strawberry Ice Cream,foodStrawberryicecream,Pam's HarvestCraft,9435,FALSE
+harvestcraft:strawberryitem,1,0.6,0,Strawberry,"cropStrawberry,listAllberry,listAllfruit",Pam's HarvestCraft,8735,FALSE
+harvestcraft:strawberryjellyitem,2,1.2,0,Strawberry Jelly,foodStrawberryjelly,Pam's HarvestCraft,9420,FALSE
+harvestcraft:strawberryjellysandwichitem,6,1.2,0,Strawberry Jelly Sandwich,foodStrawberryjellysandwich,Pam's HarvestCraft,9421,FALSE
+harvestcraft:strawberryjuiceitem,2,1.2,0,Strawberry Juice,"foodStrawberryjuice,listAlljuice",Pam's HarvestCraft,9114,FALSE
+harvestcraft:strawberrymilkshakeitem,3,1.2,0,Strawberry Milkshake,foodStrawberrymilkshake,Pam's HarvestCraft,9546,FALSE
+harvestcraft:strawberrypieitem,5,1.2,0,Strawberry Pie,foodStrawberrypie,Pam's HarvestCraft,9199,FALSE
+harvestcraft:strawberryrhubarbpieitem,6,1.2,0,Strawberry Rhubarb Pie,foodStrawberryrhubarbpie,Pam's HarvestCraft,9782,FALSE
+harvestcraft:strawberrysaladitem,3,1.2,0,Strawberry Salad,foodStrawberrysalad,Pam's HarvestCraft,9200,FALSE
+harvestcraft:strawberrysmoothieitem,3,1.2,0,Strawberry Smoothie,"foodStrawberrysmoothie,listAllsmoothie",Pam's HarvestCraft,9198,FALSE
+harvestcraft:strawberrysodaitem,4,1.2,0,Strawberry Soda,"foodStrawberrysoda,listAllsoda",Pam's HarvestCraft,9432,FALSE
+harvestcraft:strawberrysouffleitem,7,1.2,0,Strawberry Soufflé,foodStrawberrysouffle,Pam's HarvestCraft,9833,FALSE
+harvestcraft:strawberryyogurtitem,2,1.2,0,Strawberry Yogurt,"foodStrawberryyogurt,listAllyogurt",Pam's HarvestCraft,9351,FALSE
+harvestcraft:stuffedchilipeppersitem,7,1.2,0,Stuffed Chili Peppers,foodStuffedchilipeppers,Pam's HarvestCraft,9802,FALSE
+harvestcraft:stuffedduckitem,7,1.2,0,Stuffed Duck,foodStuffedduck,Pam's HarvestCraft,9733,FALSE
+harvestcraft:stuffedeggplantitem,7,1.2,0,Stuffed Eggplant,foodStuffedeggplant,Pam's HarvestCraft,9248,FALSE
+harvestcraft:stuffedmushroomitem,7,1.2,0,Stuffed Mushroom,foodStuffedmushroom,Pam's HarvestCraft,9147,FALSE
+harvestcraft:stuffedpepperitem,3,1.2,0,Stuffed Pepper,foodStuffedpepper,Pam's HarvestCraft,9225,FALSE
+harvestcraft:stuffingitem,8,1.2,0,Stuffing,foodStuffing,Pam's HarvestCraft,9736,FALSE
+harvestcraft:suaderoitem,3,1.2,0,Suadero,,Pam's HarvestCraft,9541,FALSE
+harvestcraft:succotashitem,5,1.2,0,Succotash,foodSuccotash,Pam's HarvestCraft,9687,FALSE
+harvestcraft:sugarcookieitem,7,1.2,0,Sugar Cookie,"foodSugarcookie,listAllcookie",Pam's HarvestCraft,9674,FALSE
+harvestcraft:summerradishsaladitem,5,1.2,0,Summer Radish Salad,foodSummerradishsalad,Pam's HarvestCraft,9282,FALSE
+harvestcraft:summersquashwithradishitem,5,1.2,0,Summer Squash with Radish,foodSummersquashwithradish,Pam's HarvestCraft,9283,FALSE
+harvestcraft:sundayhighteaitem,9,1.2,0,Sunday High Tea,foodSundayhightea,Pam's HarvestCraft,9827,FALSE
+harvestcraft:sundayroastitem,8,1.2,0,Sunday Roast,foodSundayroast,Pam's HarvestCraft,9552,FALSE
+harvestcraft:sunflowerbroccolisaladitem,6,1.2,0,Sunflower Broccoli Salad,foodSunflowerbroccolisalad,Pam's HarvestCraft,9370,FALSE
+harvestcraft:sunflowerseedsitem,1,0.6,0,Sunflower Seeds,cropSunflower,Pam's HarvestCraft,9079,FALSE
+harvestcraft:sunflowerwheatrollsitem,6,1.2,0,Sunflower Wheat Rolls,foodSunflowerwheatrolls,Pam's HarvestCraft,9369,FALSE
+harvestcraft:supremepizzaitem,14,1.2,0,Supreme Pizza,foodSupremepizza,Pam's HarvestCraft,9952,FALSE
+harvestcraft:surfandturfitem,5,1.2,0,Surf and Turf,foodSurfandturf,Pam's HarvestCraft,9682,FALSE
+harvestcraft:sushiitem,4,1.2,0,Sushi,foodSushi,Pam's HarvestCraft,9388,FALSE
+harvestcraft:swedishmeatballsitem,10,1.2,0,Swedish Meatballs,foodSwedishmeatballs,Pam's HarvestCraft,9920,FALSE
+harvestcraft:sweetandsourchickenitem,8,1.2,0,Sweet and Sour Chicken,foodSweetandsourchicken,Pam's HarvestCraft,9629,FALSE
+harvestcraft:sweetandsourmeatballsitem,6,1.2,0,Sweet and Sour Meatballs,foodSweetandsourmeatballs,Pam's HarvestCraft,9706,FALSE
+harvestcraft:sweetpickleitem,6,1.2,0,Sweet Pickle,"foodPickles,foodSweetpickle",Pam's HarvestCraft,9591,FALSE
+harvestcraft:sweetpotatoitem,1,0.6,0,Sweet Potato,"cropSweetpotato,foodVegetable,listAllrootveggie,listAllveggie",Pam's HarvestCraft,8771,FALSE
+harvestcraft:sweetpotatopieitem,9,1.2,0,Sweet Potato Pie,foodSweetpotatopie,Pam's HarvestCraft,9262,FALSE
+harvestcraft:sweetpotatosouffleitem,7,1.2,0,Sweet Potato Souffle,foodSweetpotatosouffle,Pam's HarvestCraft,9454,FALSE
+harvestcraft:sweetteaitem,4,1.2,0,Sweet Tea,foodSweettea,Pam's HarvestCraft,9633,FALSE
+harvestcraft:szechuaneggplantitem,9,1.2,0,Szechuan Eggplant,foodSzechuaneggplant,Pam's HarvestCraft,9761,FALSE
+harvestcraft:tacoitem,8,1.2,0,Taco,foodTaco,Pam's HarvestCraft,9195,FALSE
+harvestcraft:taffyitem,2,1.2,0,Taffy,foodTaffy,Pam's HarvestCraft,9166,FALSE
+harvestcraft:taiyakiitem,5,1.2,0,Taiyaki,foodTaiyaki,Pam's HarvestCraft,9839,FALSE
+harvestcraft:takoyakiitem,10,1.2,0,Takoyaki,foodTakoyaki,Pam's HarvestCraft,9917,FALSE
+harvestcraft:tamarinditem,1,0.6,0,Tamarind,listAllveggie,Pam's HarvestCraft,9021,FALSE
+harvestcraft:taroitem,1,0.6,0,Taro,"cropTaro,listAllveggie",Pam's HarvestCraft,8887,FALSE
+harvestcraft:tatertotsitem,3,1.2,0,Tater Tots,foodTatertots,Pam's HarvestCraft,9690,FALSE
+harvestcraft:teaitem,2,1.2,0,Cup of Tea,foodTea,Pam's HarvestCraft,9097,FALSE
+harvestcraft:tealeafitem,1,0.6,0,Tea Leaf,cropTea,Pam's HarvestCraft,8785,FALSE
+harvestcraft:teriyakichickenitem,8,1.2,0,Teriyaki Chicken,foodTeriyakichicken,Pam's HarvestCraft,9662,FALSE
+harvestcraft:thankfuldinneritem,24,1.2,0,Thankful Dinner,foodThankfuldinner,Pam's HarvestCraft,9976,FALSE
+harvestcraft:theatreboxitem,7,1.2,0,Theatre Box,foodTheatrebox,Pam's HarvestCraft,9665,FALSE
+harvestcraft:threebeansaladitem,5,1.2,0,Three Bean Salad,foodThreebeansalad,Pam's HarvestCraft,9705,FALSE
+harvestcraft:tilapiarawitem,1,0.6,0,Raw Tilapia,"fish,foodTilapiaraw,listAllfishfresh,listAllfishraw",Pam's HarvestCraft,10021,FALSE
+harvestcraft:timpanoitem,19,1.2,0,Timpano,foodTimpano,Pam's HarvestCraft,9970,FALSE
+harvestcraft:timtamitem,4,1.2,0,Tim Tam,foodTimtam,Pam's HarvestCraft,9505,FALSE
+harvestcraft:tiropitaitem,8,1.2,0,Tiropita,foodTiropita,Pam's HarvestCraft,9783,FALSE
+harvestcraft:toadintheholeitem,11,1.2,0,Toad in the Hole,foodToadinthehole,Pam's HarvestCraft,9931,FALSE
+harvestcraft:toastedcoconutitem,2,1.2,0,Toasted Coconut,foodToastedcoconut,Pam's HarvestCraft,9102,FALSE
+harvestcraft:toastedwesternitem,12,1.2,0,Toasted Western,foodToastedwestern,Pam's HarvestCraft,9937,FALSE
+harvestcraft:toastitem,4,1.2,0,Toast,foodToast,Pam's HarvestCraft,9089,FALSE
+harvestcraft:toastsandwichitem,9,1.2,0,Toast Sandwich,foodToastsandwich,Pam's HarvestCraft,9488,FALSE
+harvestcraft:tomatilloitem,1,0.6,0,Tomatillo,"cropTomatillo,listAllveggie",Pam's HarvestCraft,8889,FALSE
+harvestcraft:tomatoherbchickenitem,4,1.2,0,Tomato Herb Chicken,foodTomatoherbchicken,Pam's HarvestCraft,9702,FALSE
+harvestcraft:tomatoitem,1,0.6,0,Tomato,"cropTomato,listAllveggie",Pam's HarvestCraft,8825,FALSE
+harvestcraft:tomatosoupitem,3,1.2,0,Tomato Soup,foodTomatosoup,Pam's HarvestCraft,9178,FALSE
+harvestcraft:tortillachipsitem,5,1.2,0,Tortilla Chips,foodTortillachips,Pam's HarvestCraft,9679,FALSE
+harvestcraft:tortillaitem,3,1.2,0,Tortilla,foodTortilla,Pam's HarvestCraft,9193,FALSE
+harvestcraft:trailmixitem,4,1.2,0,Trail Mix,foodTrailmix,Pam's HarvestCraft,9203,FALSE
+harvestcraft:troutrawitem,1,0.6,0,Raw Trout,"fish,foodTroutraw,listAllfishfresh,listAllfishraw",Pam's HarvestCraft,10022,FALSE
+harvestcraft:tunafishsandwichitem,10,1.2,0,Tunafish Sandwich,foodTunafishsandwich,Pam's HarvestCraft,9909,FALSE
+harvestcraft:tunaonigiriitem,5,1.2,0,Tuna Onigiri,foodTunaonigiri,Pam's HarvestCraft,9841,FALSE
+harvestcraft:tunapotatoitem,7,1.2,0,Tuna Potato,foodTunapotato,Pam's HarvestCraft,9607,FALSE
+harvestcraft:tunarawitem,1,0.6,0,Raw Tuna,"fish,foodTunaraw,listAllfishfresh,listAllfishraw",Pam's HarvestCraft,10023,FALSE
+harvestcraft:tunasaladitem,9,1.2,0,Tuna Salad,foodTunasalad,Pam's HarvestCraft,9671,FALSE
+harvestcraft:turkeycookeditem,2,1.2,0,Cooked Turkey,"foodTurkeycooked,listAllmeatcooked,listAllturkeycooked",Pam's HarvestCraft,9543,FALSE
+harvestcraft:turkeyrawitem,1,1.2,0,Raw Turkey,"foodTurkeyraw,listAllmeatraw,listAllturkeyraw,mulchNitrogen",Pam's HarvestCraft,9542,FALSE
+harvestcraft:turkishdelightitem,5,1.2,0,Turkish Delight,foodTurkishdelight,Pam's HarvestCraft,9663,FALSE
+harvestcraft:turnipitem,1,0.6,0,Turnip,"cropTurnip,foodVegetable,listAllrootveggie,listAllveggie",Pam's HarvestCraft,8773,FALSE
+harvestcraft:turnipsoupitem,6,1.2,0,Turnip Soup,foodTurnipsoup,Pam's HarvestCraft,9269,FALSE
+harvestcraft:turtlecookeditem,2,1.2,0,Cooked Turtle,foodTurtlecooked,Pam's HarvestCraft,9524,FALSE
+harvestcraft:turtlerawitem,1,0.6,0,Raw Turtle,foodTurtleraw,Pam's HarvestCraft,10024,FALSE
+harvestcraft:vanillabeanitem,1,0.6,0,Vanilla Bean,cropVanillabean,Pam's HarvestCraft,8943,FALSE
+harvestcraft:vanillaconchasbreaditem,7,1.2,0,Vanilla Conchas Bread,foodVanillaconchasbread,Pam's HarvestCraft,9831,FALSE
+harvestcraft:vanillacupcakeitem,8,1.2,0,Vanilla Cupcake,foodVanillacupcake,Pam's HarvestCraft,9788,FALSE
+harvestcraft:vanillaicecreamitem,4,1.2,0,Vanilla Ice Cream,foodVanillaicecream,Pam's HarvestCraft,9436,FALSE
+harvestcraft:vanillayogurtitem,2,1.2,0,Vanilla Yogurt,"foodVanillayogurt,listAllyogurt",Pam's HarvestCraft,9329,FALSE
+harvestcraft:vegemiteitem,4,1.2,0,Vegemite,foodVegemite,Pam's HarvestCraft,9501,FALSE
+harvestcraft:vegemiteontoastitem,5,1.2,0,Vegemite on Toast,foodVegemiteontoast,Pam's HarvestCraft,9515,FALSE
+harvestcraft:vegetablesoupitem,5,1.2,0,Vegetable Soup,foodVegetablesoup,Pam's HarvestCraft,9173,FALSE
+harvestcraft:vegetarianlettucewrapitem,3,1.2,0,Vegetarian Lettuce Wrap,foodVegetarianlettucewrap,Pam's HarvestCraft,9213,FALSE
+harvestcraft:veggiestirfryitem,5,1.2,0,Veggie Stirfry,foodVeggiestirfry,Pam's HarvestCraft,9226,FALSE
+harvestcraft:veggiestripsitem,5,1.2,0,Veggie Strips,foodVeggiestrips,Pam's HarvestCraft,9592,FALSE
+harvestcraft:venisoncookeditem,2,1.2,0,Cooked Venison,"foodVenisoncooked,listAllmeatcooked,listAllvenisoncooked",Pam's HarvestCraft,9545,FALSE
+harvestcraft:venisonrawitem,1,1.2,0,Raw Venison,"foodVenisonraw,listAllmeatraw,listAllvenisonraw,mulchNitrogen",Pam's HarvestCraft,9544,FALSE
+harvestcraft:vindalooitem,7,1.2,0,Vindaloo,foodVindaloo,Pam's HarvestCraft,9593,FALSE
+harvestcraft:wafflesitem,6,1.2,0,Waffles,foodWaffles,Pam's HarvestCraft,9339,FALSE
+harvestcraft:walleyerawitem,1,0.6,0,Raw Walleye,"fish,foodWalleyraw,listAllfishfresh,listAllfishraw",Pam's HarvestCraft,10025,FALSE
+harvestcraft:walnutitem,1,0.6,0,Walnut,"cropWalnut,listAllnut",Pam's HarvestCraft,9000,FALSE
+harvestcraft:walnutraisinbreaditem,7,1.2,0,Walnut Raisin Bread,foodWalnutraisinbread,Pam's HarvestCraft,9294,FALSE
+harvestcraft:waterchestnutitem,1,0.6,0,Water Chestnut,"cropWaterchestnut,listAllveggie",Pam's HarvestCraft,8845,FALSE
+harvestcraft:watermelonjellyitem,2,1.2,0,Watermelon Jelly,foodWatermelonjelly,Pam's HarvestCraft,9422,FALSE
+harvestcraft:watermelonjellysandwichitem,6,1.2,0,Watermelon Jelly Sandwich,foodWatermelonjellysandwich,Pam's HarvestCraft,9423,FALSE
+harvestcraft:weekendpicnicitem,19,1.2,0,Weekend Picnic,foodWeekendpicnic,Pam's HarvestCraft,9972,FALSE
+harvestcraft:whitemushroomitem,1,0.6,0,White Mushroom,"cropWhitemushroom,listAllmushroom,listAllveggie,mushroomAny",Pam's HarvestCraft,8809,FALSE
+harvestcraft:wintersquashitem,1,0.6,0,Winter Squash,"cropWintersquash,listAllveggie",Pam's HarvestCraft,8755,FALSE
+harvestcraft:wontonsoupitem,9,1.2,0,Wonton Soup,foodWontonsoup,Pam's HarvestCraft,9727,FALSE
+harvestcraft:yorkshirepuddingitem,7,1.2,0,Yorkshire Pudding,foodYorkshirepudding,Pam's HarvestCraft,9620,FALSE
+harvestcraft:zeppoleitem,5,1.2,0,Zeppole,foodZeppole,Pam's HarvestCraft,9490,FALSE
+harvestcraft:zestyzucchiniitem,6,1.2,0,Zesty Zucchini,foodZestyzucchini,Pam's HarvestCraft,9290,FALSE
+harvestcraft:zombiejerkyitem,3,1.2,0,Zombie Jerky,foodZombiejerky,Pam's HarvestCraft,9168,FALSE
+harvestcraft:zucchinibakeitem,9,1.2,0,Zucchini Bake,foodZucchinibake,Pam's HarvestCraft,9291,FALSE
+harvestcraft:zucchinibreaditem,6,1.2,0,Zucchini Bread,foodZucchinibread,Pam's HarvestCraft,9288,FALSE
+harvestcraft:zucchinifriesitem,9,1.2,0,Zucchini Fries,foodZucchinifries,Pam's HarvestCraft,9289,FALSE
+harvestcraft:zucchiniitem,1,0.6,0,Zucchini,"cropZucchini,listAllgreenveggie,listAllveggie",Pam's HarvestCraft,8757,FALSE
+primitivemobs:cooked_dodo,8,2.4,0,Cooked Dodo,listAllchickencooked,Primitive Mobs,7143,FALSE
+primitivemobs:dodo,4,1.2,0,Raw Dodo,listAllchickenraw,Primitive Mobs,7142,FALSE
+pyrotech:apple_baked,6,0.45,0,Baked Apple,,Pyrotech,7180,FALSE
+pyrotech:beetroot_roasted,2,0.9,0,Roasted Beetroot,,Pyrotech,7185,FALSE
+pyrotech:burned_food,2,0.1,0,Burned Food,,Pyrotech,7186,FALSE
+pyrotech:carrot_roasted,5,0.9,0,Roasted Carrot,,Pyrotech,7181,FALSE
+pyrotech:egg_roasted,6,0.6,0,Roasted Egg,,Pyrotech,7182,FALSE
+pyrotech:mushroom_brown_roasted,5,0.6,0,Roasted Brown Mushroom,,Pyrotech,7183,FALSE
+pyrotech:mushroom_red_roasted,5,0.6,0,Roasted Red Mushroom,,Pyrotech,7184,FALSE
+quark:cooked_crab_leg,8,0.8,0,Cooked Crab Leg,foodCrabcooked,Quark,5376,FALSE
+quark:crab_leg,1,0.3,0,Crab Leg,foodCrabraw,Quark,5375,FALSE
+quark:root,3,0.4,0,Cave Root,,Quark,5352,FALSE
+quark:root_flower,1,0,0,Blue Sprout,,Quark,5356,TRUE
+quark:root_flower,1,0,1,Black Sprout,,Quark,5356,TRUE
+quark:root_flower,1,0,2,White Sprout,,Quark,5356,TRUE
+rats:assorted_vegetables,7,0.3,0,Assorted Vegetables,,Rats,7390,FALSE
+rats:cheese,3,0.5,0,Cheese Chunk,,Rats,7379,FALSE
+rats:confit_byaldi,100,10,0,Confit Byaldi,,Rats,7440,FALSE
+rats:contaminated_food,2,0.5,0,Contaminated Food,,Rats,7397,FALSE
+rats:cooked_rat,5,0.6,0,Cooked Rat,"foodRatcooked,listAllmeatcooked",Rats,7381,FALSE
+rats:herb_bundle,1,0.1,0,Bundle of Sweet-Smelling Herbs,,Rats,7399,FALSE
+rats:plague_stew,4,0.3,0,Plague Stew,,Rats,7402,FALSE
+rats:potato_kinishes,100,10,0,Potato Knishes,,Rats,7445,FALSE
+rats:potato_pancake,4,0.5,0,Potato Pancake,,Rats,7441,FALSE
+rats:rat_burger,8,1,0,Rat Burger,,Rats,7391,FALSE
+rats:raw_rat,3,0.3,0,Raw Rat,"foodRatraw,listAllmeatraw",Rats,7380,FALSE
+rats:string_cheese,2,0.4,0,String Cheese,,Rats,7388,FALSE
+rats:treacle,2,0.6,0,Old Treacle,,Rats,7400,FALSE
+rustic:chili_pepper,3,0.4,0,Chili Pepper,"cropChilipepper,listAllpepper",Rustic,4737,FALSE
+rustic:cloudsbluff,2,0.2,0,Cloudsbluff,,Rustic,4721,FALSE
+rustic:core_root,2,0.3,0,Core Root,,Rustic,4722,FALSE
+rustic:ginseng,2,0.3,0,Ginseng Root,,Rustic,4723,FALSE
+rustic:grapes,3,0.3,0,Grapes,"cropGrape,dyePurple,listAllberry,listAllfruit",Rustic,4740,FALSE
+rustic:ironberries,2,0.4,0,Ironberries,"cropIronberry,dyeLightGray,listAllberry,listAllfruit",Rustic,4731,FALSE
+rustic:marsh_mallow,3,0.3,0,Marsh Mallow Root,,Rustic,4724,FALSE
+rustic:olives,1,0.4,0,Olives,"cropOlive,listAllfruit",Rustic,4730,FALSE
+rustic:tomato,4,0.4,0,Tomato,"cropTomato,listAllveggie",Rustic,4735,FALSE
+rustic:wildberries,2,0.5,0,Carminberries,"cropWildberry,dyeRed,listAllberry,listAllfruit",Rustic,4739,FALSE
+twilightforest:cooked_meef,6,0.6,0,Meef Steak,listAllbeefcooked,The Twilight Forest,4867,FALSE
+twilightforest:cooked_venison,8,0.8,0,Venison Steak,listAllvenisoncooked,The Twilight Forest,4840,FALSE
+twilightforest:experiment_115,4,0.3,0,Experiment 115,,The Twilight Forest,4885,FALSE
+twilightforest:hydra_chop,18,2,0,Hydra Chop,,The Twilight Forest,4841,FALSE
+twilightforest:maze_wafer,4,0.6,0,Maze Wafer,,The Twilight Forest,4869,FALSE
+twilightforest:meef_stroganoff,8,0.6,0,Meef Stroganoff,,The Twilight Forest,4868,FALSE
+twilightforest:raw_meef,2,0.3,0,Raw Meef,"listAllbeefraw,mulchNitrogen",The Twilight Forest,4866,FALSE
+twilightforest:raw_venison,3,0.3,0,Raw Venison Steak,listAllvenisonraw,The Twilight Forest,4839,FALSE
+toroquest:spicy_chicken,6,0.6,0,Spicy Chicken,,ToroQuest,8244,FALSE
