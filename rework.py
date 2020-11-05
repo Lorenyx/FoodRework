@@ -230,8 +230,12 @@ def calcSteps():
     from collections import deque
     queue = deque(FOODDICT.values()) # This is just a queue of FoodItems
     ERR=[]
+    count=0
     while queue: # Runs until empty, don't ever do this
         food = queue.popleft()
+        count+=1
+        if count % 50 == 0:
+            print(len(queue))
         highestStep = 1 # Set to be one higher than basic ingredients (which are 0)
         notReady = False
 
@@ -249,14 +253,14 @@ def calcSteps():
                     testStep = FOODDICT[OREDICT[material][0]].step
                 except:
                     ERR.append(material)
+                    print(ERR)
                     continue
-                
-            
             else:
                 try:
                     testStep = FOODDICT[material].step
                 except:
                     ERR.append(material)
+                    print(ERR)
                     continue
             if testStep == -1:
                 notReady = True
