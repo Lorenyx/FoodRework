@@ -719,7 +719,7 @@ harvestcraft:icecreamitem,3,1.2,0,Ice Cream,"foodIcecream,listAllicecream",Pam's
 harvestcraft:imagawayakiitem,5,1.2,0,Imagawayaki,foodImagawayaki,Pam's HarvestCraft,9836,FALSE
 harvestcraft:imitationcrabsticksitem,6,1.2,0,Imitation Crab Sticks,foodImitationcrabsticks,Pam's HarvestCraft,9846,FALSE
 harvestcraft:ironbrewitem,9,1.2,0,Iron Brew,foodIronbrew,Pam's HarvestCraft,9651,FALSE
-harvestcraft:jackfruititem,1,0.6,0,Jackfruit,listAllveggie,Pam's HarvestCraft,8915,FALSE
+harvestcraft:jackfruititem,1,0.6,0,Jackfruit,"listAllveggie,cropJackfruit",Pam's HarvestCraft,8915,FALSE
 harvestcraft:jaffaitem,6,1.2,0,Jaffa,foodJaffa,Pam's HarvestCraft,9345,FALSE
 harvestcraft:jambalayaitem,13,1.2,0,Jambalaya,foodJambalaya,Pam's HarvestCraft,9951,FALSE
 harvestcraft:jamrollitem,4,1.2,0,Jam Roll,foodJamroll,Pam's HarvestCraft,9609,FALSE
@@ -776,7 +776,7 @@ harvestcraft:limesmoothieitem,3,1.2,0,Lime Smoothie,"foodLimesmoothie,listAllsmo
 harvestcraft:limeyogurtitem,2,1.2,0,Lime Yogurt,"foodLimeyogurt,listAllyogurt",Pam's HarvestCraft,9324,FALSE
 harvestcraft:liverandonionsitem,4,1.2,0,Liver and Onions,foodLiverandonions,Pam's HarvestCraft,9683,FALSE
 harvestcraft:loadedbakedpotatoitem,8,1.2,0,Loaded Baked Potato,foodLoadedbakedpotato,Pam's HarvestCraft,9141,FALSE
-harvestcraft:lycheeitem,1,0.6,0,Lychee,listAllfruit,Pam's HarvestCraft,9003,FALSE
+harvestcraft:lycheeitem,1,0.6,0,Lychee,"listAllfruit,cropLychee",Pam's HarvestCraft,9003,FALSE
 harvestcraft:lycheeteaitem,3,1.2,0,Lychee Tea,foodLycheetea,Pam's HarvestCraft,9823,FALSE
 harvestcraft:mangochutneyitem,4,1.2,0,Mango Chutney,foodMangochutney,Pam's HarvestCraft,9615,FALSE
 harvestcraft:mangoitem,1,0.6,0,Mango,"cropMango,listAllfruit",Pam's HarvestCraft,8991,FALSE

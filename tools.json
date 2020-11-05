@@ -1,0 +1,290 @@
+{
+    "animania:carving_knife": {
+        "weight": 1.0
+    },
+    "betternether:stalagnate_bowl": {
+        "weight": 1.0
+    },
+    "biomesoplenty:mushroom": {
+        "weight": 1.0
+    },
+    "bountifulbaubles:trinketshulkerheart": {
+        "weight": 1.0
+    },
+    "forge:bucketfilled": {
+        "weight": 1.0
+    },
+    "harvestcraft:bakewareitem": {
+        "weight": 1.0
+    },
+    "harvestcraft:doughitem": {
+        "weight": 1.0
+    },
+    "harvestcraft:honey": {
+        "weight": 1.0
+    },
+    "harvestcraft:potitem": {
+        "weight": 1.0
+    },
+    "minecraft:blaze_powder": {
+        "weight": 1.0
+    },
+    "minecraft:bone": {
+        "weight": 1.0
+    },
+    "minecraft:bowl": {
+        "weight": 1.0
+    },
+    "minecraft:cactus": {
+        "weight": 1.0
+    },
+    "minecraft:coal": {
+        "weight": 1.0
+    },
+    "minecraft:diamond": {
+        "weight": 1.0
+    },
+    "minecraft:double_plant": {
+        "weight": 1.0
+    },
+    "minecraft:dye": {
+        "weight": 1.0
+    },
+    "minecraft:experience_bottle": {
+        "weight": 1.0
+    },
+    "minecraft:flint": {
+        "weight": 1.0
+    },
+    "minecraft:glass_bottle": {
+        "weight": 1.0
+    },
+    "minecraft:gold_ingot": {
+        "weight": 1.0
+    },
+    "minecraft:gold_nugget": {
+        "weight": 1.0
+    },
+    "minecraft:gunpowder": {
+        "weight": 1.0
+    },
+    "minecraft:iron_ingot": {
+        "weight": 1.0
+    },
+    "minecraft:milk_bucket": {
+        "weight": 1.0
+    },
+    "minecraft:nether_star": {
+        "weight": 1.0
+    },
+    "minecraft:nether_wart": {
+        "weight": 1.0
+    },
+    "minecraft:paper": {
+        "weight": 1.0
+    },
+    "minecraft:pumpkin_seeds": {
+        "weight": 1.0
+    },
+    "minecraft:redstone": {
+        "weight": 1.0
+    },
+    "minecraft:reeds": {
+        "weight": 1.0
+    },
+    "minecraft:slime_ball": {
+        "weight": 1.0
+    },
+    "minecraft:snowball": {
+        "weight": 1.0
+    },
+    "minecraft:speckled_melon": {
+        "weight": 1.0
+    },
+    "ore:cobblestone": {
+        "weight": 1.0
+    },
+    "ore:cropLychee": {
+        "weight": 1.0
+    },
+    "ore:cropPumpkin": {
+        "weight": 1.0
+    },
+    "ore:cropWheat": {
+        "weight": 1.0
+    },
+    "ore:cropCotton": {
+        "weight": 1.0
+    },
+    "ore:dustSalt": {
+        "weight": 1.0
+    },
+    "ore:dyeGreen": {
+        "weight": 1.0
+    },
+    "ore:flourEqualswheat": {
+        "weight": 1.0
+    },
+    "ore:flower": {
+        "weight": 1.0
+    },
+    "ore:foodBatter": {
+        "weight": 1.0
+    },
+    "ore:foodBlackpepper": {
+        "weight": 1.0
+    },
+    "ore:foodBubblywater": {
+        "weight": 1.0
+    },
+    "ore:foodButter": {
+        "weight": 1.0
+    },
+    "ore:foodCocoapowder": {
+        "weight": 1.0
+    },
+    "ore:foodCornmeal": {
+        "weight": 1.0
+    },
+    "ore:foodCurrypowder": {
+        "weight": 1.0
+    },
+    "ore:foodDough": {
+        "weight": 1.0
+    },
+    "ore:foodFivespice": {
+        "weight": 1.0
+    },
+    "ore:foodFlour": {
+        "weight": 1.0
+    },
+    "ore:foodGarammasala": {
+        "weight": 1.0
+    },
+    "ore:foodGroundbeef": {
+        "weight": 1.0
+    },
+    "ore:foodGroundcinnamon": {
+        "weight": 1.0
+    },
+    "ore:foodGroundmutton": {
+        "weight": 1.0
+    },
+    "ore:foodGroundnutmeg": {
+        "weight": 1.0
+    },
+    "ore:foodGroundpork": {
+        "weight": 1.0
+    },
+    "ore:foodGroundvenison": {
+        "weight": 1.0
+    },
+    "ore:foodHoisinsauce": {
+        "weight": 1.0
+    },
+    "ore:foodHotsauce": {
+        "weight": 1.0
+    },
+    "ore:foodKetchup": {
+        "weight": 1.0
+    },
+    "ore:foodMayo": {
+        "weight": 1.0
+    },
+    "ore:foodMeringue": {
+        "weight": 1.0
+    },
+    "ore:foodMustard": {
+        "weight": 1.0
+    },
+    "ore:foodNoodles": {
+        "weight": 1.0
+    },
+    "ore:foodOliveoil": {
+        "weight": 1.0
+    },
+    "ore:foodPasta": {
+        "weight": 1.0
+    },
+    "ore:foodSaladdressing": {
+        "weight": 1.0
+    },
+    "ore:foodSalt": {
+        "weight": 1.0
+    },
+    "ore:foodSesameoil": {
+        "weight": 1.0
+    },
+    "ore:foodSoysauce": {
+        "weight": 1.0
+    },
+    "ore:foodSpiceleaf": {
+        "weight": 1.0
+    },
+    "ore:foodSweetandsoursauce": {
+        "weight": 1.0
+    },
+    "ore:foodVanilla": {
+        "weight": 1.0
+    },
+    "ore:foodVinegar": {
+        "weight": 1.0
+    },
+    "ore:foodYogurt": {
+        "weight": 1.0
+    },
+    "ore:itemSalt": {
+        "weight": 1.0
+    },
+    "ore:ingotGold": {
+        "weight": 1.0
+    },
+    "ore:listAllsalt": {
+        "weight": 1.0
+    },
+    "ore:listAllseed": {
+        "weight": 1.0
+    },
+    "ore:listAllwater": {
+        "weight": 3.0
+    },
+    "ore:materialPigskin": {
+        "weight": 1.0
+    },
+    "ore:seedMustard": {
+        "weight": 1.0
+    },
+    "ore:stickWood": {
+        "weight": 1.0
+    },
+    "ore:toolBakeware": {
+        "weight": 1.0
+    },
+    "ore:toolCuttingboard": {
+        "weight": 1.0
+    },
+    "ore:toolJuicer": {
+        "weight": 1.0
+    },
+    "ore:toolMixingbowl": {
+        "weight": 1.0
+    },
+    "ore:toolMortarandpestle": {
+        "weight": 1.0
+    },
+    "ore:toolPot": {
+        "weight": 1.0
+    },
+    "ore:toolSaucepan": {
+        "weight": 1.0
+    },
+    "ore:toolSkillet": {
+        "weight": 1.0
+    },
+    "rats:plague_essence": {
+        "weight": 1.0
+    },
+    "rats:plague_leech": {
+        "weight": 1.0
+    }
+}

@@ -1,41 +1,33 @@
 from dataclasses import dataclass, field
+from os import read, write
 from typing import List, Dict
-import csv, re
+import csv, re, json
 
 RECIPEFILE = 'recipes.dat'
 FOODFILE = 'food.csv'
+TOOLS = json.load(open('tools.json', 'r'))
 
 @dataclass
 class FoodItem:
-    
-    name: str # Name of the food item e.g. "Fluffy Wheat"
+    id: str # exmaple:food_item
     oredict: list # Ore Dict key for categories
-    materials: list = field(init=False, repr=False) 
-    mod: str  # Name of parent mod
-    id: str # Game ID of food e.g. example:fluffy_wheat
+    recipe: list = field(init=False, repr=False) # Materials used to make item
+    children: list = field(init=False, repr=False) # FoodItems that self can create
+    hasWeight = False
+    
     weight: float = 0.0
 
-    hunger: int = 0
-    saturation: float = 0.0
-
-    step: int = -1
-
     def __post_init__(self):
-        self.materials = self.getMaterials()
-        self.cooked = self.isCooked()
         self.oredict = [f'ore:{ore}' for ore in self.oredict]
-
+        self.recipe = self.getRecipe()
     
+
     def __str__(self):
         if self.materials:
             return f'{self.name} made with {len(self.materials)} mats'
         else:
             return f'{self.name} is basic'
 
-    
-    def toCSV(self):
-        "Writes data in CSV format"
-        pass
 
     def isCooked(self):
         "Returns if item is cooked"
@@ -44,32 +36,75 @@ class FoodItem:
                 return True
         return False
 
-    def isBasic(self):
-        "Returns if food is crop, raw meat, or other non-crafted fooditem"
-        return self.materials == None
 
-
-    def getMaterialDict(self):
+    def getRecipeValues(self):
         if self.id in RECIPEDICT.keys():
             return RECIPEDICT[self.id].materials.copy()
         return None
 
     
-    def getMaterials(self):
+    def getRecipe(self):
         "Assigned to materials value"
         if self.id in RECIPEDICT.keys():
             return list(RECIPEDICT[self.id].materials.keys())
-        self.step = 0
+        if self.isCooked():
+            self.setWeight(2.0)
+        else:
+            self.setWeight(1.0)
         return None
 
 
-    def setWeight(self):
-        #TODO Calculate weight of item using Calamari method in TODO.txt
-        "Return if weight can be set, then declares it"
-        for material in self.materials:
-            if material in COOKINGTOOLS:
-                self.weight += 
+    def getValue(self, key):
+        with open(FOODFILE, 'r') as f:
+            readCSV = csv.DictReader(f, quotechar='"', fieldnames=FIELDNAMES)
+            for row in readCSV:
+                if row['Registry name'] == self.id:
+                    return row[key]
+            return None
 
+
+    def setWeight(self, weight):
+        "Assigns weight and changes bool"
+        self.weight = weight
+        self.hasWeight = True
+        return self.weight
+
+
+    def getWeight(self):
+        ""
+        if self.hasWeight:
+            return self.weight
+
+        weight = 0
+        if self.isCooked():
+            weight += 1
+
+        for material in self.recipe:
+            if isTool(material):
+                weight += TOOLS[material]['weight']
+                continue
+            elif isOre(material):
+                material = OREDICT[material][0]
+
+            if FOODDICT[material].hasWeight:
+                weight += FOODDICT[material].weight
+            else:
+                return None
+
+        return self.setWeight(weight)
+
+
+    def toCSV(self):
+        return {
+            'Registry name': self.id,
+            'Weight': self.weight, 
+            'Hunger': self.getValue('Hunger'), 
+            'Saturation': self.getValue('Saturation'),
+            'Display name': self.getValue('Display name'),
+            'Ore Dict keys': self.oredict, 
+            'Mod name': self.getValue('Mod name'), 
+            'Item ID': self.getValue('Item ID'),
+        }
 
 @dataclass
 class RecipeItem:
@@ -79,65 +114,22 @@ class RecipeItem:
 
 
 FIELDNAMES = ['Registry name', 'Hunger', 'Saturation', 'Meta/dmg', 'Display name', 'Ore Dict keys', 'Mod name', 'Item ID', 'Subtypes']
+NEWFIELDNAMES = ['Registry name',
+                'Weight',
+                'Hunger',
+                'Saturation',
+                'Display name',
+                'Ore Dict keys',
+                'Mod name',
+                'Item ID'
+                ]
 FOODDICT = {} # FIlled with FoodItems
 RECIPEDICT = {}
 OREDICT = {'gemAmbrosium': ['aether_legacy:ambrosium_shard']}
-COOKINGTOOLS = [
-    'animania:carving_knife',
-    'ore:toolBakeware',
-    'ore:toolMixingbowl',
-    'ore:toolMortarandpestle',
-    'ore:toolPot',
-    'ore:toolSaucepan',
-    'ore:toolCuttingboard',
-    'ore:toolJuicer',
-    'ore:toolSkillet',
-    'minecraft:dye', 
-    'ore:foodOliveoil',
-    'ore:foodVinegar',
-    'ore:foodVanilla',
-    'ore:foodGroundcinnamon',
-    'ore:foodSoysauce',
-    'ore:foodHoisinsauce',
-    'ore:foodCornmeal',
-    'ore:foodDough',
-    'ore:foodMeringue',
-    'ore:foodButter',
-    'ore:foodBatter',
-    'ore:foodFlour',
-    'ore:foodPasta',
-    'ore:foodNoodles',
-    'ore:foodMayo',
-    'ore:foodBlackpepper',
-    'ore:foodCocoapowder',
-    'ore:dustSalt',
-    'ore:itemSalt',
-    'ore:foodFivespice',
-    'ore:foodGroundbeef',
-    'ore:foodGroundpork',
-    'minecraft:snowball', # Smoothies
-    'forge:bucketfilled',
-    'minecraft:milk_bucket',
-    'ore:listAllwater',
-    'ore:foodBubblywater',
-    'minecraft:glass_bottle',
-    'minecraft:bowl',
-    'betternether:stalagnate_bowl',
-    'minecraft:nether_wart',
-    'biomesoplenty:mushroom',
-    'rats:plague_essence',
-    'minecraft:reeds',
-    'bountifulbaubles:trinketshulkerheart', # Sandwich Horror
-    'ore:flower',
-    'minecraft:cactus',
-    'minecraft:flint',
-    'ore:foodSesameoil', 'ore:foodGarammasala', 'minecraft:redstone', 'ore:cropPumpkin', 'ore:cobblestone', 'ore:listAllsalt', 'ore:cropLychee', 'ore:cropWheat', 'minecraft:speckled_melon', 'ore:foodHotsauce', 'ore:stickWood', 'ore:foodSweetandsoursauce', 'ore:dyeGreen', 'minecraft:bone', 'minecraft:slime_ball', 'ore:foodGroundvenison', 'minecraft:blaze_powder', 'ore:flourEqualswheat', 'harvestcraft:doughitem', 'minecraft:coal', 'harvestcraft:potitem', 'minecraft:iron_ingot',
-        'minecraft:diamond', 'ore:foodGroundnutmeg', 'ore:listAllseed', 'ore:foodMustard', 'minecraft:paper', 'ore:foodSalt', 'ore:foodYogurt', 'harvestcraft:bakewareitem', 'minecraft:double_plant', 'minecraft:gunpowder', 'ore:foodSaladdressing', 'ore:seedMustard', 'ore:foodCurrypowder', 'minecraft:nether_star', 'ore:foodSpiceleaf', 'minecraft:gold_ingot', 'minecraft:gold_nugget', 'ore:foodKetchup', 'ore:materialPigskin', 'harvestcraft:honey', 'ore:foodGroundmutton', 'minecraft:pumpkin_seeds'
-    # Miner Stew
-    ]
 SKIPPED = [ # fuck cheese wheels
     'aether_legacy:ambrosium_block',
     'charm:rotten_flesh_block',
+    'minecraft:melon_block',
     'animania:friesian_cheese_wheel',
     'animania:goat_cheese_wheel', 
     'animania:holstein_cheese_wheel', 
@@ -157,16 +149,25 @@ def isFood(name):
         return False
             
             
-def isOre(name: str):
+def isOre(key: str):
     "Returns if name (id) is an ore"
-    return name.startswith('ore:')
+    if key.startswith('ore:'):
+        return OREDICT[key]
+    return None
 
 
-def updateOres(foodID, step):
+def isTool(key: str):
+    "Returns weight if tool else None"
+    if key in TOOLS:
+        return TOOLS[key]['weight']
+    return None
+
+
+def updateOres(foodID, weight):
     if FOODDICT[foodID].oredict:
         for ore in FOODDICT[foodID].oredict:
             for food in OREDICT[ore]:
-                FOODDICT[food].step = step
+                FOODDICT[food].weight = weight
 
 
 def cleanID(foodID: str):
@@ -180,7 +181,7 @@ def cleanID(foodID: str):
 
 def FillRecipeDict():
     "Pulls lines from RECIPEFILE and converts them to more accessible format"
-
+    print('[=] Filling Recipes...')
     with open(RECIPEFILE) as r:
         linecount = 0
         for line in r:
@@ -199,18 +200,14 @@ def FillRecipeDict():
 def FillFoodDict():
     if len(RECIPEDICT) == 0:
         FillRecipeDict()
-
+    print('[=] Filling Food Dict...')
     with open(FOODFILE, 'r') as f:
         readCSV = csv.DictReader(f, quotechar='"', fieldnames=FIELDNAMES)
         for row in readCSV:
             #Registry name,Hunger,Saturation,Meta/dmg,Display name,Ore Dict keys,Mod name,Item ID,Subtypes
             food = FoodItem(
                 id = row['Registry name'],
-                hunger = row['Hunger'],
-                saturation = row['Saturation'],
-                name = row['Display name'],
-                oredict = row['Ore Dict keys'].split(','),
-                mod = row['Mod name'],
+                oredict = row['Ore Dict keys'].replace(' ', '').split(','),
             )
             FOODDICT[food.id] = food
 
@@ -228,71 +225,41 @@ def FillFoodDict():
                 food.oredict = None
 
 
-def calcSteps():
-    #TODO dumb bitch broked
-    "Calculates how many steps required to craft item."
+def genWeights():
+    "Generates weight values for food items"
     from collections import deque
-    queue = deque(FOODDICT.values()) # This is just a queue of FoodItems
-    ERR=[]
-    MAXLEN = len(queue)
-    count=0
-    while queue: # Runs until empty, don't ever do this
+    queue = deque(FOODDICT.values())
+    print('[=] Generating weights...')
+    while len(queue): # Continue until empty
+        # if len(queue) == 2:
+        #     print(queue)
+        #     break
         food = queue.popleft()
-        if count + len(ERR) >= MAXLEN:
-            print('[-] Exceeded')
-            exit(1)
-        # if count % 75 == 0:
-        #     print(len(queue))
-        highestStep = 1 # Set to be one higher than basic ingredients (which are 0)
-        notReady = False
-
-        if food.step > -1: # This means step was declared
-            continue       # And needs to be removed from deque
-
-        for material in food.materials:
-            testStep = None
-            if material in COOKINGTOOLS:
-                continue
-            elif isOre(material):
-                # print(sorted(FOODDICT.values(), key = lambda x: x.step))
-                # Use above in need to grab highest or lowest value FoodItem from OREDICT
-                try:
-                    testStep = FOODDICT[OREDICT[material][0]].step
-                except:
-                    ERR.append(material)
-                    print(ERR)
-                    continue
-            else:
-                try:
-                    testStep = FOODDICT[material].step
-                except:
-                    ERR.append(material)
-                    print(ERR)
-                    continue
-            if testStep == -1:
-                notReady = True
-                break
-            if testStep > highestStep:
-                highestStep=testStep+1
-
-        if notReady:
+        
+        if not food.getWeight():
             queue.append(food)
-        else:
-            food.step = highestStep
-            count+=1
-            # Update to updateOre method
-            updateOres(food.id, food.step)
-    print(ERR)
+
+
+def writeFoods():
+    "Writes all food into CSV file"
+    print('[=] Saving Foods...')
+    with open('updatedFood.csv', 'w', newline='') as f:
+        writeCSV = csv.DictWriter(f, fieldnames=NEWFIELDNAMES, quotechar='"')
+        writeCSV.writeheader()
+        for food in FOODDICT.values():
+            writeCSV.writerow(food.toCSV())
+
+
+
 
 def run():
     FillRecipeDict()
     FillFoodDict()
-    calcSteps()
+    genWeights()
+    writeFoods()
 
 
 if __name__ == '__main__':
     
-    for food in FOODDICT.values():
-        if food.steps > 2:
-            print(food)
-    
+    run()
+    print(FOODDICT['harvestcraft:lycheeteaitem'].weight)

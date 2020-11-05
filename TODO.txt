@@ -19,3 +19,7 @@ Multi-part foods should include total # of steps to get to that point.
 - Somewhat Important for Progression/Balance: Total # of ingredients
 
 - "Availability" (?) Maybe somewhat arbitrary, but I think important to consider. Carminberries, hawthorne berries, aether berries grow ALL the time super fast, don't care about seasons. Super easy to get. Ptera wings, parasites, slime gummies, also very easy and not season restricted. Most food in the "Super Easy" availability should have some kind of downside or inefficiency, because otherwise a few stacks of them could largely compensate for other foods for lazy players.
+
+
+# Important
+Check "cropJackfruit" ore matching with harvestcraft:jackfruititem
