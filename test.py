@@ -4,9 +4,6 @@
    
 # print({'name': f'<{words[0]}>', 'mats': { f'<{i}>': words[1:].count(i) for i in words[1:] } })
 
-from collections import deque
+x = '\w'
 
-q = deque(['a', 'b', 'c', 'd', None])
-
-
-print(all(q))
+print( x.isspace())
