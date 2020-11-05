@@ -129,7 +129,10 @@ COOKINGTOOLS = [
     'bountifulbaubles:trinketshulkerheart', # Sandwich Horror
     'ore:flower',
     'minecraft:cactus',
-    'minecraft:flint' # Miner Stew
+    'minecraft:flint',
+    'ore:foodSesameoil', 'ore:foodGarammasala', 'minecraft:redstone', 'ore:cropPumpkin', 'ore:cobblestone', 'ore:listAllsalt', 'ore:cropLychee', 'ore:cropWheat', 'minecraft:speckled_melon', 'ore:foodHotsauce', 'ore:stickWood', 'ore:foodSweetandsoursauce', 'ore:dyeGreen', 'minecraft:bone', 'minecraft:slime_ball', 'ore:foodGroundvenison', 'minecraft:blaze_powder', 'ore:flourEqualswheat', 'harvestcraft:doughitem', 'minecraft:coal', 'harvestcraft:potitem', 'minecraft:iron_ingot',
+        'minecraft:diamond', 'ore:foodGroundnutmeg', 'ore:listAllseed', 'ore:foodMustard', 'minecraft:paper', 'ore:foodSalt', 'ore:foodYogurt', 'harvestcraft:bakewareitem', 'minecraft:double_plant', 'minecraft:gunpowder', 'ore:foodSaladdressing', 'ore:seedMustard', 'ore:foodCurrypowder', 'minecraft:nether_star', 'ore:foodSpiceleaf', 'minecraft:gold_ingot', 'minecraft:gold_nugget', 'ore:foodKetchup', 'ore:materialPigskin', 'harvestcraft:honey', 'ore:foodGroundmutton', 'minecraft:pumpkin_seeds'
+    # Miner Stew
     ]
 SKIPPED = [ # fuck cheese wheels
     'aether_legacy:ambrosium_block',
@@ -230,12 +233,15 @@ def calcSteps():
     from collections import deque
     queue = deque(FOODDICT.values()) # This is just a queue of FoodItems
     ERR=[]
+    MAXLEN = len(queue)
     count=0
     while queue: # Runs until empty, don't ever do this
         food = queue.popleft()
-        count+=1
-        if count % 50 == 0:
-            print(len(queue))
+        if count + len(ERR) >= MAXLEN:
+            print('[-] Exceeded')
+            exit(1)
+        # if count % 75 == 0:
+        #     print(len(queue))
         highestStep = 1 # Set to be one higher than basic ingredients (which are 0)
         notReady = False
 
@@ -272,6 +278,7 @@ def calcSteps():
             queue.append(food)
         else:
             food.step = highestStep
+            count+=1
             # Update to updateOre method
             updateOres(food.id, food.step)
     print(ERR)
