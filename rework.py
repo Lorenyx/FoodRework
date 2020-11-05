@@ -7,22 +7,20 @@ FOODFILE = 'food.csv'
 
 @dataclass
 class FoodItem:
-    weight: float = field(init=False, repr=False) 
+    
     name: str # Name of the food item e.g. "Fluffy Wheat"
     oredict: list # Ore Dict key for categories
-
     materials: list = field(init=False, repr=False) 
-    cooked: bool = field(init=False, repr=False)
     mod: str  # Name of parent mod
     id: str # Game ID of food e.g. example:fluffy_wheat
-    
+    weight: float = 0.0
+
     hunger: int = 0
     saturation: float = 0.0
 
     step: int = -1
 
     def __post_init__(self):
-        self.weight = self.getWeight()
         self.materials = self.getMaterials()
         self.cooked = self.isCooked()
         self.oredict = [f'ore:{ore}' for ore in self.oredict]
@@ -65,9 +63,12 @@ class FoodItem:
         return None
 
 
-    def getWeight(self):
+    def setWeight(self):
         #TODO Calculate weight of item using Calamari method in TODO.txt
-        return None
+        "Return if weight can be set, then declares it"
+        for material in self.materials:
+            if material in COOKINGTOOLS:
+                self.weight += 
 
 
 @dataclass
@@ -283,11 +284,14 @@ def calcSteps():
             updateOres(food.id, food.step)
     print(ERR)
 
-
-if __name__ == '__main__':
+def run():
     FillRecipeDict()
     FillFoodDict()
     calcSteps()
+
+
+if __name__ == '__main__':
+    
     for food in FOODDICT.values():
         if food.steps > 2:
             print(food)
