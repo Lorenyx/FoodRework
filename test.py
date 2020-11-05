@@ -4,5 +4,6 @@
    
 # print({'name': f'<{words[0]}>', 'mats': { f'<{i}>': words[1:].count(i) for i in words[1:] } })
 
-it = [1,2,4,5,3,9]
+x = '\w'
 
+print( x.isspace())

@@ -76,10 +76,70 @@ class RecipeItem:
     materials: dict # {Material name, count}
 
 
+
+FIELDNAMES = ['Registry name', 'Hunger', 'Saturation', 'Meta/dmg', 'Display name', 'Ore Dict keys', 'Mod name', 'Item ID', 'Subtypes']
 FOODDICT = {} # FIlled with FoodItems
 RECIPEDICT = {}
 OREDICT = {'gemAmbrosium': ['aether_legacy:ambrosium_shard']}
-FIELDNAMES = ['Registry name', 'Hunger', 'Saturation', 'Meta/dmg', 'Display name', 'Ore Dict keys', 'Mod name', 'Item ID', 'Subtypes']
+COOKINGTOOLS = [
+    'animania:carving_knife',
+    'ore:toolBakeware',
+    'ore:toolMixingbowl',
+    'ore:toolMortarandpestle',
+    'ore:toolPot',
+    'ore:toolSaucepan',
+    'ore:toolCuttingboard',
+    'ore:toolJuicer',
+    'ore:toolSkillet',
+    'minecraft:dye', 
+    'ore:foodOliveoil',
+    'ore:foodVinegar',
+    'ore:foodVanilla',
+    'ore:foodGroundcinnamon',
+    'ore:foodSoysauce',
+    'ore:foodHoisinsauce',
+    'ore:foodCornmeal',
+    'ore:foodDough',
+    'ore:foodMeringue',
+    'ore:foodButter',
+    'ore:foodBatter',
+    'ore:foodFlour',
+    'ore:foodPasta',
+    'ore:foodNoodles',
+    'ore:foodMayo',
+    'ore:foodBlackpepper',
+    'ore:foodCocoapowder',
+    'ore:dustSalt',
+    'ore:itemSalt',
+    'ore:foodFivespice',
+    'ore:foodGroundbeef',
+    'ore:foodGroundpork',
+    'minecraft:snowball', # Smoothies
+    'forge:bucketfilled',
+    'minecraft:milk_bucket',
+    'ore:listAllwater',
+    'ore:foodBubblywater',
+    'minecraft:glass_bottle',
+    'minecraft:bowl',
+    'betternether:stalagnate_bowl',
+    'minecraft:nether_wart',
+    'biomesoplenty:mushroom',
+    'rats:plague_essence',
+    'minecraft:reeds',
+    'bountifulbaubles:trinketshulkerheart', # Sandwich Horror
+    'ore:flower',
+    'minecraft:cactus',
+    'minecraft:flint' # Miner Stew
+    ]
+SKIPPED = [ # fuck cheese wheels
+    'aether_legacy:ambrosium_block',
+    'charm:rotten_flesh_block',
+    'animania:friesian_cheese_wheel',
+    'animania:goat_cheese_wheel', 
+    'animania:holstein_cheese_wheel', 
+    'animania:jersey_cheese_wheel',
+    'animania:sheep_cheese_wheel'
+    ]
 
 
 def isFood(name):
@@ -92,15 +152,17 @@ def isFood(name):
                 return True
         return False
             
+            
 def isOre(name: str):
     "Returns if name (id) is an ore"
     return name.startswith('ore:')
 
 
-def updateOres(orename, step):
-    if orename:
-        for food in OREDICT[orename]:
-            FOODDICT[food].step = step
+def updateOres(foodID, step):
+    if FOODDICT[foodID].oredict:
+        for ore in FOODDICT[foodID].oredict:
+            for food in OREDICT[ore]:
+                FOODDICT[food].step = step
 
 
 def cleanID(foodID: str):
@@ -123,10 +185,10 @@ def FillRecipeDict():
             words = re.findall('<(.*?)>', "".join(line.split()))
             if len(words) > 1:
                 # dict = {'name': f'<{words[0]}>', 'mats': {f'<{i}>': words[1:].count(i) for i in words[1:]}}
-                recipe = RecipeItem(name=words[0], materials={cleanID(
-                    item): words[1:].count(item) for item in words[1:]})
-
-                if isFood(recipe.name):
+                recipe = RecipeItem(name=words[0], materials={
+                    cleanID(item): words[1:].count(item) for item in words[1:]})
+                
+                if isFood(recipe.name) and all([mat not in SKIPPED for mat in recipe.materials ]):
                     RECIPEDICT[recipe.name] = recipe
 
 
@@ -152,7 +214,7 @@ def FillFoodDict():
             if food.id == 'aether_legacy:ambrosium_shard':
                 food.step=0
             # Updates OREDICT to include every food under oredict key
-            if food.oredict and food.oredict[0] != '':
+            if not food.oredict[0].isspace():
                 for ore in food.oredict:
                     if ore in OREDICT.keys():
                         OREDICT[ore].append(f'{food.id}')
@@ -162,15 +224,12 @@ def FillFoodDict():
                 food.oredict = None
 
 
-
-
-
 def calcSteps():
     #TODO dumb bitch broked
     "Calculates how many steps required to craft item."
     from collections import deque
     queue = deque(FOODDICT.values()) # This is just a queue of FoodItems
-    
+    ERR=[]
     while queue: # Runs until empty, don't ever do this
         food = queue.popleft()
         highestStep = 1 # Set to be one higher than basic ingredients (which are 0)
@@ -181,11 +240,25 @@ def calcSteps():
 
         for material in food.materials:
             testStep = None
-            if isOre(material):
-                pass
+            if material in COOKINGTOOLS:
+                continue
+            elif isOre(material):
+                # print(sorted(FOODDICT.values(), key = lambda x: x.step))
+                # Use above in need to grab highest or lowest value FoodItem from OREDICT
+                try:
+                    testStep = FOODDICT[OREDICT[material][0]].step
+                except:
+                    ERR.append(material)
+                    continue
+                
+            
             else:
-                testStep = FOODDICT[material].step
-            if FOODDICT[material].step == -1:
+                try:
+                    testStep = FOODDICT[material].step
+                except:
+                    ERR.append(material)
+                    continue
+            if testStep == -1:
                 notReady = True
                 break
             if testStep > highestStep:
@@ -195,13 +268,16 @@ def calcSteps():
             queue.append(food)
         else:
             food.step = highestStep
-            if food.oredict:
-                for ore in food.oredict:
-                    FOODDICT[ore].step = highestStep
+            # Update to updateOre method
+            updateOres(food.id, food.step)
+    print(ERR)
 
 
 if __name__ == '__main__':
     FillRecipeDict()
     FillFoodDict()
-    # calcSteps()
-    print(sorted(FOODDICT.values(), key = lambda x: x.step))
+    calcSteps()
+    for food in FOODDICT.values():
+        if food.steps > 2:
+            print(food)
+    
