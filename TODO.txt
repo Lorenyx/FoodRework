@@ -23,3 +23,5 @@ Multi-part foods should include total # of steps to get to that point.
 
 # Important
 Check "cropJackfruit" ore matching with harvestcraft:jackfruititem
+
+I think isFood brokee

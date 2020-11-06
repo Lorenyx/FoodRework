@@ -16,6 +16,7 @@ class FoodItem:
     hasWeight = False
     
     weight: float = 0.0
+    product: int = 1
 
     def __post_init__(self):
         self.oredict = [f'ore:{ore}' for ore in self.oredict]
@@ -23,14 +24,16 @@ class FoodItem:
     
 
     def __str__(self):
-        if self.materials:
-            return f'{self.name} made with {len(self.materials)} mats'
+        if self.recipe:
+            return f'{self.id} made with {len(self.recipe)} mats'
         else:
-            return f'{self.name} is basic'
+            return f'{self.id} is basic'
 
 
     def isCooked(self):
         "Returns if item is cooked"
+        if 'Cooked' in self.getValue('Display name'):
+            return True
         for ore in self.oredict:
             if 'cook' in ore:
                 return True
@@ -46,11 +49,10 @@ class FoodItem:
     def getRecipe(self):
         "Assigned to materials value"
         if self.id in RECIPEDICT.keys():
-            return list(RECIPEDICT[self.id].materials.keys())
-        if self.isCooked():
-            self.setWeight(2.0)
-        else:
-            self.setWeight(1.0)
+            recipe = RECIPEDICT[self.id]
+            self.product = recipe.product
+            return list(recipe.materials.keys())
+        self.setWeight() 
         return None
 
 
@@ -63,8 +65,10 @@ class FoodItem:
             return None
 
 
-    def setWeight(self, weight):
+    def setWeight(self, weight=1.0):
         "Assigns weight and changes bool"
+        if self.isCooked(): 
+            weight+=1  # Weight of being cooked
         self.weight = weight
         self.hasWeight = True
         return self.weight
@@ -79,17 +83,23 @@ class FoodItem:
         if self.isCooked():
             weight += 1
 
+        matDict = self.getRecipeValues()
         for material in self.recipe:
-            if isTool(material):
-                weight += TOOLS[material]['weight']
-                continue
-            elif isOre(material):
-                material = OREDICT[material][0]
-
-            if FOODDICT[material].hasWeight:
-                weight += FOODDICT[material].weight
-            else:
-                return None
+            try:
+                if isTool(material):
+                    weight += TOOLS[material]['weight']
+                elif isOre(material):
+                    if FOODDICT[OREDICT[material][0]].hasWeight:
+                        weight += FOODDICT[OREDICT[material][0]].weight * matDict[material]
+                    else: 
+                        return None
+                elif FOODDICT[material].hasWeight:
+                    weight += FOODDICT[material].weight * matDict[material]
+                
+                else:
+                    return None
+            except KeyError:
+                print(f'[-] No key: {material}')
 
         return self.setWeight(weight)
 
@@ -98,6 +108,7 @@ class FoodItem:
         return {
             'Registry name': self.id,
             'Weight': self.weight, 
+            'Product': self.product,
             'Hunger': self.getValue('Hunger'), 
             'Saturation': self.getValue('Saturation'),
             'Display name': self.getValue('Display name'),
@@ -110,12 +121,14 @@ class FoodItem:
 class RecipeItem:
     name: str
     materials: dict # {Material name, count}
+    product: int = 1
 
 
-
-FIELDNAMES = ['Registry name', 'Hunger', 'Saturation', 'Meta/dmg', 'Display name', 'Ore Dict keys', 'Mod name', 'Item ID', 'Subtypes']
+FIELDNAMES = ["Mod name", "Registry name", "Item ID", "Meta/dmg",
+              "Subtypes", "Display name", "Hunger", "Saturation", "Ore Dict keys"]
 NEWFIELDNAMES = ['Registry name',
                 'Weight',
+                'Product',
                 'Hunger',
                 'Saturation',
                 'Display name',
@@ -144,7 +157,7 @@ def isFood(name):
         if '<' in name:
             name = name[1:-1]
         for line in f:
-            if name == line.split(',')[0]:
+            if name == line.split(',')[1].replace('"', ''):
                 return True
         return False
             
@@ -186,14 +199,15 @@ def FillRecipeDict():
         linecount = 0
         for line in r:
             linecount += 1
-            # Sorry the below line does a lot of python magic but it works so...
+            # Sorry the below line does a lot of python magic but it works so...        
             words = re.findall('<(.*?)>', "".join(line.split()))
             if len(words) > 1:
                 # dict = {'name': f'<{words[0]}>', 'mats': {f'<{i}>': words[1:].count(i) for i in words[1:]}}
-                recipe = RecipeItem(name=words[0], materials={
-                    cleanID(item): words[1:].count(item) for item in words[1:]})
-                
+                recipe = RecipeItem(name=words[0], materials={cleanID(item): words[1:].count(item) for item in words[1:]})
                 if isFood(recipe.name) and all([mat not in SKIPPED for mat in recipe.materials ]):
+                    ls = line.split(', ', maxsplit=2)
+                    if len(ls) > 1 and '*' in ls[1]:
+                        recipe.product = int(ls[1][ls[1].index('*')+2:])
                     RECIPEDICT[recipe.name] = recipe
 
 
@@ -207,7 +221,7 @@ def FillFoodDict():
             #Registry name,Hunger,Saturation,Meta/dmg,Display name,Ore Dict keys,Mod name,Item ID,Subtypes
             food = FoodItem(
                 id = row['Registry name'],
-                oredict = row['Ore Dict keys'].replace(' ', '').split(','),
+                oredict = row['Ore Dict keys'].split(','), 
             )
             FOODDICT[food.id] = food
 
@@ -231,9 +245,6 @@ def genWeights():
     queue = deque(FOODDICT.values())
     print('[=] Generating weights...')
     while len(queue): # Continue until empty
-        # if len(queue) == 2:
-        #     print(queue)
-        #     break
         food = queue.popleft()
         
         if not food.getWeight():
@@ -243,13 +254,11 @@ def genWeights():
 def writeFoods():
     "Writes all food into CSV file"
     print('[=] Saving Foods...')
-    with open('updatedFood.csv', 'w', newline='') as f:
+    with open('weightedFood.csv', 'w', newline='') as f:
         writeCSV = csv.DictWriter(f, fieldnames=NEWFIELDNAMES, quotechar='"')
         writeCSV.writeheader()
         for food in FOODDICT.values():
             writeCSV.writerow(food.toCSV())
-
-
 
 
 def run():
@@ -262,4 +271,3 @@ def run():
 if __name__ == '__main__':
     
     run()
-    print(FOODDICT['harvestcraft:lycheeteaitem'].weight)

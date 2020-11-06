@@ -11,6 +11,9 @@
     "bountifulbaubles:trinketshulkerheart": {
         "weight": 1.0
     },
+    "dynamictreesphc:coconutseed": {
+        "weight": 1.0
+    },
     "forge:bucketfilled": {
         "weight": 1.0
     },
@@ -21,6 +24,36 @@
         "weight": 1.0
     },
     "harvestcraft:honey": {
+        "weight": 1.0
+    },
+    "harvestcraft:pambreadfruit": {
+        "weight": 1.0
+    },
+    "harvestcraft:pamguava": {
+        "weight": 1.0
+    },
+    "harvestcraft:pamhazelnut": {
+        "weight": 1.0
+    },
+    "harvestcraft:pamjackfruit": {
+        "weight": 1.0
+    },
+    "harvestcraft:pamlychee": {
+        "weight": 1.0
+    },
+    "harvestcraft:pampassionfruit": {
+        "weight": 1.0
+    },
+    "harvestcraft:pampawpaw": {
+        "weight": 1.0
+    },
+    "harvestcraft:pamrambutan": {
+        "weight": 1.0
+    },
+    "harvestcraft:pamsoursop": {
+        "weight": 1.0
+    },
+    "harvestcraft:pamtamarind": {
         "weight": 1.0
     },
     "harvestcraft:potitem": {
@@ -98,6 +131,15 @@
     "minecraft:snowball": {
         "weight": 1.0
     },
+    "mod_lavacow:moltenpan": {
+        "weight": 1.0
+    },
+    "mod_lavacow:ectoplasm": {
+        "weight": 1.0
+    },
+    "mod_lavacow:glowshroom": {
+        "weight": 1.0
+    },
     "minecraft:speckled_melon": {
         "weight": 1.0
     },
@@ -114,6 +156,9 @@
         "weight": 1.0
     },
     "ore:cropCotton": {
+        "weight": 1.0
+    },
+    "ore:cropJackfruit": {
         "weight": 1.0
     },
     "ore:dustSalt": {
@@ -252,6 +297,9 @@
         "weight": 1.0
     },
     "ore:seedMustard": {
+        "weight": 1.0
+    },
+    "ore:slimeball": {
         "weight": 1.0
     },
     "ore:stickWood": {
