@@ -13,6 +13,7 @@ OREDICT = settings.OREDICT
 @dataclass
 class FoodItem:
     id: str # exmaple:food_item
+    displayName: str
     hunger: int
     saturation: float # (SM * 2 * H)
     oredict: list # Ore Dict key for categories
@@ -37,15 +38,6 @@ class FoodItem:
 
     def __repr__(self):
         print(self.id)
-
-        
-    def findValue(self, key):
-        with open(FOODCSV, 'r') as f:
-            readCSV = csv.DictReader(f, quotechar='"', fieldnames=FIELDNAMES)
-            for row in readCSV:
-                if row['Registry name'] == self.id:
-                    return row[key]
-            return None
 
 
     def generateRecipe(self):
@@ -94,7 +86,7 @@ class FoodItem:
 
     def genValues(self):
         if self.id in SPECIALFOODS:
-            return (int(self.findValue('Hunger')), float(self.findValue('Saturation')))
+            return (int(self.hunger), float(self.saturation))
         weight = self.weight
         if weight == 1:  # Morsels (no saturation)
             return (1, 0.0)
@@ -111,11 +103,11 @@ class FoodItem:
 
 
     def isCooked(self):
-        return 'Cooked' in self.findValue('Display name')
+        return 'Cooked' in self.displayName
 
 
     def isRaw(self):
-        return 'Raw' in self.findValue('Display name')
+        return 'Raw' in self.displayName
 
 
     def isTofu(self):
@@ -129,10 +121,8 @@ class FoodItem:
             'Product': self.product,
             'Hunger': self.hunger,
             'Saturation': self.saturation,
-            'Display name': self.findValue('Display name'),
+            'Display name': self.displayName,
             'Ore Dict keys': self.oredict,
-            'Mod name': self.findValue('Mod name'),
-            'Item ID': self.findValue('Item ID'),
         }
 
 
@@ -154,7 +144,8 @@ class FoodItem:
             saturation = float(rowCSV['Saturation']),
             oredict = rowCSV['Ore Dict keys'],
             weight = float(rowCSV['Weight']),
-            product = int(rowCSV['Product'])
+            product = int(rowCSV['Product']),
+            displayName = rowCSV['Display name']
         )
         if f.weight != 1.0:
             f.weight = 0.0
