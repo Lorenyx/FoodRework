@@ -57,7 +57,7 @@
         "weight": 1.0
     },
     "harvestcraft:potitem": {
-        "weight": 1.0
+        "weight": 0.0
     },
     "minecraft:blaze_powder": {
         "weight": 1.0
@@ -81,7 +81,7 @@
         "weight": 1.0
     },
     "minecraft:dye": {
-        "weight": 1.0
+        "weight": 0.0
     },
     "minecraft:experience_bottle": {
         "weight": 1.0
@@ -90,7 +90,7 @@
         "weight": 1.0
     },
     "minecraft:glass_bottle": {
-        "weight": 1.0
+        "weight": 0.0
     },
     "minecraft:gold_ingot": {
         "weight": 1.0
@@ -129,7 +129,7 @@
         "weight": 1.0
     },
     "minecraft:snowball": {
-        "weight": 1.0
+        "weight": 0.0
     },
     "mod_lavacow:moltenpan": {
         "weight": 1.0
@@ -291,7 +291,7 @@
         "weight": 1.0
     },
     "ore:listAllwater": {
-        "weight": 3.0
+        "weight": 0.0
     },
     "ore:materialPigskin": {
         "weight": 1.0

@@ -4,7 +4,7 @@ from typing import List, Dict
 import csv, re, json
 
 RECIPEFILE = 'recipes.dat'
-FOODFILE = 'food.csv'
+FOODFILE = 'weightedFood.csv'
 TOOLS = json.load(open('tools.json', 'r'))
 
 @dataclass
@@ -19,7 +19,9 @@ class FoodItem:
     product: int = 1
 
     def __post_init__(self):
-        self.oredict = [f'ore:{ore}' for ore in self.oredict]
+        #TODO Verify that this is backwards compatible
+        if not self.oredict:
+            self.oredict = [f'ore:{ore}' for ore in self.oredict]
         self.recipe = self.getRecipe()
     
 
@@ -58,7 +60,7 @@ class FoodItem:
 
     def getValue(self, key):
         with open(FOODFILE, 'r') as f:
-            readCSV = csv.DictReader(f, quotechar='"', fieldnames=FIELDNAMES)
+            readCSV = csv.DictReader(f, quotechar='"', fieldnames=NEWFIELDNAMES)
             for row in readCSV:
                 if row['Registry name'] == self.id:
                     return row[key]
@@ -69,7 +71,7 @@ class FoodItem:
         "Assigns weight and changes bool"
         if self.isCooked(): 
             weight+=1  # Weight of being cooked
-        self.weight = weight
+        self.weight = int(weight)
         self.hasWeight = True
         return self.weight
 
@@ -104,18 +106,57 @@ class FoodItem:
         return self.setWeight(weight)
 
 
+    def makeValues(self):
+        "Returns tuple of (Hunger, SaturationModifier)"
+        if self.id in SPECIALFOODS:
+            return (self.getValue('Hunger'), self.getValue('Saturation'))
+        weight = int(float(self.weight.strip()))
+        if weight == 1: # Morsels (no saturation)
+            return (1,0.0)
+        if weight <= 3: # Snacks (between 2-3 steps) (saturation half chunk)
+            return (2, 0.125) # Sat = 0.5
+        if weight <= 5: # Light Meal (between 4-5 steps) (saturation one less)
+            return (5, .15)
+        if weight <= 8: # Meal (between 6-8 steps) (saturation equal)
+            return (7, .2)
+        if weight <= 11: # Large Meal (Between 9-11 steps) (Saturation greater)
+            return (9, .4)
+        else:
+            return (weight, .5)
+
+
     def toCSV(self):
+        hunger, saturationModifier = self.makeValues()
         return {
             'Registry name': self.id,
             'Weight': self.weight, 
             'Product': self.product,
-            'Hunger': self.getValue('Hunger'), 
-            'Saturation': self.getValue('Saturation'),
+            'Hunger': hunger, 
+            'Saturation': saturationModifier*2*hunger,
             'Display name': self.getValue('Display name'),
             'Ore Dict keys': self.oredict, 
             'Mod name': self.getValue('Mod name'), 
             'Item ID': self.getValue('Item ID'),
         }
+
+    def toJson(self):
+        return {
+            'name':self.id,
+            'hunger': self.makeValues()[0],
+            'saturationModifier': self.makeValues()[1]
+            }
+
+    def fromCSV(csvDict):
+        food = FoodItem(
+            id=csvDict['Registry name'],
+            product=csvDict['Product'],
+            oredict=csvDict['Ore Dict keys']
+        )
+        food.weight = csvDict['Weight']
+        food.hasWeight = True
+
+        return food
+        
 
 @dataclass
 class RecipeItem:
@@ -149,7 +190,7 @@ SKIPPED = [ # fuck cheese wheels
     'animania:jersey_cheese_wheel',
     'animania:sheep_cheese_wheel'
     ]
-
+SPECIALFOODS = []
 
 def isFood(name):
     "Returns if recipe name is a food item"
@@ -239,6 +280,15 @@ def FillFoodDict():
                 food.oredict = None
 
 
+def FillNewFoodDict():
+    print('[=] Adding weighted foods')
+    with open('weightedFood.csv', 'r') as f:
+        readCSV = csv.DictReader(f, quotechar='"', fieldnames=NEWFIELDNAMES)
+        for row in readCSV:
+            food = FoodItem.fromCSV(row)
+            FOODDICT[food.id] = food
+
+
 def genWeights():
     "Generates weight values for food items"
     from collections import deque
@@ -261,13 +311,33 @@ def writeFoods():
             writeCSV.writerow(food.toCSV())
 
 
+def writeNewFoods():
+    "Writes all food into CSV file"
+    print('[=] Saving Foods...')
+    with open('newValueFood.csv', 'w', newline='') as f:
+        writeCSV = csv.DictWriter(f, fieldnames=NEWFIELDNAMES, quotechar='"')
+        writeCSV.writeheader()
+        for food in FOODDICT.values():
+            writeCSV.writerow(food.toCSV())
+
+
+def writeFoodOverride():
+    print('[=] Writing Override json...')
+    with open('foodOverrides.json', 'w') as j:
+        writeList = [food.toJson() for food in FOODDICT.values()]
+        json.dump({'foods':writeList[1:]}, j, indent=4)
+        
+
 def run():
     FillRecipeDict()
-    FillFoodDict()
-    genWeights()
-    writeFoods()
+    FillNewFoodDict()
+    writeFoodOverride()
+    # FillFoodDict()
+    # genWeights()
+    # writeFoods()
 
 
 if __name__ == '__main__':
     
     run()
+    

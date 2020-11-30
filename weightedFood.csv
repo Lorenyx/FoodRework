@@ -1,4 +1,3 @@
-Registry name,Weight,Product,Hunger,Saturation,Display name,Ore Dict keys,Mod name,Item ID
 animania:bacon_omelette,3.0,1,5,0.7,Bacon Omelette,['ore:'],Animania,4473
 animania:cheese_omelette,2.0,1,5,0.7,Cheese Omelette,['ore:'],Animania,4474
 animania:chocolate_truffle,3.0,1,6,0.7,Chocolate Truffle,['ore:'],Animania,4478
@@ -248,7 +247,7 @@ harvestcraft:artichokeitem,1.0,1,1,0.6,Artichoke,"['ore:cropArtichoke', 'ore:lis
 harvestcraft:asparagusitem,1.0,1,1,0.6,Asparagus,"['ore:cropAsparagus', 'ore:listAllgreenveggie', 'ore:listAllveggie']",Pam's HarvestCraft,9573
 harvestcraft:asparagusquicheitem,5.0,1,6,1.2,Asparagus Quiche,['ore:foodAsparagusquiche'],Pam's HarvestCraft,10126
 harvestcraft:asparagussoupitem,6.0,1,6,1.2,Asparagus Soup,['ore:foodAsparagussoup'],Pam's HarvestCraft,10127
-harvestcraft:avocadoburritoitem,10.0,1,8,1.2,Avocado Burrito,['ore:foodAvocadoburrito'],Pam's HarvestCraft,10137
+harvestcraft:avocadoburritoitem,8.0,1,8,1.2,Avocado Burrito,['ore:foodAvocadoburrito'],Pam's HarvestCraft,10137
 harvestcraft:avocadoitem,1.0,1,1,0.6,Avocado,['ore:cropAvocado'],Pam's HarvestCraft,9789
 harvestcraft:babaganoushitem,6.0,1,5,1.2,Baba Ganoush,['ore:foodBabaganoush'],Pam's HarvestCraft,10534
 harvestcraft:baconandeggsitem,4.0,1,4,1.2,Bacon and Eggs,['ore:foodBaconandeggs'],Pam's HarvestCraft,10464
@@ -285,7 +284,7 @@ harvestcraft:bbqplatteritem,16.0,1,14,1.2,BBQ Platter,['ore:foodBbqplatter'],Pam
 harvestcraft:bbqpotatochipsitem,9.0,1,7,1.2,BBQ Potato Chips,['ore:foodBbqpotatochips'],Pam's HarvestCraft,10510
 harvestcraft:bbqpulledporkitem,8.0,1,8,1.2,BBQ Pulled Pork,['ore:foodBbqpulledpork'],Pam's HarvestCraft,10387
 harvestcraft:bbqsauceitem,6.0,6,1,1.2,BBQ Sauce,['ore:foodBbqsauce'],Pam's HarvestCraft,10621
-harvestcraft:beanburritoitem,9.0,1,7,1.2,Bean Burrito,['ore:foodBeanburrito'],Pam's HarvestCraft,10058
+harvestcraft:beanburritoitem,7.0,1,7,1.2,Bean Burrito,['ore:foodBeanburrito'],Pam's HarvestCraft,10058
 harvestcraft:beanitem,1.0,1,1,0.6,Beans,"['ore:cropBean', 'ore:listAllveggie']",Pam's HarvestCraft,9645
 harvestcraft:beansandriceitem,6.0,1,5,1.2,Beans and Rice,['ore:foodBeansandrice'],Pam's HarvestCraft,10056
 harvestcraft:beansontoastitem,10.0,1,10,1.2,Beans on Toast,['ore:foodBeansontoast'],Pam's HarvestCraft,10735
@@ -328,14 +327,14 @@ harvestcraft:braisedonionsitem,5.0,1,5,1.2,Braised Onions,['ore:foodBraisedonion
 harvestcraft:bratwurstitem,1.0,1,13,1.2,Bratwurst,['ore:foodBratwurst'],Pam's HarvestCraft,10777
 harvestcraft:breadedporkchopitem,4.0,1,5,1.2,Breaded Porkchop,['ore:foodBreadedporkchop'],Pam's HarvestCraft,9985
 harvestcraft:breadfruititem,1.0,1,1,0.6,Breadfruit,['ore:listAllgrain'],Pam's HarvestCraft,9846
-harvestcraft:breakfastburritoitem,12.0,1,10,1.2,Breakfast Burrito,['ore:foodBreakfastburrito'],Pam's HarvestCraft,10745
-harvestcraft:briochebunitem,10.0,3,3,1.2,Brioche Bun,['ore:foodBriochebun'],Pam's HarvestCraft,10599
+harvestcraft:breakfastburritoitem,10.0,1,10,1.2,Breakfast Burrito,['ore:foodBreakfastburrito'],Pam's HarvestCraft,10745
+harvestcraft:briochebunitem,8.0,3,3,1.2,Brioche Bun,['ore:foodBriochebun'],Pam's HarvestCraft,10599
 harvestcraft:broccoliitem,1.0,1,1,0.6,Broccoli,"['ore:cropBroccoli', 'ore:listAllgreenveggie', 'ore:listAllveggie']",Pam's HarvestCraft,9625
 harvestcraft:broccolimacitem,4.0,1,4,1.2,Broccoli Mac,['ore:foodBroccolimac'],Pam's HarvestCraft,10093
 harvestcraft:broccolindipitem,4.0,1,3,1.2,Broccoli n Dip,['ore:foodBroccolindip'],Pam's HarvestCraft,10094
 harvestcraft:brownieitem,7.0,1,8,1.2,Brownie,['ore:foodBrownie'],Pam's HarvestCraft,10130
 harvestcraft:brusselsproutitem,1.0,1,1,0.6,Brussel Sprout,"['ore:cropBrusselsprout', 'ore:listAllgreenveggie', 'ore:listAllveggie']",Pam's HarvestCraft,9637
-harvestcraft:bubbleteaitem,7.0,1,4,1.2,Bubble Tea,['ore:foodBubbletea'],Pam's HarvestCraft,10558
+harvestcraft:bubbleteaitem,5.0,1,4,1.2,Bubble Tea,['ore:foodBubbletea'],Pam's HarvestCraft,10558
 harvestcraft:bulgogiitem,8.0,1,7,1.2,Bulgogi,['ore:foodBulgogi'],Pam's HarvestCraft,10546
 harvestcraft:buttercookieitem,9.0,1,6,1.2,Butter Cookie,"['ore:foodButtercookie', 'ore:listAllcookie']",Pam's HarvestCraft,10507
 harvestcraft:butteredpotatoitem,6.0,1,4,1.2,Buttered Potato,['ore:foodButteredpotato'],Pam's HarvestCraft,9974
@@ -354,8 +353,8 @@ harvestcraft:candiedsweetpotatoesitem,4.0,1,3,1.2,Candied Sweet Potatoes,['ore:f
 harvestcraft:candiedwalnutsitem,5.0,1,4,1.2,Candied Walnuts,['ore:foodCandiedwalnuts'],Pam's HarvestCraft,10129
 harvestcraft:candleberryitem,1.0,1,1,0.6,Candleberry,"['ore:cropCandle', 'ore:cropCandleberry']",Pam's HarvestCraft,9565
 harvestcraft:cantaloupeitem,1.0,1,1,0.6,Cantaloupe,"['ore:cropCantaloupe', 'ore:listAllfruit']",Pam's HarvestCraft,9585
-harvestcraft:cantonesegreensitem,9.0,1,2,1.2,Cantonese Greens,['ore:foodCantonesegreens'],Pam's HarvestCraft,10586
-harvestcraft:cantonesenoodlesitem,15.0,1,10,1.2,Cantonese Noodles,['ore:foodCantonesenoodles'],Pam's HarvestCraft,10749
+harvestcraft:cantonesegreensitem,7.0,1,2,1.2,Cantonese Greens,['ore:foodCantonesegreens'],Pam's HarvestCraft,10586
+harvestcraft:cantonesenoodlesitem,13.0,1,10,1.2,Cantonese Noodles,['ore:foodCantonesenoodles'],Pam's HarvestCraft,10749
 harvestcraft:caramelappleitem,4.0,1,3,1.2,Caramel Apple,['ore:foodCaramelapple'],Pam's HarvestCraft,9929
 harvestcraft:caramelcupcakeitem,7.0,1,8,1.2,Caramel Cupcake,['ore:foodCaramelcupcake'],Pam's HarvestCraft,10633
 harvestcraft:caramelicecreamitem,7.0,1,4,1.2,Caramel Ice Cream,['ore:foodCaramelicecream'],Pam's HarvestCraft,10267
@@ -424,9 +423,9 @@ harvestcraft:chilidonutitem,5.0,1,6,1.2,Chili Donut,['ore:foodChilidonut'],Pam's
 harvestcraft:chiliitem,5.0,1,4,1.2,Chili,['ore:foodChili'],Pam's HarvestCraft,10057
 harvestcraft:chilipepperitem,1.0,1,1,0.6,Chili Pepper,"['ore:cropChilipepper', 'ore:listAllpepper']",Pam's HarvestCraft,9651
 harvestcraft:chilipoppersitem,4.0,1,6,1.2,Chili Poppers,['ore:foodChilipoppers'],Pam's HarvestCraft,10064
-harvestcraft:chimichangaitem,21.0,1,17,1.2,Chimichanga,['ore:foodChimichanga'],Pam's HarvestCraft,10798
+harvestcraft:chimichangaitem,19.0,1,17,1.2,Chimichanga,['ore:foodChimichanga'],Pam's HarvestCraft,10798
 harvestcraft:chipsanddipitem,8.0,1,5,1.2,Chips and Dip,['ore:foodChipsanddip'],Pam's HarvestCraft,10514
-harvestcraft:chipsandsalsaitem,15.0,1,10,1.2,Chips and Salsa,['ore:foodChipsandsalsa'],Pam's HarvestCraft,10746
+harvestcraft:chipsandsalsaitem,13.0,1,10,1.2,Chips and Salsa,['ore:foodChipsandsalsa'],Pam's HarvestCraft,10746
 harvestcraft:chocolatebaconitem,4.0,1,3,1.2,Chocolate Bacon,['ore:foodChocolatebacon'],Pam's HarvestCraft,10344
 harvestcraft:chocolatebaritem,4.0,4,1,1.2,Chocolate Bar,['ore:foodChocolatebar'],Pam's HarvestCraft,10004
 harvestcraft:chocolatecaramelfudgeitem,4.0,1,2,1.2,Chocolate Caramel Fudge,['ore:foodChocolatecaramelfudge'],Pam's HarvestCraft,10326
@@ -492,12 +491,12 @@ harvestcraft:cornishpastyitem,7.0,1,8,1.2,Cornish Pasty,['ore:foodCornishpasty']
 harvestcraft:cornitem,1.0,1,1,0.6,Corn,"['ore:cropCorn', 'ore:listAllveggie']",Pam's HarvestCraft,9581
 harvestcraft:cornonthecobitem,2.0,1,3,1.2,Corn on the Cob,['ore:foodCornonthecob'],Pam's HarvestCraft,10024
 harvestcraft:cottagepieitem,7.0,1,8,1.2,Cottage Pie,['ore:foodCottagepie'],Pam's HarvestCraft,10398
-harvestcraft:cottoncandyitem,8.0,1,5,1.2,Cotton Candy,['ore:foodCottoncandy'],Pam's HarvestCraft,10477
+harvestcraft:cottoncandyitem,6.0,1,5,1.2,Cotton Candy,['ore:foodCottoncandy'],Pam's HarvestCraft,10477
 harvestcraft:cottonitem,1.0,1,1,0.6,Cotton,['ore:cropCotton'],Pam's HarvestCraft,9661
 harvestcraft:crabcookeditem,2.0,1,2,1.2,Cooked Crab,"['ore:foodCrabcooked', 'ore:listAllfishcooked', 'ore:listAllmeatcooked']",Pam's HarvestCraft,10351
 harvestcraft:crabkimbapitem,7.0,1,6,1.2,Crab Kimbap,['ore:foodCrabkimbap'],Pam's HarvestCraft,10550
 harvestcraft:crabrawitem,1.0,1,1,0.6,Raw Crab,"['ore:fish', 'ore:foodCrabraw', 'ore:listAllfishraw', 'ore:listAllmeatraw', 'ore:mulchNitrogen']",Pam's HarvestCraft,10841
-harvestcraft:crackeritem,7.0,1,4,1.2,Cracker,['ore:foodCracker'],Pam's HarvestCraft,10445
+harvestcraft:crackeritem,5.0,1,4,1.2,Cracker,['ore:foodCracker'],Pam's HarvestCraft,10445
 harvestcraft:crackersandcheeseitem,6.0,1,8,1.2,Crackers and Cheese,['ore:foodCrackersandcheese'],Pam's HarvestCraft,10501
 harvestcraft:crackersitem,4.0,1,6,1.2,Crackers,['ore:foodCrackers'],Pam's HarvestCraft,10478
 harvestcraft:cracklinsitem,6.0,1,5,1.2,Cracklins,['ore:foodCracklins'],Pam's HarvestCraft,10583
@@ -519,7 +518,7 @@ harvestcraft:creamedcornitem,4.0,1,3,1.2,Creamed Corn,['ore:foodCreamedcorn'],Pa
 harvestcraft:creamofavocadosoupitem,7.0,1,6,1.2,Cream of Avocado Soup,['ore:foodCreamofavocadosoup'],Pam's HarvestCraft,10136
 harvestcraft:creepercookieitem,6.0,1,5,1.2,Creeper Cookie,"['ore:foodCreepercookie', 'ore:listAllcookie']",Pam's HarvestCraft,10468
 harvestcraft:creeperwingsitem,5.0,1,6,1.2,Creeper Wings,['ore:foodCreeperwings'],Pam's HarvestCraft,10479
-harvestcraft:crispyricepuffbarsitem,8.0,1,5,1.2,Crispy Rice Puff Bar,['ore:foodCrispyricepuffbars'],Pam's HarvestCraft,10533
+harvestcraft:crispyricepuffbarsitem,6.0,1,5,1.2,Crispy Rice Puff Bar,['ore:foodCrispyricepuffbars'],Pam's HarvestCraft,10533
 harvestcraft:crispyricepuffcerealitem,3.0,1,2,1.2,Crispy Rice Puff Cereal,['ore:foodCrispyricepuffcereal'],Pam's HarvestCraft,10532
 harvestcraft:croissantitem,4.0,1,6,1.2,Croissant,['ore:foodCroissant'],Pam's HarvestCraft,10399
 harvestcraft:cucumberitem,1.0,1,1,0.6,Cucumber,"['ore:cropCucumber', 'ore:listAllgreenveggie', 'ore:listAllveggie']",Pam's HarvestCraft,9587
@@ -531,14 +530,14 @@ harvestcraft:curryleafitem,1.0,1,1,0.6,Curry Leaf,['ore:cropCurryleaf'],Pam's Ha
 harvestcraft:custarditem,5.0,1,5,1.2,Custard,['ore:foodCustard'],Pam's HarvestCraft,10221
 harvestcraft:damperitem,5.0,1,5,1.2,Damper,['ore:foodDamper'],Pam's HarvestCraft,10340
 harvestcraft:dandelionsaladitem,3.0,1,3,1.2,Marigold Salad,['ore:foodDandelionsalad'],Pam's HarvestCraft,10663
-harvestcraft:dandelionteaitem,6.0,1,3,1.2,Marigold Tea,['ore:foodDandeliontea'],Pam's HarvestCraft,10682
-harvestcraft:dangoitem,20.0,1,10,1.2,Dango,['ore:foodDango'],Pam's HarvestCraft,10750
+harvestcraft:dandelionteaitem,4.0,1,3,1.2,Marigold Tea,['ore:foodDandeliontea'],Pam's HarvestCraft,10682
+harvestcraft:dangoitem,14.0,1,10,1.2,Dango,['ore:foodDango'],Pam's HarvestCraft,10750
 harvestcraft:dateitem,1.0,1,1,0.6,Date,"['ore:cropDate', 'ore:listAllfruit']",Pam's HarvestCraft,9728
 harvestcraft:datenutbreaditem,4.0,1,5,1.2,Date Nut Bread,['ore:foodDatenutbread'],Pam's HarvestCraft,10314
 harvestcraft:delightedmealitem,19.0,1,15,1.2,Delighted Meal,['ore:foodDelightedmeal'],Pam's HarvestCraft,10791
 harvestcraft:deluxecheeseburgeritem,8.0,1,10,1.2,Deluxe Cheeseburger,['ore:foodDeluxecheeseburger'],Pam's HarvestCraft,10734
 harvestcraft:deluxechickencurryitem,21.0,1,19,1.2,Deluxe Chicken Curry,['ore:foodDeluxechickencurry'],Pam's HarvestCraft,10805
-harvestcraft:deluxenachoesitem,21.0,1,16,1.2,Deluxe Nachos,['ore:foodDeluxenachoes'],Pam's HarvestCraft,10794
+harvestcraft:deluxenachoesitem,19.0,1,16,1.2,Deluxe Nachos,['ore:foodDeluxenachoes'],Pam's HarvestCraft,10794
 harvestcraft:deviledeggitem,7.0,1,7,1.2,Deviled Egg,['ore:foodDeviledegg'],Pam's HarvestCraft,10519
 harvestcraft:dhalitem,8.0,1,7,1.2,Dhal,['ore:foodDhal'],Pam's HarvestCraft,10480
 harvestcraft:dimsumitem,6.0,1,8,1.2,Dim Sum,['ore:foodDimsum'],Pam's HarvestCraft,10401
@@ -559,9 +558,9 @@ harvestcraft:eggplantparmitem,5.0,1,5,1.2,Eggplant Parm,['ore:foodEggplantparm']
 harvestcraft:eggrollitem,5.0,1,6,1.2,Egg Roll,['ore:foodEggroll'],Pam's HarvestCraft,10588
 harvestcraft:eggsaladitem,4.0,1,4,1.2,Egg Salad,['ore:foodEggsalad'],Pam's HarvestCraft,9998
 harvestcraft:eggsbenedictitem,9.0,1,12,1.2,Eggs Benedict,['ore:foodEggsbenedict'],Pam's HarvestCraft,10772
-harvestcraft:eggtartitem,8.0,1,8,1.2,Egg Tart,['ore:foodEggtart'],Pam's HarvestCraft,10589
+harvestcraft:eggtartitem,6.0,1,8,1.2,Egg Tart,['ore:foodEggtart'],Pam's HarvestCraft,10589
 harvestcraft:elderberryitem,1.0,1,1,0.6,Elderberry,"['ore:cropElderberry', 'ore:listAllberry', 'ore:listAllfruit']",Pam's HarvestCraft,9695
-harvestcraft:enchiladaitem,13.0,1,11,1.2,Enchilada,['ore:foodEnchilada'],Pam's HarvestCraft,10761
+harvestcraft:enchiladaitem,11.0,1,11,1.2,Enchilada,['ore:foodEnchilada'],Pam's HarvestCraft,10761
 harvestcraft:energydrinkitem,4.0,1,5,1.2,Energy Drink,['ore:foodEnergydrink'],Pam's HarvestCraft,10366
 harvestcraft:epicbaconitem,1.0,1,9,1.2,Epic Bacon,['ore:foodEpicbacon'],Pam's HarvestCraft,10329
 harvestcraft:epicbltitem,1.0,1,13,1.2,Epic BLT,['ore:foodEpicblt'],Pam's HarvestCraft,10779
@@ -585,7 +584,7 @@ harvestcraft:fishdinneritem,5.0,1,7,1.2,Fish Dinner,['ore:foodFishdinner'],Pam's
 harvestcraft:fishlettucewrapitem,4.0,1,3,1.2,Fish Lettuce Wrap,['ore:foodFishlettucewrap'],Pam's HarvestCraft,10017
 harvestcraft:fishsandwichitem,4.0,1,6,1.2,Fish Sandwich,['ore:foodFishsandwich'],Pam's HarvestCraft,9991
 harvestcraft:fishsticksitem,3.0,1,5,1.2,Fish Sticks,['ore:foodFishsticks'],Pam's HarvestCraft,9992
-harvestcraft:fishtacoitem,10.0,1,8,1.2,Fish Taco,['ore:foodFishtaco'],Pam's HarvestCraft,10030
+harvestcraft:fishtacoitem,8.0,1,8,1.2,Fish Taco,['ore:foodFishtaco'],Pam's HarvestCraft,10030
 harvestcraft:flaxitem,1.0,1,1,0.6,Flax,"['ore:cropFlax', 'ore:listAllfiber']",Pam's HarvestCraft,9697
 harvestcraft:footlongitem,7.0,1,8,1.2,Footlong,['ore:foodFootlong'],Pam's HarvestCraft,10181
 harvestcraft:fortunecookieitem,6.0,1,5,1.2,Fortune Cookie,"['ore:foodFortunecookie', 'ore:listAllcookie']",Pam's HarvestCraft,10518
@@ -633,13 +632,13 @@ harvestcraft:gooseberrymilkshakeitem,4.0,1,3,1.2,Gooseberry Milkshake,['ore:food
 harvestcraft:gooseberrypieitem,4.0,1,5,1.2,Gooseberry Pie,['ore:foodGooseberrypie'],Pam's HarvestCraft,10406
 harvestcraft:gooseberrysmoothieitem,4.0,1,3,1.2,Gooseberry Smoothie,"['ore:foodGooseberrysmoothie', 'ore:listAllsmoothie']",Pam's HarvestCraft,10407
 harvestcraft:gooseberryyogurtitem,3.0,1,2,1.2,Gooseberry Yogurt,"['ore:foodGooseberryyogurt', 'ore:listAllyogurt']",Pam's HarvestCraft,10408
-harvestcraft:gourmetbeefburgeritem,23.0,1,19,1.2,Gourmet Beef Burger,['ore:foodGourmetbeefburger'],Pam's HarvestCraft,10807
+harvestcraft:gourmetbeefburgeritem,21.0,1,19,1.2,Gourmet Beef Burger,['ore:foodGourmetbeefburger'],Pam's HarvestCraft,10807
 harvestcraft:gourmetbeefpattyitem,6.0,1,6,1.2,Gourmet Beef Patty,['ore:foodGourmetbeefpatty'],Pam's HarvestCraft,10602
-harvestcraft:gourmetmuttonburgeritem,23.0,1,16,1.2,Gourmet Mutton Burger,['ore:foodGourmetmuttonburger'],Pam's HarvestCraft,10795
+harvestcraft:gourmetmuttonburgeritem,21.0,1,16,1.2,Gourmet Mutton Burger,['ore:foodGourmetmuttonburger'],Pam's HarvestCraft,10795
 harvestcraft:gourmetmuttonpattyitem,6.0,1,6,1.2,Gourmet Mutton Patty,['ore:foodGourmetmuttonpatty'],Pam's HarvestCraft,10603
-harvestcraft:gourmetporkburgeritem,23.0,1,14,1.2,Gourmet Pork Burger,['ore:foodGourmetporkburger'],Pam's HarvestCraft,10789
+harvestcraft:gourmetporkburgeritem,21.0,1,14,1.2,Gourmet Pork Burger,['ore:foodGourmetporkburger'],Pam's HarvestCraft,10789
 harvestcraft:gourmetporkpattyitem,6.0,1,6,1.2,Gourmet Pork Patty,['ore:foodGourmetporkpatty'],Pam's HarvestCraft,10604
-harvestcraft:gourmetvenisonburgeritem,28.0,1,20,1.2,Gourmet Venison Burger,['ore:foodGourmetvenisonburger'],Pam's HarvestCraft,10812
+harvestcraft:gourmetvenisonburgeritem,26.0,1,20,1.2,Gourmet Venison Burger,['ore:foodGourmetvenisonburger'],Pam's HarvestCraft,10812
 harvestcraft:gourmetvenisonpattyitem,6.0,1,6,1.2,Gourmet Venison Patty,['ore:foodGourmetvenisonpatty'],Pam's HarvestCraft,10605
 harvestcraft:grapefruititem,1.0,1,1,0.6,Grapefruit,"['ore:cropGrapefruit', 'ore:listAllcitrus', 'ore:listAllfruit']",Pam's HarvestCraft,9768
 harvestcraft:grapefruitjellyitem,3.0,1,2,1.2,Grapefruit Jelly,['ore:foodGrapefruitjelly'],Pam's HarvestCraft,10300
@@ -664,17 +663,17 @@ harvestcraft:greenheartfishitem,1.0,1,1,0.6,Green Heart Fish,"['ore:fish', 'ore:
 harvestcraft:greenteaitem,3.0,1,2,1.2,Green Tea,['ore:foodGreentea'],Pam's HarvestCraft,10590
 harvestcraft:grilledasparagusitem,2.0,1,2,1.2,Grilled Asparagus,['ore:foodGrilledasparagus'],Pam's HarvestCraft,9920
 harvestcraft:grilledcheeseitem,6.0,1,8,1.2,Grilled Cheese,['ore:foodGrilledcheese'],Pam's HarvestCraft,9926
-harvestcraft:grilledcheesevegemitetoastitem,14.0,1,9,1.2,Grilled Cheese Vegemite Toast,['ore:foodGrilledcheesevegemitetoast'],Pam's HarvestCraft,10530
+harvestcraft:grilledcheesevegemitetoastitem,12.0,1,9,1.2,Grilled Cheese Vegemite Toast,['ore:foodGrilledcheesevegemitetoast'],Pam's HarvestCraft,10530
 harvestcraft:grilledeggplantitem,2.0,1,2,1.2,Grilled Eggplant,['ore:foodGrilledeggplant'],Pam's HarvestCraft,9922
 harvestcraft:grilledmushroomitem,2.0,1,2,1.2,Grilled Mushroom,['ore:foodGrilledmushroom'],Pam's HarvestCraft,9980
 harvestcraft:grilledskewersitem,5.0,1,4,1.2,Grilled Skewer,['ore:foodGrilledskewers'],Pam's HarvestCraft,10061
-harvestcraft:gritsitem,7.0,1,4,1.2,Grits,['ore:foodGrits'],Pam's HarvestCraft,10506
-harvestcraft:groiledcheesesandwichitem,11.0,1,10,1.2,Groiled Cheese Sandwich,['ore:foodGroiledcheesesandwich'],Pam's HarvestCraft,10752
+harvestcraft:gritsitem,5.0,1,4,1.2,Grits,['ore:foodGrits'],Pam's HarvestCraft,10506
+harvestcraft:groiledcheesesandwichitem,9.0,1,10,1.2,Groiled Cheese Sandwich,['ore:foodGroiledcheesesandwich'],Pam's HarvestCraft,10752
 harvestcraft:grouperrawitem,1.0,1,1,0.6,Raw Grouper,"['ore:fish', 'ore:foodGrouperraw', 'ore:listAllfishfresh', 'ore:listAllfishraw', 'ore:listAllmeatraw', 'ore:mulchNitrogen']",Pam's HarvestCraft,10845
 harvestcraft:guacamoleitem,6.0,1,5,1.2,Guacamole,['ore:foodGuacamole'],Pam's HarvestCraft,10135
 harvestcraft:guavaitem,1.0,1,1,0.6,Guava,['ore:listAllfruit'],Pam's HarvestCraft,9843
 harvestcraft:guisoitem,8.0,1,9,1.2,Guiso,['ore:foodGuiso'],Pam's HarvestCraft,10606
-harvestcraft:gumboitem,14.0,1,13,1.2,Gumbo,['ore:foodGumbo'],Pam's HarvestCraft,10784
+harvestcraft:gumboitem,12.0,1,13,1.2,Gumbo,['ore:foodGumbo'],Pam's HarvestCraft,10784
 harvestcraft:gummybearsitem,3.0,1,3,1.2,Gummy Bears,['ore:foodGummybears'],Pam's HarvestCraft,10213
 harvestcraft:gyudonitem,6.0,1,6,1.2,Gyudon,['ore:foodGyudon'],Pam's HarvestCraft,10668
 harvestcraft:haggisitem,8.0,1,6,1.2,Haggis,['ore:foodHaggis'],Pam's HarvestCraft,10552
@@ -699,7 +698,7 @@ harvestcraft:honeysandwichitem,6.0,1,6,1.2,Honey Sandwich,['ore:foodHoneysandwic
 harvestcraft:honeysoyribsitem,7.0,1,9,1.2,Honey Soy Ribs,['ore:foodHoneysoyribs'],Pam's HarvestCraft,10473
 harvestcraft:hotandsoursoupitem,9.0,1,10,1.2,Hot and Sour Soup,['ore:foodHotandsoursoup'],Pam's HarvestCraft,10740
 harvestcraft:hotchocolateitem,3.0,1,2,1.2,Hot Chocolate,['ore:foodHotchocolate'],Pam's HarvestCraft,10005
-harvestcraft:hotcocoaitem,9.0,1,5,1.2,Hot Cocoa,['ore:foodHotcocoa'],Pam's HarvestCraft,10690
+harvestcraft:hotcocoaitem,7.0,1,5,1.2,Hot Cocoa,['ore:foodHotcocoa'],Pam's HarvestCraft,10690
 harvestcraft:hotdishcasseroleitem,11.0,1,9,1.2,Hot Dish Casserole,['ore:foodHotdishcasserole'],Pam's HarvestCraft,10579
 harvestcraft:hotdogitem,4.0,1,5,1.2,Hotdog,['ore:foodHotdog'],Pam's HarvestCraft,9986
 harvestcraft:hotwingsitem,4.0,1,3,1.2,Hot Wings,['ore:foodHotwings'],Pam's HarvestCraft,10063
@@ -714,7 +713,7 @@ harvestcraft:jackfruititem,1.0,1,1,0.6,Jackfruit,['ore:listAllveggie'],Pam's Har
 harvestcraft:jaffaitem,6.0,1,6,1.2,Jaffa,['ore:foodJaffa'],Pam's HarvestCraft,10179
 harvestcraft:jambalayaitem,13.0,1,13,1.2,Jambalaya,['ore:foodJambalaya'],Pam's HarvestCraft,10785
 harvestcraft:jamrollitem,6.0,1,4,1.2,Jam Roll,['ore:foodJamroll'],Pam's HarvestCraft,10443
-harvestcraft:jelliedeelitem,8.0,1,5,1.2,Jellied Eel,['ore:foodJelliedeel'],Pam's HarvestCraft,10607
+harvestcraft:jelliedeelitem,6.0,1,5,1.2,Jellied Eel,['ore:foodJelliedeel'],Pam's HarvestCraft,10607
 harvestcraft:jellybeansitem,3.0,1,3,1.2,Jellybeans,['ore:foodJellybeans'],Pam's HarvestCraft,10176
 harvestcraft:jellydonutitem,4.0,1,6,1.2,Jelly Donut,['ore:foodJellydonut'],Pam's HarvestCraft,10170
 harvestcraft:jellyfishrawitem,1.0,1,1,0.6,Raw Jellyfish,['ore:foodJellyfishraw'],Pam's HarvestCraft,10847
@@ -768,7 +767,7 @@ harvestcraft:limeyogurtitem,3.0,1,2,1.2,Lime Yogurt,"['ore:foodLimeyogurt', 'ore
 harvestcraft:liverandonionsitem,4.0,1,4,1.2,Liver and Onions,['ore:foodLiverandonions'],Pam's HarvestCraft,10517
 harvestcraft:loadedbakedpotatoitem,9.0,1,8,1.2,Loaded Baked Potato,['ore:foodLoadedbakedpotato'],Pam's HarvestCraft,9975
 harvestcraft:lycheeitem,1.0,1,1,0.6,Lychee,['ore:listAllfruit'],Pam's HarvestCraft,9837
-harvestcraft:lycheeteaitem,6.0,1,3,1.2,Lychee Tea,['ore:foodLycheetea'],Pam's HarvestCraft,10657
+harvestcraft:lycheeteaitem,4.0,1,3,1.2,Lychee Tea,['ore:foodLycheetea'],Pam's HarvestCraft,10657
 harvestcraft:mangochutneyitem,5.0,1,4,1.2,Mango Chutney,['ore:foodMangochutney'],Pam's HarvestCraft,10449
 harvestcraft:mangoitem,1.0,1,1,0.6,Mango,"['ore:cropMango', 'ore:listAllfruit']",Pam's HarvestCraft,9825
 harvestcraft:mangojellyitem,3.0,1,2,1.2,Mango Jelly,['ore:foodMangojelly'],Pam's HarvestCraft,10240
@@ -784,8 +783,8 @@ harvestcraft:maplesyrupitem,1.0,1,1,0.6,Sweet Syrup,['ore:cropMaplesyrup'],Pam's
 harvestcraft:maplesyruppancakesitem,4.0,1,7,1.2,Maple Syrup Pancakes,['ore:foodMaplesyruppancakes'],Pam's HarvestCraft,10315
 harvestcraft:maplesyrupwafflesitem,5.0,1,7,1.2,Maple Syrup Waffles,['ore:foodMaplesyrupwaffles'],Pam's HarvestCraft,10316
 harvestcraft:marinatedcucumbersitem,5.0,1,5,1.2,Marinated Cucumbers,['ore:foodMarinatedcucumbers'],Pam's HarvestCraft,10048
-harvestcraft:marshmellowchicksitem,9.0,1,6,1.2,Marshmellow Chicks,['ore:foodMarshmellowchicks'],Pam's HarvestCraft,10693
-harvestcraft:marshmellowsitem,6.0,1,4,1.2,Marshmallows,['ore:foodMarshmellows'],Pam's HarvestCraft,10166
+harvestcraft:marshmellowchicksitem,7.0,1,6,1.2,Marshmellow Chicks,['ore:foodMarshmellowchicks'],Pam's HarvestCraft,10693
+harvestcraft:marshmellowsitem,4.0,1,4,1.2,Marshmallows,['ore:foodMarshmellows'],Pam's HarvestCraft,10166
 harvestcraft:marzipanitem,3.0,1,3,1.2,Marzipan,['ore:foodMarzipan'],Pam's HarvestCraft,10450
 harvestcraft:mashedpotatoeschickenbiscuititem,15.0,1,12,1.2,Mashed Potatoes and Chicken Biscuit,['ore:foodMashedpotatoeschickenbiscuit'],Pam's HarvestCraft,10775
 harvestcraft:mashedpotatoesitem,8.0,1,5,1.2,Mashed Potatoes,['ore:foodMashedpotatoes'],Pam's HarvestCraft,9976
@@ -797,7 +796,7 @@ harvestcraft:meatloafsandwichitem,9.0,1,12,1.2,Meatloaf Sandwich,['ore:foodMeatl
 harvestcraft:meatpieitem,8.0,1,10,1.2,Meat Pie,['ore:foodMeatpie'],Pam's HarvestCraft,10736
 harvestcraft:meatystewitem,5.0,1,5,1.2,Meaty Stew,['ore:foodMeatystew'],Pam's HarvestCraft,10215
 harvestcraft:meatystirfryitem,6.0,1,6,1.2,Meaty Stirfry,['ore:foodMeatystirfry'],Pam's HarvestCraft,10563
-harvestcraft:meesuaitem,16.0,1,8,1.2,Mee Sua,['ore:foodMeesua'],Pam's HarvestCraft,10591
+harvestcraft:meesuaitem,14.0,1,8,1.2,Mee Sua,['ore:foodMeesua'],Pam's HarvestCraft,10591
 harvestcraft:melonjuiceitem,3.0,1,2,1.2,Melon Juice,"['ore:foodMelonjuice', 'ore:listAlljuice']",Pam's HarvestCraft,9946
 harvestcraft:melonsmoothieitem,4.0,1,3,1.2,Melon Smoothie,"['ore:foodMelonsmoothie', 'ore:listAllsmoothie']",Pam's HarvestCraft,9971
 harvestcraft:melonyogurtitem,3.0,1,2,1.2,Melon Yogurt,"['ore:foodMelonyogurt', 'ore:listAllyogurt']",Pam's HarvestCraft,10197
@@ -813,21 +812,21 @@ harvestcraft:minerstewitem,9.0,1,25,1.2,Miner's Stew,['ore:foodMinerstew'],Pam's
 harvestcraft:mintchocolatechipicecreamitem,7.0,1,5,1.2,Mint Chocolate Chip Ice Cream,['ore:foodMintchocolatechipicecream'],Pam's HarvestCraft,10268
 harvestcraft:mintcupcakeitem,6.0,1,8,1.2,Mint Cupcake,['ore:foodMintcupcake'],Pam's HarvestCraft,10630
 harvestcraft:misopasteitem,5.0,4,1,1.2,Miso Paste,['ore:foodMisopaste'],Pam's HarvestCraft,10681
-harvestcraft:misosoupitem,6.0,1,3,1.2,Miso Soup,['ore:foodMisosoup'],Pam's HarvestCraft,10528
+harvestcraft:misosoupitem,4.0,1,3,1.2,Miso Soup,['ore:foodMisosoup'],Pam's HarvestCraft,10528
 harvestcraft:mixedsaladitem,4.0,1,6,1.2,Mixed Salad,['ore:foodMixedsalad'],Pam's HarvestCraft,10216
 harvestcraft:mobsoupitem,24.0,1,11,1.2,Mob Soup,['ore:foodMobsoup'],Pam's HarvestCraft,10768
 harvestcraft:mochaicecreamitem,7.0,1,5,1.2,Mocha Ice Cream,['ore:foodMochaicecream'],Pam's HarvestCraft,10088
 harvestcraft:mochicakeitem,7.0,1,7,1.2,Mochi Cake,['ore:foodMochicake'],Pam's HarvestCraft,10671
-harvestcraft:mochidessertitem,11.0,1,6,1.2,Mochi Dessert,['ore:foodMochidessert'],Pam's HarvestCraft,10672
-harvestcraft:mochiitem,6.0,1,3,1.2,Mochi,['ore:foodMochi'],Pam's HarvestCraft,10411
+harvestcraft:mochidessertitem,9.0,1,6,1.2,Mochi Dessert,['ore:foodMochidessert'],Pam's HarvestCraft,10672
+harvestcraft:mochiitem,4.0,1,3,1.2,Mochi,['ore:foodMochi'],Pam's HarvestCraft,10411
 harvestcraft:monsterfrieddumplingsitem,5.0,1,6,1.2,Monster Fried Dumplings,['ore:foodMonsterfrieddumplings'],Pam's HarvestCraft,10531
 harvestcraft:montecristosandwichitem,10.0,1,11,1.2,Monte Cristo Sandwich,['ore:foodMontecristosandwich'],Pam's HarvestCraft,10767
 harvestcraft:mozzerellasticksitem,4.0,1,6,1.2,Mozzerella Sticks,['ore:foodMozzerellasticks'],Pam's HarvestCraft,10520
 harvestcraft:mudfishrawitem,1.0,1,1,0.6,Raw Mudfish,"['ore:fish', 'ore:foodMudfishraw', 'ore:listAllfishfresh', 'ore:listAllfishraw', 'ore:listAllmeatraw', 'ore:mulchNitrogen']",Pam's HarvestCraft,10848
 harvestcraft:mulberryitem,1.0,1,1,0.6,Mulberry,"['ore:cropMulberry', 'ore:listAllberry', 'ore:listAllfruit']",Pam's HarvestCraft,9715
 harvestcraft:museliitem,7.0,1,6,1.2,Muesli,['ore:foodMuseli'],Pam's HarvestCraft,10412
-harvestcraft:mushroomketchupitem,7.0,5,1,1.2,Mushroom Ketchup,['ore:foodMushroomketchup'],Pam's HarvestCraft,10656
-harvestcraft:mushroomketchupomeletitem,9.0,1,3,1.2,Mushroom Ketchup Omelet,['ore:foodMushroomketchupomelet'],Pam's HarvestCraft,10655
+harvestcraft:mushroomketchupitem,5.0,5,1,1.2,Mushroom Ketchup,['ore:foodMushroomketchup'],Pam's HarvestCraft,10656
+harvestcraft:mushroomketchupomeletitem,7.0,1,3,1.2,Mushroom Ketchup Omelet,['ore:foodMushroomketchupomelet'],Pam's HarvestCraft,10655
 harvestcraft:mushroomlasagnaitem,7.0,1,7,1.2,Mushroom Lasagna,['ore:foodMushroomlasagna'],Pam's HarvestCraft,10489
 harvestcraft:mushroomrisottoitem,5.0,1,5,1.2,Mushroom Risotto,['ore:foodMushroomrisotto'],Pam's HarvestCraft,10051
 harvestcraft:mushroomsteakitem,5.0,1,6,1.2,Mushroom Steak,['ore:foodMushroomsteak'],Pam's HarvestCraft,10578
@@ -836,7 +835,7 @@ harvestcraft:musselrawitem,1.0,1,1,0.6,Raw Mussel,['ore:foodMusselraw'],Pam's Ha
 harvestcraft:mustardseedsitem,1.0,1,1,0.6,Mustard Seeds,"['ore:cropMustard', 'ore:listAllspice']",Pam's HarvestCraft,9623
 harvestcraft:musubiitem,5.0,1,4,1.2,Musubi,['ore:foodMusubi'],Pam's HarvestCraft,10679
 harvestcraft:naanitem,4.0,1,5,1.2,Naan,['ore:foodNaan'],Pam's HarvestCraft,10413
-harvestcraft:nachoesitem,7.0,1,5,1.2,Nachos,['ore:foodNachoes'],Pam's HarvestCraft,10028
+harvestcraft:nachoesitem,5.0,1,5,1.2,Nachos,['ore:foodNachoes'],Pam's HarvestCraft,10028
 harvestcraft:neapolitanicecreamitem,18.0,3,4,1.2,Neapolitan Ice Cream,['ore:foodNeapolitanicecream'],Pam's HarvestCraft,10392
 harvestcraft:netherstartoastitem,6.0,1,16,1.2,Nether Star on Toast,['ore:foodNetherstartoast'],Pam's HarvestCraft,10796
 harvestcraft:netherwingsitem,5.0,1,9,1.2,Nether Wings,['ore:foodNetherwings'],Pam's HarvestCraft,10491
@@ -869,7 +868,7 @@ harvestcraft:orangeyogurtitem,3.0,1,2,1.2,Orange Yogurt,"['ore:foodOrangeyogurt'
 harvestcraft:ovenroastedcaulifloweritem,5.0,1,4,1.2,Oven Roasted Cauliflower,['ore:foodOvenroastedcauliflower'],Pam's HarvestCraft,10279
 harvestcraft:oystercookeditem,2.0,1,2,1.2,Cooked Oyster,['ore:foodOystercooked'],Pam's HarvestCraft,10359
 harvestcraft:oysterrawitem,1.0,1,1,0.6,Raw Oyster,['ore:foodOysterraw'],Pam's HarvestCraft,10864
-harvestcraft:oystersauceitem,7.0,1,4,1.2,Oyster Sauce,['ore:foodOystersauce'],Pam's HarvestCraft,10592
+harvestcraft:oystersauceitem,5.0,1,4,1.2,Oyster Sauce,['ore:foodOystersauce'],Pam's HarvestCraft,10592
 harvestcraft:padthaiitem,8.0,1,8,1.2,Pad Thai,['ore:foodPadthai'],Pam's HarvestCraft,10609
 harvestcraft:pambitsboxitem,7.0,1,8,1.2,Pam Bits Box,['ore:foodPambitsbox'],Pam's HarvestCraft,10635
 harvestcraft:pancakesitem,3.0,1,4,1.2,Pancakes,['ore:foodPancakes'],Pam's HarvestCraft,10077
@@ -992,7 +991,7 @@ harvestcraft:raisincookiesitem,7.0,1,6,1.2,Raisin Cookies,"['ore:foodRaisincooki
 harvestcraft:raisinsitem,2.0,1,2,1.2,Raisins,['ore:foodRaisins'],Pam's HarvestCraft,9934
 harvestcraft:rambutanitem,1.0,1,1,0.6,Rambutan,['ore:listAllfruit'],Pam's HarvestCraft,9746
 harvestcraft:ramenitem,5.0,1,4,1.2,Ramen,['ore:foodRamen'],Pam's HarvestCraft,10527
-harvestcraft:randomtacoitem,15.0,1,12,1.2,Random Taco,['ore:'],Pam's HarvestCraft,10769
+harvestcraft:randomtacoitem,13.0,1,12,1.2,Random Taco,['ore:'],Pam's HarvestCraft,10769
 harvestcraft:raspberryicedteaitem,3.0,1,3,1.2,Raspberry Iced Tea,['ore:foodRaspberryicedtea'],Pam's HarvestCraft,10084
 harvestcraft:raspberryitem,1.0,1,1,0.6,Raspberry,"['ore:cropRaspberry', 'ore:listAllberry', 'ore:listAllfruit']",Pam's HarvestCraft,9567
 harvestcraft:raspberryjellyitem,3.0,1,2,1.2,Raspberry Jelly,['ore:foodRaspberryjelly'],Pam's HarvestCraft,10250
@@ -1020,7 +1019,7 @@ harvestcraft:ricecakeitem,2.0,1,2,1.2,Rice Cake,['ore:foodRicecake'],Pam's Harve
 harvestcraft:riceitem,1.0,1,1,0.6,Rice,['ore:cropRice'],Pam's HarvestCraft,9671
 harvestcraft:ricepuddingitem,6.0,1,5,1.2,Rice Pudding,['ore:foodRicepudding'],Pam's HarvestCraft,10678
 harvestcraft:ricesoupitem,4.0,1,3,1.2,Rice Soup,['ore:foodRicesoup'],Pam's HarvestCraft,10049
-harvestcraft:rivermudcakeitem,12.0,1,11,1.2,River Mud Cake,['ore:foodRivermudcake'],Pam's HarvestCraft,10758
+harvestcraft:rivermudcakeitem,10.0,1,11,1.2,River Mud Cake,['ore:foodRivermudcake'],Pam's HarvestCraft,10758
 harvestcraft:roastchickenitem,4.0,1,4,1.2,Roast Chicken,['ore:foodRoastchicken'],Pam's HarvestCraft,10384
 harvestcraft:roastedchestnutitem,2.0,1,2,1.2,Roasted Chestnut,['ore:foodRoastedchestnut'],Pam's HarvestCraft,10287
 harvestcraft:roastedpumpkinseedsitem,2.0,1,1,1.2,Roasted Pumpkin Seeds,['ore:foodRoastedpumpkinseeds'],Pam's HarvestCraft,9937
@@ -1040,7 +1039,7 @@ harvestcraft:saltedsunflowerseedsitem,2.0,1,2,1.2,Salted Sunflower Seeds,['ore:f
 harvestcraft:sardinerawitem,1.0,1,1,0.6,Raw Sardine,"['ore:fish', 'ore:foodSardineraw', 'ore:listAllfishfresh', 'ore:listAllfishraw', 'ore:listAllmeatraw', 'ore:mulchNitrogen']",Pam's HarvestCraft,10861
 harvestcraft:sardinesinhotsauceitem,3.0,1,3,1.2,Sardines in Hot Sauce,['ore:foodSardinesinhotsauce'],Pam's HarvestCraft,10495
 harvestcraft:saucedlambkebabitem,12.0,1,10,1.2,Sauced Lamb Kebab,['ore:foodSaucedlambkebab'],Pam's HarvestCraft,10748
-harvestcraft:sauerbratenitem,9.0,1,6,1.2,Sauerbraten,['ore:foodSauerbraten'],Pam's HarvestCraft,10614
+harvestcraft:sauerbratenitem,7.0,1,6,1.2,Sauerbraten,['ore:foodSauerbraten'],Pam's HarvestCraft,10614
 harvestcraft:sausagebeanmeltitem,8.0,1,10,1.2,Sausage Bean Melt,['ore:foodSausagebeanmelt'],Pam's HarvestCraft,10580
 harvestcraft:sausageinbreaditem,1.0,1,9,1.2,Sausage in Bread,['ore:foodSausageinbread'],Pam's HarvestCraft,10325
 harvestcraft:sausageitem,4.0,1,4,1.2,Sausage,['ore:foodSausage'],Pam's HarvestCraft,10419
@@ -1068,16 +1067,16 @@ harvestcraft:sisalitem,1.0,1,1,0.6,Sisal,"['ore:cropSisal', 'ore:listAllfiber']"
 harvestcraft:slawdogitem,8.0,1,11,1.2,Slaw Dog,['ore:foodSlawdog'],Pam's HarvestCraft,10757
 harvestcraft:slimegummiesitem,5.0,1,2,1.2,Slime Gummies,['ore:foodSlimegummies'],Pam's HarvestCraft,10637
 harvestcraft:slimepieitem,1.0,1,7,1.2,Slime Pie,['ore:foodSlimepie'],Pam's HarvestCraft,10615
-harvestcraft:smoresitem,12.0,1,9,1.2,Smores,['ore:foodSmores'],Pam's HarvestCraft,10525
+harvestcraft:smoresitem,10.0,1,9,1.2,Smores,['ore:foodSmores'],Pam's HarvestCraft,10525
 harvestcraft:snailcookeditem,2.0,1,2,1.2,Cooked Snail,['ore:foodSnailcooked'],Pam's HarvestCraft,10357
 harvestcraft:snailrawitem,1.0,1,1,0.6,Raw Snail,['ore:foodSnailraw'],Pam's HarvestCraft,10853
 harvestcraft:snapperrawitem,1.0,1,1,0.6,Raw Snapper,"['ore:fish', 'ore:foodSnapperraw', 'ore:listAllfishfresh', 'ore:listAllfishraw', 'ore:listAllmeatraw', 'ore:mulchNitrogen']",Pam's HarvestCraft,10854
 harvestcraft:snickersbaritem,4.0,1,3,1.2,Snickers Bar,['ore:foodSnickersbar'],Pam's HarvestCraft,10347
-harvestcraft:softpretzelandmustarditem,8.0,1,7,1.2,Soft Pretzel and Mustard,['ore:foodSoftpretzelandmustard'],Pam's HarvestCraft,10110
-harvestcraft:softpretzelitem,7.0,1,6,1.2,Soft Pretzel,['ore:foodSoftpretzel'],Pam's HarvestCraft,10175
+harvestcraft:softpretzelandmustarditem,6.0,1,7,1.2,Soft Pretzel and Mustard,['ore:foodSoftpretzelandmustard'],Pam's HarvestCraft,10110
+harvestcraft:softpretzelitem,5.0,1,6,1.2,Soft Pretzel,['ore:foodSoftpretzel'],Pam's HarvestCraft,10175
 harvestcraft:sourcreamandonionpotatochipsitem,8.0,1,5,1.2,Sour Cream and Onion Potato Chips,['ore:foodSourcreamandonionpotatochips'],Pam's HarvestCraft,10511
 harvestcraft:soursopitem,1.0,1,1,0.6,Soursop,['ore:listAllfruit'],Pam's HarvestCraft,9740
-harvestcraft:southernstylebreakfastitem,21.0,1,20,1.2,Southern Style Breakfast,['ore:foodSouthernstylebreakfast'],Pam's HarvestCraft,10808
+harvestcraft:southernstylebreakfastitem,19.0,1,20,1.2,Southern Style Breakfast,['ore:foodSouthernstylebreakfast'],Pam's HarvestCraft,10808
 harvestcraft:soybeanitem,1.0,1,1,0.6,Soybean,"['ore:cropSoybean', 'ore:listAllveggie']",Pam's HarvestCraft,9647
 harvestcraft:soymilkitem,1.0,1,1,1.2,Soy Milk,"['ore:foodSoymilk', 'ore:listAllmilk']",Pam's HarvestCraft,10283
 harvestcraft:spagettiandmeatballsitem,7.0,1,5,1.2,Spaghetti and Meatballs,['ore:foodSpagettiandmeatballs'],Pam's HarvestCraft,10011
@@ -1092,7 +1091,7 @@ harvestcraft:spidereyesoupitem,1.0,1,4,1.2,Spider Eye Soup,['ore:foodSpidereyeso
 harvestcraft:spinachitem,1.0,1,1,0.6,Spinach,"['ore:cropSpinach', 'ore:listAllgreenveggie', 'ore:listAllveggie']",Pam's HarvestCraft,9641
 harvestcraft:spinachpieitem,7.0,1,10,1.2,Spinach Pie,['ore:foodSpinachpie'],Pam's HarvestCraft,10738
 harvestcraft:splitpeasoupitem,7.0,1,6,1.2,Split Pea Soup,['ore:foodSplitpeasoup'],Pam's HarvestCraft,10100
-harvestcraft:springfieldcashewchickenitem,16.0,1,11,1.2,Springfield Cashew Chicken,['ore:foodSpringfieldcashewchicken'],Pam's HarvestCraft,10760
+harvestcraft:springfieldcashewchickenitem,14.0,1,11,1.2,Springfield Cashew Chicken,['ore:foodSpringfieldcashewchicken'],Pam's HarvestCraft,10760
 harvestcraft:springrollitem,8.0,1,7,1.2,Spring Rolls,['ore:foodSpringroll'],Pam's HarvestCraft,10562
 harvestcraft:springsaladitem,3.0,1,2,1.2,Spring Salad,['ore:foodSpringsalad'],Pam's HarvestCraft,10015
 harvestcraft:sprinklescupcakeitem,6.0,1,8,1.2,Sprinkles Cupcake,['ore:foodSprinklescupcake'],Pam's HarvestCraft,10632
@@ -1105,10 +1104,10 @@ harvestcraft:starfruitjuiceitem,3.0,1,2,1.2,Starfruit Juice,"['ore:foodStarfruit
 harvestcraft:starfruitsmoothieitem,4.0,1,3,1.2,Starfruit Smoothie,"['ore:foodStarfruitsmoothie', 'ore:listAllsmoothie']",Pam's HarvestCraft,10133
 harvestcraft:starfruityogurtitem,3.0,1,2,1.2,Starfruit Yogurt,"['ore:foodStarfruityogurt', 'ore:listAllyogurt']",Pam's HarvestCraft,10134
 harvestcraft:steakandchipsitem,6.0,1,4,1.2,Steak and Chips,['ore:foodSteakandchips'],Pam's HarvestCraft,10389
-harvestcraft:steakfajitaitem,11.0,1,9,1.2,Steak Fajita,['ore:foodSteakfajita'],Pam's HarvestCraft,10526
+harvestcraft:steakfajitaitem,9.0,1,9,1.2,Steak Fajita,['ore:foodSteakfajita'],Pam's HarvestCraft,10526
 harvestcraft:steaktartareitem,5.0,1,6,1.2,Steak Tartare,['ore:foodSteaktartare'],Pam's HarvestCraft,10594
-harvestcraft:steamedpeasitem,6.0,1,2,1.2,Steamed Peas,['ore:foodSteamedpeas'],Pam's HarvestCraft,10099
-harvestcraft:steamedspinachitem,5.0,1,2,1.2,Steamed Spinach,['ore:foodSteamedspinach'],Pam's HarvestCraft,10348
+harvestcraft:steamedpeasitem,4.0,1,2,1.2,Steamed Peas,['ore:foodSteamedpeas'],Pam's HarvestCraft,10099
+harvestcraft:steamedspinachitem,3.0,1,2,1.2,Steamed Spinach,['ore:foodSteamedspinach'],Pam's HarvestCraft,10348
 harvestcraft:stockitem,2.0,1,2,1.2,Stock,['ore:foodStock'],Pam's HarvestCraft,10008
 harvestcraft:strawberrycupcakeitem,6.0,1,8,1.2,Strawberry Cupcake,['ore:foodStrawberrycupcake'],Pam's HarvestCraft,10629
 harvestcraft:strawberryicecreamitem,6.0,1,4,1.2,Strawberry Ice Cream,['ore:foodStrawberryicecream'],Pam's HarvestCraft,10269
@@ -1148,12 +1147,12 @@ harvestcraft:sweetandsourchickenitem,8.0,1,8,1.2,Sweet and Sour Chicken,['ore:fo
 harvestcraft:sweetandsourmeatballsitem,9.0,1,6,1.2,Sweet and Sour Meatballs,['ore:foodSweetandsourmeatballs'],Pam's HarvestCraft,10540
 harvestcraft:sweetpickleitem,4.0,1,6,1.2,Sweet Pickle,"['ore:foodPickles', 'ore:foodSweetpickle']",Pam's HarvestCraft,10425
 harvestcraft:sweetpotatoitem,1.0,1,1,0.6,Sweet Potato,"['ore:cropSweetpotato', 'ore:foodVegetable', 'ore:listAllrootveggie', 'ore:listAllveggie']",Pam's HarvestCraft,9605
-harvestcraft:sweetpotatopieitem,10.0,1,9,1.2,Sweet Potato Pie,['ore:foodSweetpotatopie'],Pam's HarvestCraft,10096
+harvestcraft:sweetpotatopieitem,8.0,1,9,1.2,Sweet Potato Pie,['ore:foodSweetpotatopie'],Pam's HarvestCraft,10096
 harvestcraft:sweetpotatosouffleitem,5.0,1,7,1.2,Sweet Potato Souffle,['ore:foodSweetpotatosouffle'],Pam's HarvestCraft,10288
 harvestcraft:sweetteaitem,5.0,1,4,1.2,Sweet Tea,['ore:foodSweettea'],Pam's HarvestCraft,10467
 harvestcraft:szechuaneggplantitem,9.0,1,9,1.2,Szechuan Eggplant,['ore:foodSzechuaneggplant'],Pam's HarvestCraft,10595
-harvestcraft:tacoitem,10.0,1,8,1.2,Taco,['ore:foodTaco'],Pam's HarvestCraft,10029
-harvestcraft:taffyitem,6.0,1,2,1.2,Taffy,['ore:foodTaffy'],Pam's HarvestCraft,10000
+harvestcraft:tacoitem,8.0,1,8,1.2,Taco,['ore:foodTaco'],Pam's HarvestCraft,10029
+harvestcraft:taffyitem,4.0,1,2,1.2,Taffy,['ore:foodTaffy'],Pam's HarvestCraft,10000
 harvestcraft:taiyakiitem,8.0,1,5,1.2,Taiyaki,['ore:foodTaiyaki'],Pam's HarvestCraft,10673
 harvestcraft:takoyakiitem,9.0,1,10,1.2,Takoyaki,['ore:foodTakoyaki'],Pam's HarvestCraft,10751
 harvestcraft:tamarinditem,1.0,1,1,0.6,Tamarind,['ore:listAllveggie'],Pam's HarvestCraft,9855
@@ -1162,7 +1161,7 @@ harvestcraft:tatertotsitem,5.0,1,3,1.2,Tater Tots,['ore:foodTatertots'],Pam's Ha
 harvestcraft:teaitem,2.0,1,2,1.2,Cup of Tea,['ore:foodTea'],Pam's HarvestCraft,9931
 harvestcraft:tealeafitem,1.0,1,1,0.6,Tea Leaf,['ore:cropTea'],Pam's HarvestCraft,9619
 harvestcraft:teriyakichickenitem,7.0,1,8,1.2,Teriyaki Chicken,['ore:foodTeriyakichicken'],Pam's HarvestCraft,10496
-harvestcraft:thankfuldinneritem,29.0,1,24,1.2,Thankful Dinner,['ore:foodThankfuldinner'],Pam's HarvestCraft,10810
+harvestcraft:thankfuldinneritem,27.0,1,24,1.2,Thankful Dinner,['ore:foodThankfuldinner'],Pam's HarvestCraft,10810
 harvestcraft:theatreboxitem,10.0,1,7,1.2,Theatre Box,['ore:foodTheatrebox'],Pam's HarvestCraft,10499
 harvestcraft:threebeansaladitem,9.0,1,5,1.2,Three Bean Salad,['ore:foodThreebeansalad'],Pam's HarvestCraft,10539
 harvestcraft:tilapiarawitem,1.0,1,1,0.6,Raw Tilapia,"['ore:fish', 'ore:foodTilapiaraw', 'ore:listAllfishfresh', 'ore:listAllfishraw', 'ore:listAllmeatraw', 'ore:mulchNitrogen']",Pam's HarvestCraft,10855
@@ -1178,8 +1177,8 @@ harvestcraft:tomatilloitem,1.0,1,1,0.6,Tomatillo,"['ore:cropTomatillo', 'ore:lis
 harvestcraft:tomatoherbchickenitem,4.0,1,4,1.2,Tomato Herb Chicken,['ore:foodTomatoherbchicken'],Pam's HarvestCraft,10536
 harvestcraft:tomatoitem,1.0,1,1,0.6,Tomato,"['ore:cropTomato', 'ore:listAllveggie']",Pam's HarvestCraft,9659
 harvestcraft:tomatosoupitem,4.0,1,3,1.2,Tomato Soup,['ore:foodTomatosoup'],Pam's HarvestCraft,10012
-harvestcraft:tortillachipsitem,8.0,1,5,1.2,Tortilla Chips,['ore:foodTortillachips'],Pam's HarvestCraft,10513
-harvestcraft:tortillaitem,5.0,1,3,1.2,Tortilla,['ore:foodTortilla'],Pam's HarvestCraft,10027
+harvestcraft:tortillachipsitem,6.0,1,5,1.2,Tortilla Chips,['ore:foodTortillachips'],Pam's HarvestCraft,10513
+harvestcraft:tortillaitem,3.0,1,3,1.2,Tortilla,['ore:foodTortilla'],Pam's HarvestCraft,10027
 harvestcraft:trailmixitem,4.0,1,4,1.2,Trail Mix,['ore:foodTrailmix'],Pam's HarvestCraft,10037
 harvestcraft:troutrawitem,1.0,1,1,0.6,Raw Trout,"['ore:fish', 'ore:foodTroutraw', 'ore:listAllfishfresh', 'ore:listAllfishraw', 'ore:listAllmeatraw', 'ore:mulchNitrogen']",Pam's HarvestCraft,10856
 harvestcraft:tunafishsandwichitem,5.0,1,10,1.2,Tunafish Sandwich,['ore:foodTunafishsandwich'],Pam's HarvestCraft,10743
@@ -1189,7 +1188,7 @@ harvestcraft:tunarawitem,1.0,1,1,0.6,Raw Tuna,"['ore:fish', 'ore:foodTunaraw', '
 harvestcraft:tunasaladitem,6.0,1,9,1.2,Tuna Salad,['ore:foodTunasalad'],Pam's HarvestCraft,10505
 harvestcraft:turkeycookeditem,2.0,1,2,1.2,Cooked Turkey,"['ore:foodTurkeycooked', 'ore:listAllmeatcooked', 'ore:listAllturkeycooked']",Pam's HarvestCraft,10377
 harvestcraft:turkeyrawitem,1.0,1,1,1.2,Raw Turkey,"['ore:foodTurkeyraw', 'ore:listAllmeatraw', 'ore:listAllturkeyraw', 'ore:mulchNitrogen']",Pam's HarvestCraft,10376
-harvestcraft:turkishdelightitem,8.0,1,5,1.2,Turkish Delight,['ore:foodTurkishdelight'],Pam's HarvestCraft,10497
+harvestcraft:turkishdelightitem,6.0,1,5,1.2,Turkish Delight,['ore:foodTurkishdelight'],Pam's HarvestCraft,10497
 harvestcraft:turnipitem,1.0,1,1,0.6,Turnip,"['ore:cropTurnip', 'ore:foodVegetable', 'ore:listAllrootveggie', 'ore:listAllveggie']",Pam's HarvestCraft,9607
 harvestcraft:turnipsoupitem,6.0,1,6,1.2,Turnip Soup,['ore:foodTurnipsoup'],Pam's HarvestCraft,10103
 harvestcraft:turtlecookeditem,2.0,1,2,1.2,Cooked Turtle,['ore:foodTurtlecooked'],Pam's HarvestCraft,10358
@@ -1199,8 +1198,8 @@ harvestcraft:vanillaconchasbreaditem,5.0,1,7,1.2,Vanilla Conchas Bread,['ore:foo
 harvestcraft:vanillacupcakeitem,6.0,1,8,1.2,Vanilla Cupcake,['ore:foodVanillacupcake'],Pam's HarvestCraft,10622
 harvestcraft:vanillaicecreamitem,6.0,1,4,1.2,Vanilla Ice Cream,['ore:foodVanillaicecream'],Pam's HarvestCraft,10270
 harvestcraft:vanillayogurtitem,3.0,1,2,1.2,Vanilla Yogurt,"['ore:foodVanillayogurt', 'ore:listAllyogurt']",Pam's HarvestCraft,10163
-harvestcraft:vegemiteitem,7.0,1,4,1.2,Vegemite,['ore:foodVegemite'],Pam's HarvestCraft,10335
-harvestcraft:vegemiteontoastitem,11.0,1,5,1.2,Vegemite on Toast,['ore:foodVegemiteontoast'],Pam's HarvestCraft,10349
+harvestcraft:vegemiteitem,5.0,1,4,1.2,Vegemite,['ore:foodVegemite'],Pam's HarvestCraft,10335
+harvestcraft:vegemiteontoastitem,9.0,1,5,1.2,Vegemite on Toast,['ore:foodVegemiteontoast'],Pam's HarvestCraft,10349
 harvestcraft:vegetablesoupitem,7.0,1,5,1.2,Vegetable Soup,['ore:foodVegetablesoup'],Pam's HarvestCraft,10007
 harvestcraft:vegetarianlettucewrapitem,4.0,1,3,1.2,Vegetarian Lettuce Wrap,['ore:foodVegetarianlettucewrap'],Pam's HarvestCraft,10047
 harvestcraft:veggiestirfryitem,6.0,1,5,1.2,Veggie Stirfry,['ore:foodVeggiestirfry'],Pam's HarvestCraft,10060
