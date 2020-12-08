@@ -2960,9 +2960,9 @@
         },
         {
             "name": "harvestcraft:cottonitem",
-            "hunger": 2,
-            "saturationModifier": 0.125,
-            "weight": 0.0
+            "hunger": 1,
+            "saturationModifier": 0.0,
+            "weight": 1.0
         },
         {
             "name": "harvestcraft:crabcookeditem",
@@ -7454,9 +7454,9 @@
         },
         {
             "name": "rats:cheese",
-            "hunger": 2,
-            "saturationModifier": 0.125,
-            "weight": 0.0
+            "hunger": 1,
+            "saturationModifier": 0.0,
+            "weight": 1.0
         },
         {
             "name": "rats:confit_byaldi",

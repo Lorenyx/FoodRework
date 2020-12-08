@@ -21,7 +21,28 @@ Multi-part foods should include total # of steps to get to that point.
 - "Availability" (?) Maybe somewhat arbitrary, but I think important to consider. Carminberries, hawthorne berries, aether berries grow ALL the time super fast, don't care about seasons. Super easy to get. Ptera wings, parasites, slime gummies, also very easy and not season restricted. Most food in the "Super Easy" availability should have some kind of downside or inefficiency, because otherwise a few stacks of them could largely compensate for other foods for lazy players.
 
 
-# Important
-Check "cropJackfruit" ore matching with harvestcraft:jackfruititem
+Make Smoothies/Drinks return more quantity
+Increase saturation for Smoothie vs Juice
 
-I think isFood brokee
+Fruit Juice x2
+Smoothie x3 decrease hunger to 1
+Soda x3
+nutButter x2
+grits 2h 2s
+nerf chowmein
+buff Shrimp quinoa
+Buff dairy/eggs
+
+nerf seed soup
+buff other soup
+
+
+Basically, items which wouldn't make much sense being so filling, if that makes any sense. You're increasing the quality and adding just a bit of matter to a tea, but it's still a tea
+so instead of just increasing the saturation and hunger value, we go horizontal, either with the well fed buff effect, more servings or new effects
+So it's actually quite complex and has to be looked at on a per-case level
+I'm currently implementing my recipes according to the registry of ID's from Harvescraft, basically how the items are listed in JEI
+I still need a modder to make a pull request for Advanced Mortars with liquid support for some specific recipes, but apart from those, I'm going one item at a time
+It's also important to note that even if a food item has a negligible difference in food value to its predecessor, its tooltip (morsel, snack, etc) indicates how long the duration of the well fed buff will last
+
+I think that for this kind of recipes, instead of increasing the food nutrition
+We should increase the amount of items it gives to 2-3

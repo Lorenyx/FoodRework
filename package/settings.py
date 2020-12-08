@@ -81,13 +81,17 @@ def init():
     queue = deque(FOODDICT.values())
     print('[=] Generating weights...')
     while len(queue):  # Continue until empty
+        print(len(queue))
         food = queue.popleft()
         value = food.generateWeight()
         if not value:
             queue.append(food)
 
-        # if len(queue) == 307:
-        #     break
+        if len(queue) == 305:
+            for x in queue:
+                print(x.recipe)
+            # print(queue)
+            break
 
 
     print('[=] Writing Override json...')

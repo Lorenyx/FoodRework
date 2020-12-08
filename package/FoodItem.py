@@ -15,7 +15,7 @@ class FoodItem:
     id: str # exmaple:food_item
     displayName: str
     hunger: int
-    saturation: float # (SM * 2 * H)
+    saturation: float # (SM * 2 * H) = S
     oredict: list # Ore Dict key for categories
     recipe: RecipeItem = None # Materials used to make item
     
@@ -33,11 +33,11 @@ class FoodItem:
 
 
     def __str__(self):
-        print(self.id)
+        return self.id
 
 
     def __repr__(self):
-        print(self.id)
+        return self.id
 
 
     def generateRecipe(self):
