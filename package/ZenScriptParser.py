@@ -1,29 +1,21 @@
-from os import stat
+from requests import get
 import re
 
 from dataclasses import dataclass, field
-from io import TextIOWrapper
 from collections import namedtuple
-
 from typing import NamedTuple, List
 
-from .config import MORSEL_PATTERN
-
-
-def zstrip(__src: str):
-    "Removes all newline and tab characters"
-    return __src.replace('\n', '').replace('\t', '')
+from .config import MORSEL_PATTERN, URL
 
 
 @dataclass
 class ZenScriptParser:
-    __file_name: str = 'ex_sartagine.zs'
-    zs_file: TextIOWrapper = field(init=False)
+    zs_file = field(init=False)
     morsels: List[NamedTuple] = field(init=False, default_factory=list)
     recipes: List[str] = field(init=False, default_factory=list)
 
     def __post_init__(self):
-        self.zs_file = open(self.__file_name)
+        self.zs_file = get()
 
     
     def parse_line(self, line: str):
