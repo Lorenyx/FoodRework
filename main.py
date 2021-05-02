@@ -1,8 +1,10 @@
-from package import settings
+import requests
 
-if __name__ == '__main__':
-    settings.init()
-    fd = settings.FOODDICT
-    food = fd['harvestcraft:zucchinifriesitem']
-    # harvestcraft:cookedtofurkeyitem
-    # harvestcraft:rawtofurkeyitem
+resp = requests.get('https://raw.githubusercontent.com/Rebirth-of-the-Night/Rebirth-Of-The-Night/master/scripts/ex_sartagine.zs')
+
+for line in resp.iter_lines(delimiter=b';\n'):
+    print(line)
+
+
+
+
